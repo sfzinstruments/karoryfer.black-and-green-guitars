@@ -1,0 +1,13 @@
+<region>
+group=2
+off_by=2
+amplitude_curvecc29=16
+sample=../Samples/green/fb/fb_bkg.wav
+
+<region>
+group=3
+off_by=3
+volume=9
+amplitude_curvecc29=17
+sample=../Samples/green/fb/fb_micro.wav
+

@@ -1,0 +1,231 @@
+<control>
+label_cc27=Release vol
+label_cc29=Feedback
+label_cc70=Muting
+
+//Vibrato controls
+label_cc101=Unison width
+label_cc102=Unison detune
+label_cc111=Guitar vibrato
+label_cc112=Violin vibrato
+label_cc113=Tailpiece vibrato
+label_cc114=Vibrato speed
+label_cc116=Vibrato delay
+label_cc117=Vibrato humanize
+label_cc118=Tailpiece bends
+
+set_cc27=31
+set_cc101=127
+set_cc114=40
+
+//Green
+
+<global>
+#include "modules/controls/vibrato_g_c.sfz"
+ampeg_release=0.25
+ampeg_attack=0.01
+bend_smooth=40
+pan_oncc101=100
+tune_cc102=-5
+volume=2 //Even things out a bit because black is louder
+
+//Center voice - might add unison later
+//So far poly only, might add mono mode later but probably not
+//If doing that remember to start groups at 4 because 1-3 are used for feedback
+
+<master>
+#include "modules/controls/env.sfz"
+hicc118=63
+#include "modules/maps_green/ord.sfz"
+
+<master>
+#include "modules/controls/env.sfz"
+locc118=64
+#include "modules/maps_green/ord_tp.sfz"
+
+//Foodback
+//Yes, foodback
+//I still think it's funny
+//Not for staccato notes
+
+//Pitched component
+<master>
+locc29=1
+amplitude_cc29=100
+amp_veltrack=0
+ampeg_releasecc29=0.5
+ampeg_attack_shape=3.7
+
+//Pitched component
+volume=-36 
+amplitude_curvecc29=15
+amplitude_smoothcc29=110
+seq_length=1
+ampeg_attack=12
+ampeg_attackcc29=-11
+group=1
+off_by=1
+
+<group>
+hicc118=63
+#include "modules/maps_green/feedback_pitched.sfz"
+
+<group>
+locc118=64
+#include "modules/maps_green/feedback_pitched_tp.sfz"
+
+
+//Background noise and microphonic feedback
+<master>
+locc29=1
+amplitude_cc29=100
+amp_veltrack=0
+ampeg_releasecc29=0.5
+ampeg_attack_shape=3.7
+volume=0
+lokey=40
+hikey=86
+locc29=1
+loop_mode=loop_continuous
+ampeg_attack=11.7
+ampeg_attackcc29=-11
+ampeg_releasecc29=0.5
+pitch_keytrack=0
+amplitude_smoothcc29=80
+//Not affected by pitch bends or vibrato
+bend_down=0
+bend_up=0
+lfo01_pitch_oncc112=0
+lfo04_pitch_oncc117=0
+lfo03_pitch_oncc117=0
+
+<group>
+#include "modules/maps_green/feedback_noise.sfz"
+
+//Releases
+
+<master>
+trigger=release
+locc27=1
+ampeg_attack=0.03
+amplitude_cc27=100
+lfo01_pitch_oncc112=0 //Pitch bends yes, vibrato no
+lfo04_pitch_oncc117=0
+lfo03_pitch_oncc117=0
+<group>
+hicc29=0 //Active only when feedback control is not moved up
+#include "modules/maps_green/rel_tp.sfz"
+<group>
+volume=-12
+locc29=1 //Active only when feedback control is up, no rt_decay here
+#include "modules/maps_green/rel_nodecay_tp.sfz"
+
+//Black
+
+<global>
+#include "modules/controls/vibrato_c.sfz"
+ampeg_release=0.25
+ampeg_attack=0.01
+bend_smooth=40
+pan_oncc101=-100
+tune_cc102=5
+
+//Center voice
+//So far poly only, might add mono mode later but probably not
+//If doing that remember to start groups at 4 because 1-3 are used for feedback
+
+<master>
+#include "modules/controls/env.sfz"
+hicc118=63
+#include "modules/maps_black/ord.sfz"
+
+<master>
+#include "modules/controls/env.sfz"
+locc118=64
+#include "modules/maps_black/ord_tp.sfz"
+
+
+//No unison for foodback and releases
+
+//Foodback
+//Yes, foodback
+//I still think it's funny
+//Not for staccato notes
+
+//Pitched component
+<master>
+locc29=1
+amplitude_cc29=100
+amp_veltrack=0
+ampeg_releasecc29=0.5
+ampeg_attack_shape=3.7
+
+//Pitched component
+volume=-36 
+amplitude_curvecc29=15
+amplitude_smoothcc29=110
+seq_length=1
+ampeg_attack=12
+ampeg_attackcc29=-11
+group=4
+off_by=4
+
+<group>
+hicc118=63
+#include "modules/maps_black/feedback_pitched.sfz"
+
+<group>
+locc118=64
+#include "modules/maps_black/feedback_pitched_tp.sfz"
+
+
+
+//Background noise and microphonic feedback
+<master>
+locc29=1
+amplitude_cc29=100
+amp_veltrack=0
+ampeg_releasecc29=0.5
+ampeg_attack_shape=3.7
+volume=0
+lokey=40
+locc29=1
+loop_mode=loop_continuous
+ampeg_attack=11.7
+ampeg_attackcc29=-11
+ampeg_releasecc29=0.5
+pitch_keytrack=0
+amplitude_smoothcc29=80
+//Not affected by pitch bends or vibrato
+bend_down=0
+bend_up=0
+lfo01_pitch_oncc112=0
+lfo04_pitch_oncc117=0
+lfo03_pitch_oncc117=0
+
+<group>
+hikey=86
+#include "modules/maps_black/feedback_noise.sfz"
+
+
+//Releases
+
+<master>
+trigger=release
+locc27=1
+ampeg_attack=0.03
+amplitude_cc27=100
+lfo01_pitch_oncc112=0 //Pitch bends yes, vibrato no
+lfo04_pitch_oncc117=0
+lfo03_pitch_oncc117=0
+<group>
+hicc29=0 //Active only when feedback control is not moved up
+#include "modules/maps_black/rel_tp.sfz"
+<group>
+volume=-12
+locc29=1 //Active only when feedback control is up, no rt_decay here
+#include "modules/maps_black/rel_nodecay_tp.sfz"
+
+
+//Muting and foodback curves
+#include "modules/controls/curves.sfz"

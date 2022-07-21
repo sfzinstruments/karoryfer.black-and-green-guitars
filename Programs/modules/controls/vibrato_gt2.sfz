@@ -1,0 +1,43 @@
+//Global vibrato and pitch bend stuff
+
+bend_up=270 //Bends up to a minor third for any string including open notes, to keep it simple
+bend_down=270 //Bends are up only
+lfo02_pitch_oncc111=93 //Guitar vibrato depth, same across all strings to keep it simple
+pitcheg_depth_oncc111=93
+
+//First LFO controls violin-style vibrato
+
+lfo01_pitch_oncc112=60 //Violiny vibrato depth pretty shallow, same for all strings
+lfo01_freq=0.55
+lfo01_freq_oncc114=6.2
+lfo01_delay_oncc116=1.2
+
+//Second LFO controls string bend and tailpiece vibrato
+//Depths are set in the mappings and differ note to note
+//But we do stick a curve on it, to make it narrower than what we can do with the pitch wheel
+lfo02_freq=0.55
+lfo02_freq_oncc114=6.2
+lfo02_phase=0.75 //To make it start at the bottom
+lfo02_delay_oncc116=1.2
+pitcheg_delay_oncc116=1.2 //Pitch envelope to raise the central pitch when guitar vibrato kicks in
+//And lowers it when tailpiece vibrato kicks in
+//The depth of the envelope is the same as the string bend depth, and is set per note
+
+lfo03_wave=1 //Third LFO to make things wobblier
+lfo03_phase=0.673
+lfo03_phase_oncc131=1 //Pseudo-random based on velocity
+lfo03_freq=0.01 //Basically no movement at very slow speeds, just randomization
+lfo03_freq_oncc117=1 //Max rate is not very high, so it doesn't sound too obvious
+lfo03_pitch_oncc117=5 //Slight pitch wobbliness
+lfo03_freq_lfo01_oncc117=1.3 //Affect the rate of the other LFOs for unsteady vibrato
+lfo03_freq_lfo02_oncc117=1.3
+lfo03_freq_lfo03_oncc117=1.3
+
+lfo04_wave=1 //And a fourth LFO for secondhand complex wobbliness
+lfo04_phase=0.271
+lfo04_phase_oncc131=2.359 //Pseudo-random, but different
+lfo04_freq=0.55
+lfo04_freq_oncc117=-0.42
+lfo04_freq_oncc136=0.11 //And a bit more randomization
+lfo04_freq_lfo3_oncc117=1
+lfo04_pitch_oncc117=5
