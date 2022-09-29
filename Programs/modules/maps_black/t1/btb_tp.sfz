@@ -1,6 +1,6 @@
 
 <region>
-sample=../Samples/black/btb/btb_f3_rr1.wav
+sample=../Samples/black/btb/btb_f3_rr1.flac
 lokey=40
 hikey=40
 seq_length=2
@@ -10,7 +10,7 @@ bend_down=-201
 lfo02_pitch_oncc113=89
 
 <region>
-sample=../Samples/black/btb/btb_f3_rr2.wav
+sample=../Samples/black/btb/btb_f3_rr2.flac
 lokey=40
 hikey=40
 seq_length=2
@@ -21,7 +21,7 @@ bend_down=-201
 lfo02_pitch_oncc113=89
 
 <region>
-sample=../Samples/black/btb/btb_gb3_rr1.wav
+sample=../Samples/black/btb/btb_gb3_rr1.flac
 lokey=41
 hikey=41
 seq_length=2
@@ -31,7 +31,7 @@ bend_down=-201
 lfo02_pitch_oncc113=89
 
 <region>
-sample=../Samples/black/btb/btb_gb3_rr2.wav
+sample=../Samples/black/btb/btb_gb3_rr2.flac
 lokey=41
 hikey=41
 seq_length=2
@@ -42,7 +42,7 @@ bend_down=-201
 lfo02_pitch_oncc113=89
 
 <region>
-sample=../Samples/black/btb/btb_g3_rr1.wav
+sample=../Samples/black/btb/btb_g3_rr1.flac
 lokey=42
 hikey=42
 seq_length=2
@@ -52,7 +52,7 @@ bend_down=-201
 lfo02_pitch_oncc113=89
 
 <region>
-sample=../Samples/black/btb/btb_g3_rr2.wav
+sample=../Samples/black/btb/btb_g3_rr2.flac
 lokey=42
 hikey=42
 seq_length=2
@@ -63,7 +63,7 @@ bend_down=-201
 lfo02_pitch_oncc113=89
 
 <region>
-sample=../Samples/black/btb/btb_ab3_rr1.wav
+sample=../Samples/black/btb/btb_ab3_rr1.flac
 lokey=43
 hikey=43
 seq_length=2
@@ -73,7 +73,7 @@ bend_down=-201
 lfo02_pitch_oncc113=89
 
 <region>
-sample=../Samples/black/btb/btb_ab3_rr2.wav
+sample=../Samples/black/btb/btb_ab3_rr2.flac
 lokey=43
 hikey=43
 seq_length=2
@@ -84,7 +84,7 @@ bend_down=-201
 lfo02_pitch_oncc113=89
 
 <region>
-sample=../Samples/black/btb/btb_a3_rr1.wav
+sample=../Samples/black/btb/btb_a3_rr1.flac
 lokey=44
 hikey=44
 seq_length=2
@@ -94,7 +94,7 @@ bend_down=-133
 lfo02_pitch_oncc113=59
 
 <region>
-sample=../Samples/black/btb/btb_a3_rr2.wav
+sample=../Samples/black/btb/btb_a3_rr2.flac
 lokey=44
 hikey=44
 seq_length=2
@@ -105,7 +105,7 @@ bend_down=-133
 lfo02_pitch_oncc113=59
 
 <region>
-sample=../Samples/black/btb/btb_bb3_rr1.wav
+sample=../Samples/black/btb/btb_bb3_rr1.flac
 lokey=45
 hikey=45
 seq_length=2
@@ -115,7 +115,7 @@ bend_down=-133
 lfo02_pitch_oncc113=59
 
 <region>
-sample=../Samples/black/btb/btb_bb3_rr2.wav
+sample=../Samples/black/btb/btb_bb3_rr2.flac
 lokey=45
 hikey=45
 seq_length=2
@@ -126,7 +126,7 @@ bend_down=-133
 lfo02_pitch_oncc113=59
 
 <region>
-sample=../Samples/black/btb/btb_b3_rr1.wav
+sample=../Samples/black/btb/btb_b3_rr1.flac
 lokey=46
 hikey=46
 seq_length=2
@@ -136,7 +136,7 @@ bend_down=-133
 lfo02_pitch_oncc113=59
 
 <region>
-sample=../Samples/black/btb/btb_b3_rr2.wav
+sample=../Samples/black/btb/btb_b3_rr2.flac
 lokey=46
 hikey=46
 seq_length=2
@@ -147,7 +147,7 @@ bend_down=-133
 lfo02_pitch_oncc113=59
 
 <region>
-sample=../Samples/black/btb/btb_c4_rr1.wav
+sample=../Samples/black/btb/btb_c4_rr1.flac
 lokey=47
 hikey=47
 seq_length=2
@@ -157,7 +157,7 @@ bend_down=-133
 lfo02_pitch_oncc113=59
 
 <region>
-sample=../Samples/black/btb/btb_c4_rr2.wav
+sample=../Samples/black/btb/btb_c4_rr2.flac
 lokey=47
 hikey=47
 seq_length=2
@@ -168,7 +168,7 @@ bend_down=-133
 lfo02_pitch_oncc113=59
 
 <region>
-sample=../Samples/black/btb/btb_db4_rr1.wav
+sample=../Samples/black/btb/btb_db4_rr1.flac
 lokey=48
 hikey=48
 seq_length=2
@@ -178,7 +178,7 @@ bend_down=-133
 lfo02_pitch_oncc113=59
 
 <region>
-sample=../Samples/black/btb/btb_db4_rr2.wav
+sample=../Samples/black/btb/btb_db4_rr2.flac
 lokey=48
 hikey=48
 seq_length=2
@@ -189,7 +189,7 @@ bend_down=-133
 lfo02_pitch_oncc113=59
 
 <region>
-sample=../Samples/black/btb/btb_d4_rr1.wav
+sample=../Samples/black/btb/btb_d4_rr1.flac
 lokey=49
 hikey=49
 seq_length=2
@@ -199,7 +199,7 @@ bend_down=-155
 lfo02_pitch_oncc113=69
 
 <region>
-sample=../Samples/black/btb/btb_d4_rr2.wav
+sample=../Samples/black/btb/btb_d4_rr2.flac
 lokey=49
 hikey=49
 seq_length=2
@@ -210,7 +210,7 @@ bend_down=-155
 lfo02_pitch_oncc113=69
 
 <region>
-sample=../Samples/black/btb/btb_eb4_rr1.wav
+sample=../Samples/black/btb/btb_eb4_rr1.flac
 lokey=50
 hikey=50
 seq_length=2
@@ -220,7 +220,7 @@ bend_down=-155
 lfo02_pitch_oncc113=69
 
 <region>
-sample=../Samples/black/btb/btb_eb4_rr2.wav
+sample=../Samples/black/btb/btb_eb4_rr2.flac
 lokey=50
 hikey=50
 seq_length=2
@@ -231,7 +231,7 @@ bend_down=-155
 lfo02_pitch_oncc113=69
 
 <region>
-sample=../Samples/black/btb/btb_e4_rr1.wav
+sample=../Samples/black/btb/btb_e4_rr1.flac
 lokey=51
 hikey=51
 seq_length=2
@@ -241,7 +241,7 @@ bend_down=-155
 lfo02_pitch_oncc113=69
 
 <region>
-sample=../Samples/black/btb/btb_e4_rr2.wav
+sample=../Samples/black/btb/btb_e4_rr2.flac
 lokey=51
 hikey=51
 seq_length=2
@@ -252,7 +252,7 @@ bend_down=-155
 lfo02_pitch_oncc113=69
 
 <region>
-sample=../Samples/black/btb/btb_f4_rr1.wav
+sample=../Samples/black/btb/btb_f4_rr1.flac
 lokey=52
 hikey=52
 seq_length=2
@@ -262,7 +262,7 @@ bend_down=-155
 lfo02_pitch_oncc113=69
 
 <region>
-sample=../Samples/black/btb/btb_f4_rr2.wav
+sample=../Samples/black/btb/btb_f4_rr2.flac
 lokey=52
 hikey=52
 seq_length=2
@@ -273,7 +273,7 @@ bend_down=-155
 lfo02_pitch_oncc113=69
 
 <region>
-sample=../Samples/black/btb/btb_gb4_rr1.wav
+sample=../Samples/black/btb/btb_gb4_rr1.flac
 lokey=53
 hikey=53
 seq_length=2
@@ -283,7 +283,7 @@ bend_down=-155
 lfo02_pitch_oncc113=69
 
 <region>
-sample=../Samples/black/btb/btb_gb4_rr2.wav
+sample=../Samples/black/btb/btb_gb4_rr2.flac
 lokey=53
 hikey=53
 seq_length=2
@@ -294,7 +294,7 @@ bend_down=-155
 lfo02_pitch_oncc113=69
 
 <region>
-sample=../Samples/black/btb/btb_g4_rr1.wav
+sample=../Samples/black/btb/btb_g4_rr1.flac
 lokey=54
 hikey=54
 seq_length=2
@@ -304,7 +304,7 @@ bend_down=-144
 lfo02_pitch_oncc113=64
 
 <region>
-sample=../Samples/black/btb/btb_g4_rr2.wav
+sample=../Samples/black/btb/btb_g4_rr2.flac
 lokey=54
 hikey=54
 seq_length=2
@@ -315,7 +315,7 @@ bend_down=-144
 lfo02_pitch_oncc113=64
 
 <region>
-sample=../Samples/black/btb/btb_ab4_rr1.wav
+sample=../Samples/black/btb/btb_ab4_rr1.flac
 lokey=55
 hikey=55
 seq_length=2
@@ -325,7 +325,7 @@ bend_down=-144
 lfo02_pitch_oncc113=64
 
 <region>
-sample=../Samples/black/btb/btb_ab4_rr2.wav
+sample=../Samples/black/btb/btb_ab4_rr2.flac
 lokey=55
 hikey=55
 seq_length=2
@@ -336,7 +336,7 @@ bend_down=-144
 lfo02_pitch_oncc113=64
 
 <region>
-sample=../Samples/black/btb/btb_a4_rr1.wav
+sample=../Samples/black/btb/btb_a4_rr1.flac
 lokey=56
 hikey=56
 seq_length=2
@@ -346,7 +346,7 @@ bend_down=-144
 lfo02_pitch_oncc113=64
 
 <region>
-sample=../Samples/black/btb/btb_a4_rr2.wav
+sample=../Samples/black/btb/btb_a4_rr2.flac
 lokey=56
 hikey=56
 seq_length=2
@@ -357,7 +357,7 @@ bend_down=-144
 lfo02_pitch_oncc113=64
 
 <region>
-sample=../Samples/black/btb/btb_bb4_rr1.wav
+sample=../Samples/black/btb/btb_bb4_rr1.flac
 lokey=57
 hikey=57
 seq_length=2
@@ -367,7 +367,7 @@ bend_down=-144
 lfo02_pitch_oncc113=64
 
 <region>
-sample=../Samples/black/btb/btb_bb4_rr2.wav
+sample=../Samples/black/btb/btb_bb4_rr2.flac
 lokey=57
 hikey=57
 seq_length=2
@@ -378,7 +378,7 @@ bend_down=-144
 lfo02_pitch_oncc113=64
 
 <region>
-sample=../Samples/black/btb/btb_b4_rr1.wav
+sample=../Samples/black/btb/btb_b4_rr1.flac
 lokey=58
 hikey=58
 seq_length=2
@@ -388,7 +388,7 @@ bend_down=-119
 lfo02_pitch_oncc113=53
 
 <region>
-sample=../Samples/black/btb/btb_b4_rr2.wav
+sample=../Samples/black/btb/btb_b4_rr2.flac
 lokey=58
 hikey=58
 seq_length=2
@@ -399,7 +399,7 @@ bend_down=-119
 lfo02_pitch_oncc113=53
 
 <region>
-sample=../Samples/black/btb/btb_c5_rr1.wav
+sample=../Samples/black/btb/btb_c5_rr1.flac
 lokey=59
 hikey=59
 seq_length=2
@@ -408,7 +408,7 @@ bend_down=-119
 lfo02_pitch_oncc113=53
 
 <region>
-sample=../Samples/black/btb/btb_c5_rr2.wav
+sample=../Samples/black/btb/btb_c5_rr2.flac
 lokey=59
 hikey=59
 seq_length=2
@@ -418,7 +418,7 @@ bend_down=-119
 lfo02_pitch_oncc113=53
 
 <region>
-sample=../Samples/black/btb/btb_db5_rr1.wav
+sample=../Samples/black/btb/btb_db5_rr1.flac
 lokey=60
 hikey=60
 seq_length=2
@@ -428,7 +428,7 @@ bend_down=-119
 lfo02_pitch_oncc113=53
 
 <region>
-sample=../Samples/black/btb/btb_db5_rr2.wav
+sample=../Samples/black/btb/btb_db5_rr2.flac
 lokey=60
 hikey=60
 seq_length=2
@@ -439,7 +439,7 @@ bend_down=-119
 lfo02_pitch_oncc113=53
 
 <region>
-sample=../Samples/black/btb/btb_d5_rr1.wav
+sample=../Samples/black/btb/btb_d5_rr1.flac
 lokey=61
 hikey=61
 seq_length=2
@@ -449,7 +449,7 @@ bend_down=-119
 lfo02_pitch_oncc113=53
 
 <region>
-sample=../Samples/black/btb/btb_d5_rr2.wav
+sample=../Samples/black/btb/btb_d5_rr2.flac
 lokey=61
 hikey=61
 seq_length=2
@@ -460,7 +460,7 @@ bend_down=-119
 lfo02_pitch_oncc113=53
 
 <region>
-sample=../Samples/black/btb/btb_eb5_rr1.wav
+sample=../Samples/black/btb/btb_eb5_rr1.flac
 lokey=62
 hikey=62
 seq_length=2
@@ -470,7 +470,7 @@ bend_down=-119
 lfo02_pitch_oncc113=53
 
 <region>
-sample=../Samples/black/btb/btb_eb5_rr2.wav
+sample=../Samples/black/btb/btb_eb5_rr2.flac
 lokey=62
 hikey=62
 seq_length=2
@@ -481,7 +481,7 @@ bend_down=-119
 lfo02_pitch_oncc113=53
 
 <region>
-sample=../Samples/black/btb/btb_e5_rr1.wav
+sample=../Samples/black/btb/btb_e5_rr1.flac
 lokey=63
 hikey=63
 seq_length=2
@@ -491,7 +491,7 @@ bend_down=-81
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/black/btb/btb_e5_rr2.wav
+sample=../Samples/black/btb/btb_e5_rr2.flac
 lokey=63
 hikey=63
 seq_length=2
@@ -502,7 +502,7 @@ bend_down=-81
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/black/btb/btb_f5_rr1.wav
+sample=../Samples/black/btb/btb_f5_rr1.flac
 lokey=64
 hikey=64
 seq_length=2
@@ -512,7 +512,7 @@ bend_down=-81
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/black/btb/btb_f5_rr2.wav
+sample=../Samples/black/btb/btb_f5_rr2.flac
 lokey=64
 hikey=64
 seq_length=2
@@ -523,7 +523,7 @@ bend_down=-81
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/black/btb/btb_gb5_rr1.wav
+sample=../Samples/black/btb/btb_gb5_rr1.flac
 lokey=65
 hikey=65
 seq_length=2
@@ -533,7 +533,7 @@ bend_down=-81
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/black/btb/btb_gb5_rr2.wav
+sample=../Samples/black/btb/btb_gb5_rr2.flac
 lokey=65
 hikey=65
 seq_length=2
@@ -544,7 +544,7 @@ bend_down=-81
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/black/btb/btb_g5_rr1.wav
+sample=../Samples/black/btb/btb_g5_rr1.flac
 lokey=66
 hikey=66
 seq_length=2
@@ -554,7 +554,7 @@ bend_down=-81
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/black/btb/btb_g5_rr2.wav
+sample=../Samples/black/btb/btb_g5_rr2.flac
 lokey=66
 hikey=66
 seq_length=2
@@ -565,7 +565,7 @@ bend_down=-81
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/black/btb/btb_ab5_rr1.wav
+sample=../Samples/black/btb/btb_ab5_rr1.flac
 lokey=67
 hikey=67
 seq_length=2
@@ -575,7 +575,7 @@ bend_down=-81
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/black/btb/btb_ab5_rr2.wav
+sample=../Samples/black/btb/btb_ab5_rr2.flac
 lokey=67
 hikey=67
 seq_length=2
@@ -586,7 +586,7 @@ bend_down=-81
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/black/btb/btb_a5_rr1.wav
+sample=../Samples/black/btb/btb_a5_rr1.flac
 lokey=68
 hikey=68
 seq_length=2
@@ -596,7 +596,7 @@ bend_down=-79
 lfo02_pitch_oncc113=35
 
 <region>
-sample=../Samples/black/btb/btb_a5_rr2.wav
+sample=../Samples/black/btb/btb_a5_rr2.flac
 lokey=68
 hikey=68
 seq_length=2
@@ -607,7 +607,7 @@ bend_down=-79
 lfo02_pitch_oncc113=35
 
 <region>
-sample=../Samples/black/btb/btb_bb5_rr1.wav
+sample=../Samples/black/btb/btb_bb5_rr1.flac
 lokey=69
 hikey=69
 seq_length=2
@@ -617,7 +617,7 @@ bend_down=-77
 lfo02_pitch_oncc113=34
 
 <region>
-sample=../Samples/black/btb/btb_bb5_rr2.wav
+sample=../Samples/black/btb/btb_bb5_rr2.flac
 lokey=69
 hikey=69
 seq_length=2
@@ -628,7 +628,7 @@ bend_down=-77
 lfo02_pitch_oncc113=34
 
 <region>
-sample=../Samples/black/btb/btb_bb5_rr1.wav
+sample=../Samples/black/btb/btb_bb5_rr1.flac
 lokey=72
 hikey=72
 seq_length=2
@@ -638,7 +638,7 @@ bend_down=-77
 lfo02_pitch_oncc113=34
 
 <region>
-sample=../Samples/black/btb/btb_bb5_rr2.wav
+sample=../Samples/black/btb/btb_bb5_rr2.flac
 lokey=72
 hikey=72
 seq_length=2
@@ -649,7 +649,7 @@ bend_down=-77
 lfo02_pitch_oncc113=34
 
 <region>
-sample=../Samples/black/btb/btb_b5_rr1.wav
+sample=../Samples/black/btb/btb_b5_rr1.flac
 lokey=70
 hikey=70
 seq_length=2
@@ -659,7 +659,7 @@ bend_down=-74
 lfo02_pitch_oncc113=33
 
 <region>
-sample=../Samples/black/btb/btb_b5_rr2.wav
+sample=../Samples/black/btb/btb_b5_rr2.flac
 lokey=70
 hikey=70
 seq_length=2
@@ -670,7 +670,7 @@ bend_down=-74
 lfo02_pitch_oncc113=33
 
 <region>
-sample=../Samples/black/btb/btb_c6_rr1.wav
+sample=../Samples/black/btb/btb_c6_rr1.flac
 lokey=71
 hikey=71
 seq_length=2
@@ -680,7 +680,7 @@ bend_down=-72
 lfo02_pitch_oncc113=32
 
 <region>
-sample=../Samples/black/btb/btb_c6_rr2.wav
+sample=../Samples/black/btb/btb_c6_rr2.flac
 lokey=71
 hikey=71
 seq_length=2

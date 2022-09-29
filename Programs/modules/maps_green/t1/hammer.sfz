@@ -1,6 +1,6 @@
 
 <region>
-sample=../Samples/green/hammer/hammer_f3_rr2.wav
+sample=../Samples/green/hammer/hammer_f3_rr2.flac
 lokey=40
 hikey=40
 seq_length=2
@@ -9,7 +9,7 @@ pitch_keycenter=41
 lfo02_pitch_oncc113=92
 
 <region>
-sample=../Samples/green/hammer/hammer_f3_rr1.wav
+sample=../Samples/green/hammer/hammer_f3_rr1.flac
 lokey=40
 hikey=40
 seq_length=2
@@ -17,7 +17,7 @@ pitch_keycenter=41
 lfo02_pitch_oncc113=92
 
 <region>
-sample=../Samples/green/hammer/hammer_gb3_rr2.wav
+sample=../Samples/green/hammer/hammer_gb3_rr2.flac
 lokey=41
 hikey=41
 seq_length=2
@@ -26,7 +26,7 @@ pitch_keycenter=42
 lfo02_pitch_oncc113=92
 
 <region>
-sample=../Samples/green/hammer/hammer_gb3_rr1.wav
+sample=../Samples/green/hammer/hammer_gb3_rr1.flac
 lokey=41
 hikey=41
 seq_length=2
@@ -34,7 +34,7 @@ pitch_keycenter=42
 lfo02_pitch_oncc113=92
 
 <region>
-sample=../Samples/green/hammer/hammer_g3_rr2.wav
+sample=../Samples/green/hammer/hammer_g3_rr2.flac
 lokey=42
 hikey=42
 seq_length=2
@@ -43,7 +43,7 @@ pitch_keycenter=43
 lfo02_pitch_oncc113=92
 
 <region>
-sample=../Samples/green/hammer/hammer_g3_rr1.wav
+sample=../Samples/green/hammer/hammer_g3_rr1.flac
 lokey=42
 hikey=42
 seq_length=2
@@ -51,7 +51,7 @@ pitch_keycenter=43
 lfo02_pitch_oncc113=92
 
 <region>
-sample=../Samples/green/hammer/hammer_ab3_rr2.wav
+sample=../Samples/green/hammer/hammer_ab3_rr2.flac
 lokey=43
 hikey=43
 seq_length=2
@@ -60,7 +60,7 @@ pitch_keycenter=44
 lfo02_pitch_oncc113=92
 
 <region>
-sample=../Samples/green/hammer/hammer_ab3_rr1.wav
+sample=../Samples/green/hammer/hammer_ab3_rr1.flac
 lokey=43
 hikey=43
 seq_length=2
@@ -68,7 +68,7 @@ pitch_keycenter=44
 lfo02_pitch_oncc113=92
 
 <region>
-sample=../Samples/green/hammer/hammer_a3_rr2.wav
+sample=../Samples/green/hammer/hammer_a3_rr2.flac
 lokey=44
 hikey=44
 seq_length=2
@@ -77,7 +77,7 @@ pitch_keycenter=45
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/hammer/hammer_a3_rr1.wav
+sample=../Samples/green/hammer/hammer_a3_rr1.flac
 lokey=44
 hikey=44
 seq_length=2
@@ -85,7 +85,7 @@ pitch_keycenter=45
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/hammer/hammer_bb3_rr2.wav
+sample=../Samples/green/hammer/hammer_bb3_rr2.flac
 lokey=45
 hikey=45
 seq_length=2
@@ -94,7 +94,7 @@ pitch_keycenter=46
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/hammer/hammer_bb3_rr1.wav
+sample=../Samples/green/hammer/hammer_bb3_rr1.flac
 lokey=45
 hikey=45
 seq_length=2
@@ -102,7 +102,7 @@ pitch_keycenter=46
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/hammer/hammer_b3_rr2.wav
+sample=../Samples/green/hammer/hammer_b3_rr2.flac
 lokey=46
 hikey=46
 seq_length=2
@@ -111,7 +111,7 @@ pitch_keycenter=47
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/hammer/hammer_b3_rr1.wav
+sample=../Samples/green/hammer/hammer_b3_rr1.flac
 lokey=46
 hikey=46
 seq_length=2
@@ -119,7 +119,7 @@ pitch_keycenter=47
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/hammer/hammer_c4_rr2.wav
+sample=../Samples/green/hammer/hammer_c4_rr2.flac
 lokey=47
 hikey=47
 seq_length=2
@@ -128,7 +128,7 @@ pitch_keycenter=48
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/hammer/hammer_c4_rr1.wav
+sample=../Samples/green/hammer/hammer_c4_rr1.flac
 lokey=47
 hikey=47
 seq_length=2
@@ -136,7 +136,7 @@ pitch_keycenter=48
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/hammer/hammer_db4_rr2.wav
+sample=../Samples/green/hammer/hammer_db4_rr2.flac
 lokey=48
 hikey=48
 seq_length=2
@@ -145,7 +145,7 @@ pitch_keycenter=49
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/hammer/hammer_db4_rr1.wav
+sample=../Samples/green/hammer/hammer_db4_rr1.flac
 lokey=48
 hikey=48
 seq_length=2
@@ -153,7 +153,7 @@ pitch_keycenter=49
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/hammer/hammer_d4_rr2.wav
+sample=../Samples/green/hammer/hammer_d4_rr2.flac
 lokey=49
 hikey=49
 seq_length=2
@@ -162,7 +162,7 @@ pitch_keycenter=50
 lfo02_pitch_oncc113=71
 
 <region>
-sample=../Samples/green/hammer/hammer_d4_rr1.wav
+sample=../Samples/green/hammer/hammer_d4_rr1.flac
 lokey=49
 hikey=49
 seq_length=2
@@ -170,7 +170,7 @@ pitch_keycenter=50
 lfo02_pitch_oncc113=71
 
 <region>
-sample=../Samples/green/hammer/hammer_eb4_rr2.wav
+sample=../Samples/green/hammer/hammer_eb4_rr2.flac
 lokey=50
 hikey=50
 seq_length=2
@@ -179,7 +179,7 @@ pitch_keycenter=51
 lfo02_pitch_oncc113=71
 
 <region>
-sample=../Samples/green/hammer/hammer_eb4_rr1.wav
+sample=../Samples/green/hammer/hammer_eb4_rr1.flac
 lokey=50
 hikey=50
 seq_length=2
@@ -187,7 +187,7 @@ pitch_keycenter=51
 lfo02_pitch_oncc113=71
 
 <region>
-sample=../Samples/green/hammer/hammer_e4_rr2.wav
+sample=../Samples/green/hammer/hammer_e4_rr2.flac
 lokey=51
 hikey=51
 seq_length=2
@@ -196,7 +196,7 @@ pitch_keycenter=52
 lfo02_pitch_oncc113=71
 
 <region>
-sample=../Samples/green/hammer/hammer_e4_rr1.wav
+sample=../Samples/green/hammer/hammer_e4_rr1.flac
 lokey=51
 hikey=51
 seq_length=2
@@ -204,7 +204,7 @@ pitch_keycenter=52
 lfo02_pitch_oncc113=71
 
 <region>
-sample=../Samples/green/hammer/hammer_f4_rr2.wav
+sample=../Samples/green/hammer/hammer_f4_rr2.flac
 lokey=52
 hikey=52
 seq_length=2
@@ -213,7 +213,7 @@ pitch_keycenter=53
 lfo02_pitch_oncc113=71
 
 <region>
-sample=../Samples/green/hammer/hammer_f4_rr1.wav
+sample=../Samples/green/hammer/hammer_f4_rr1.flac
 lokey=52
 hikey=52
 seq_length=2
@@ -221,7 +221,7 @@ pitch_keycenter=53
 lfo02_pitch_oncc113=71
 
 <region>
-sample=../Samples/green/hammer/hammer_gb4_rr2.wav
+sample=../Samples/green/hammer/hammer_gb4_rr2.flac
 lokey=53
 hikey=53
 seq_length=2
@@ -230,7 +230,7 @@ pitch_keycenter=54
 lfo02_pitch_oncc113=71
 
 <region>
-sample=../Samples/green/hammer/hammer_gb4_rr1.wav
+sample=../Samples/green/hammer/hammer_gb4_rr1.flac
 lokey=53
 hikey=53
 seq_length=2
@@ -238,7 +238,7 @@ pitch_keycenter=54
 lfo02_pitch_oncc113=71
 
 <region>
-sample=../Samples/green/hammer/hammer_g4_rr2.wav
+sample=../Samples/green/hammer/hammer_g4_rr2.flac
 lokey=54
 hikey=54
 seq_length=2
@@ -247,7 +247,7 @@ pitch_keycenter=55
 lfo02_pitch_oncc113=66
 
 <region>
-sample=../Samples/green/hammer/hammer_g4_rr1.wav
+sample=../Samples/green/hammer/hammer_g4_rr1.flac
 lokey=54
 hikey=54
 seq_length=2
@@ -255,7 +255,7 @@ pitch_keycenter=55
 lfo02_pitch_oncc113=66
 
 <region>
-sample=../Samples/green/hammer/hammer_ab4_rr2.wav
+sample=../Samples/green/hammer/hammer_ab4_rr2.flac
 lokey=55
 hikey=55
 seq_length=2
@@ -264,7 +264,7 @@ pitch_keycenter=56
 lfo02_pitch_oncc113=66
 
 <region>
-sample=../Samples/green/hammer/hammer_ab4_rr1.wav
+sample=../Samples/green/hammer/hammer_ab4_rr1.flac
 lokey=55
 hikey=55
 seq_length=2
@@ -272,7 +272,7 @@ pitch_keycenter=56
 lfo02_pitch_oncc113=66
 
 <region>
-sample=../Samples/green/hammer/hammer_a4_rr2.wav
+sample=../Samples/green/hammer/hammer_a4_rr2.flac
 lokey=56
 hikey=56
 seq_length=2
@@ -281,7 +281,7 @@ pitch_keycenter=57
 lfo02_pitch_oncc113=66
 
 <region>
-sample=../Samples/green/hammer/hammer_a4_rr1.wav
+sample=../Samples/green/hammer/hammer_a4_rr1.flac
 lokey=56
 hikey=56
 seq_length=2
@@ -289,7 +289,7 @@ pitch_keycenter=57
 lfo02_pitch_oncc113=66
 
 <region>
-sample=../Samples/green/hammer/hammer_bb4_rr2.wav
+sample=../Samples/green/hammer/hammer_bb4_rr2.flac
 lokey=57
 hikey=57
 seq_length=2
@@ -298,7 +298,7 @@ pitch_keycenter=58
 lfo02_pitch_oncc113=66
 
 <region>
-sample=../Samples/green/hammer/hammer_bb4_rr1.wav
+sample=../Samples/green/hammer/hammer_bb4_rr1.flac
 lokey=57
 hikey=57
 seq_length=2
@@ -306,7 +306,7 @@ pitch_keycenter=58
 lfo02_pitch_oncc113=66
 
 <region>
-sample=../Samples/green/hammer/hammer_b4_rr2.wav
+sample=../Samples/green/hammer/hammer_b4_rr2.flac
 lokey=58
 hikey=58
 seq_length=2
@@ -315,7 +315,7 @@ pitch_keycenter=59
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/hammer/hammer_b4_rr1.wav
+sample=../Samples/green/hammer/hammer_b4_rr1.flac
 lokey=58
 hikey=58
 seq_length=2
@@ -323,7 +323,7 @@ pitch_keycenter=59
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/hammer/hammer_c5_rr2.wav
+sample=../Samples/green/hammer/hammer_c5_rr2.flac
 lokey=59
 hikey=59
 seq_length=2
@@ -331,14 +331,14 @@ seq_position=2
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/hammer/hammer_c5_rr1.wav
+sample=../Samples/green/hammer/hammer_c5_rr1.flac
 lokey=59
 hikey=59
 seq_length=2
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/hammer/hammer_db5_rr2.wav
+sample=../Samples/green/hammer/hammer_db5_rr2.flac
 lokey=60
 hikey=60
 seq_length=2
@@ -347,7 +347,7 @@ pitch_keycenter=61
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/hammer/hammer_db5_rr1.wav
+sample=../Samples/green/hammer/hammer_db5_rr1.flac
 lokey=60
 hikey=60
 seq_length=2
@@ -355,7 +355,7 @@ pitch_keycenter=61
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/hammer/hammer_d5_rr2.wav
+sample=../Samples/green/hammer/hammer_d5_rr2.flac
 lokey=61
 hikey=61
 seq_length=2
@@ -364,7 +364,7 @@ pitch_keycenter=62
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/hammer/hammer_d5_rr1.wav
+sample=../Samples/green/hammer/hammer_d5_rr1.flac
 lokey=61
 hikey=61
 seq_length=2
@@ -372,7 +372,7 @@ pitch_keycenter=62
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/hammer/hammer_eb5_rr2.wav
+sample=../Samples/green/hammer/hammer_eb5_rr2.flac
 lokey=62
 hikey=62
 seq_length=2
@@ -381,7 +381,7 @@ pitch_keycenter=63
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/hammer/hammer_eb5_rr1.wav
+sample=../Samples/green/hammer/hammer_eb5_rr1.flac
 lokey=62
 hikey=62
 seq_length=2
@@ -389,7 +389,7 @@ pitch_keycenter=63
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/hammer/hammer_e5_rr2.wav
+sample=../Samples/green/hammer/hammer_e5_rr2.flac
 lokey=63
 hikey=63
 seq_length=2
@@ -398,7 +398,7 @@ pitch_keycenter=64
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/hammer/hammer_e5_rr1.wav
+sample=../Samples/green/hammer/hammer_e5_rr1.flac
 lokey=63
 hikey=63
 seq_length=2
@@ -406,7 +406,7 @@ pitch_keycenter=64
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/hammer/hammer_f5_rr2.wav
+sample=../Samples/green/hammer/hammer_f5_rr2.flac
 lokey=64
 hikey=64
 seq_length=2
@@ -415,7 +415,7 @@ pitch_keycenter=65
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/hammer/hammer_f5_rr1.wav
+sample=../Samples/green/hammer/hammer_f5_rr1.flac
 lokey=64
 hikey=64
 seq_length=2
@@ -423,7 +423,7 @@ pitch_keycenter=65
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/hammer/hammer_gb5_rr2.wav
+sample=../Samples/green/hammer/hammer_gb5_rr2.flac
 lokey=65
 hikey=65
 seq_length=2
@@ -432,7 +432,7 @@ pitch_keycenter=66
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/hammer/hammer_gb5_rr1.wav
+sample=../Samples/green/hammer/hammer_gb5_rr1.flac
 lokey=65
 hikey=65
 seq_length=2
@@ -440,7 +440,7 @@ pitch_keycenter=66
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/hammer/hammer_g5_rr2.wav
+sample=../Samples/green/hammer/hammer_g5_rr2.flac
 lokey=66
 hikey=66
 seq_length=2
@@ -449,7 +449,7 @@ pitch_keycenter=67
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/hammer/hammer_g5_rr1.wav
+sample=../Samples/green/hammer/hammer_g5_rr1.flac
 lokey=66
 hikey=66
 seq_length=2
@@ -457,7 +457,7 @@ pitch_keycenter=67
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/hammer/hammer_ab5_rr2.wav
+sample=../Samples/green/hammer/hammer_ab5_rr2.flac
 lokey=67
 hikey=67
 seq_length=2
@@ -466,7 +466,7 @@ pitch_keycenter=68
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/hammer/hammer_ab5_rr1.wav
+sample=../Samples/green/hammer/hammer_ab5_rr1.flac
 lokey=67
 hikey=67
 seq_length=2
@@ -474,7 +474,7 @@ pitch_keycenter=68
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/hammer/hammer_a5_rr2.wav
+sample=../Samples/green/hammer/hammer_a5_rr2.flac
 lokey=68
 hikey=68
 seq_length=2
@@ -483,7 +483,7 @@ pitch_keycenter=69
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/green/hammer/hammer_a5_rr1.wav
+sample=../Samples/green/hammer/hammer_a5_rr1.flac
 lokey=68
 hikey=68
 seq_length=2
@@ -491,7 +491,7 @@ pitch_keycenter=69
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/green/hammer/hammer_bb5_rr2.wav
+sample=../Samples/green/hammer/hammer_bb5_rr2.flac
 lokey=69
 hikey=69
 seq_length=2
@@ -500,7 +500,7 @@ pitch_keycenter=70
 lfo02_pitch_oncc113=35
 
 <region>
-sample=../Samples/green/hammer/hammer_bb5_rr1.wav
+sample=../Samples/green/hammer/hammer_bb5_rr1.flac
 lokey=69
 hikey=69
 seq_length=2
@@ -508,7 +508,7 @@ pitch_keycenter=70
 lfo02_pitch_oncc113=35
 
 <region>
-sample=../Samples/green/hammer/hammer_b5_rr2.wav
+sample=../Samples/green/hammer/hammer_b5_rr2.flac
 lokey=70
 hikey=70
 seq_length=2
@@ -517,7 +517,7 @@ pitch_keycenter=71
 lfo02_pitch_oncc113=33
 
 <region>
-sample=../Samples/green/hammer/hammer_b5_rr1.wav
+sample=../Samples/green/hammer/hammer_b5_rr1.flac
 lokey=70
 hikey=70
 seq_length=2
@@ -525,7 +525,7 @@ pitch_keycenter=71
 lfo02_pitch_oncc113=33
 
 <region>
-sample=../Samples/green/hammer/hammer_c6_rr2.wav
+sample=../Samples/green/hammer/hammer_c6_rr2.flac
 lokey=71
 hikey=71
 seq_length=2
@@ -534,7 +534,7 @@ pitch_keycenter=72
 lfo02_pitch_oncc113=33
 
 <region>
-sample=../Samples/green/hammer/hammer_c6_rr1.wav
+sample=../Samples/green/hammer/hammer_c6_rr1.flac
 lokey=71
 hikey=71
 seq_length=2
@@ -542,7 +542,7 @@ pitch_keycenter=72
 lfo02_pitch_oncc113=33
 
 <region>
-sample=../Samples/green/hammer/hammer_db6_rr2.wav
+sample=../Samples/green/hammer/hammer_db6_rr2.flac
 lokey=72
 hikey=72
 seq_length=2
@@ -551,7 +551,7 @@ pitch_keycenter=73
 lfo02_pitch_oncc113=32
 
 <region>
-sample=../Samples/green/hammer/hammer_db6_rr1.wav
+sample=../Samples/green/hammer/hammer_db6_rr1.flac
 lokey=72
 hikey=72
 seq_length=2
@@ -559,7 +559,7 @@ pitch_keycenter=73
 lfo02_pitch_oncc113=32
 
 <region>
-sample=../Samples/green/hammer/hammer_d6_rr2.wav
+sample=../Samples/green/hammer/hammer_d6_rr2.flac
 lokey=73
 hikey=73
 seq_length=2
@@ -568,7 +568,7 @@ pitch_keycenter=74
 lfo02_pitch_oncc113=31
 
 <region>
-sample=../Samples/green/hammer/hammer_d6_rr1.wav
+sample=../Samples/green/hammer/hammer_d6_rr1.flac
 lokey=73
 hikey=73
 seq_length=2
@@ -576,7 +576,7 @@ pitch_keycenter=74
 lfo02_pitch_oncc113=31
 
 <region>
-sample=../Samples/green/hammer/hammer_eb6_rr2.wav
+sample=../Samples/green/hammer/hammer_eb6_rr2.flac
 lokey=74
 hikey=74
 seq_length=2
@@ -585,7 +585,7 @@ pitch_keycenter=75
 lfo02_pitch_oncc113=30
 
 <region>
-sample=../Samples/green/hammer/hammer_eb6_rr1.wav
+sample=../Samples/green/hammer/hammer_eb6_rr1.flac
 lokey=74
 hikey=74
 seq_length=2
@@ -593,7 +593,7 @@ pitch_keycenter=75
 lfo02_pitch_oncc113=30
 
 <region>
-sample=../Samples/green/hammer/hammer_e6_rr2.wav
+sample=../Samples/green/hammer/hammer_e6_rr2.flac
 lokey=75
 hikey=75
 seq_length=2
@@ -602,7 +602,7 @@ pitch_keycenter=76
 lfo02_pitch_oncc113=29
 
 <region>
-sample=../Samples/green/hammer/hammer_e6_rr1.wav
+sample=../Samples/green/hammer/hammer_e6_rr1.flac
 lokey=75
 hikey=75
 seq_length=2
@@ -610,7 +610,7 @@ pitch_keycenter=76
 lfo02_pitch_oncc113=29
 
 <region>
-sample=../Samples/green/hammer/hammer_f6_rr2.wav
+sample=../Samples/green/hammer/hammer_f6_rr2.flac
 lokey=76
 hikey=76
 seq_length=2
@@ -619,7 +619,7 @@ pitch_keycenter=77
 lfo02_pitch_oncc113=28
 
 <region>
-sample=../Samples/green/hammer/hammer_f6_rr1.wav
+sample=../Samples/green/hammer/hammer_f6_rr1.flac
 lokey=76
 hikey=76
 seq_length=2
@@ -627,7 +627,7 @@ pitch_keycenter=77
 lfo02_pitch_oncc113=28
 
 <region>
-sample=../Samples/green/hammer/hammer_gb6_rr2.wav
+sample=../Samples/green/hammer/hammer_gb6_rr2.flac
 lokey=77
 hikey=77
 seq_length=2
@@ -636,7 +636,7 @@ pitch_keycenter=78
 lfo02_pitch_oncc113=27
 
 <region>
-sample=../Samples/green/hammer/hammer_gb6_rr1.wav
+sample=../Samples/green/hammer/hammer_gb6_rr1.flac
 lokey=77
 hikey=77
 seq_length=2
@@ -644,7 +644,7 @@ pitch_keycenter=78
 lfo02_pitch_oncc113=27
 
 <region>
-sample=../Samples/green/hammer/hammer_g6_rr2.wav
+sample=../Samples/green/hammer/hammer_g6_rr2.flac
 lokey=78
 hikey=78
 seq_length=2
@@ -653,7 +653,7 @@ pitch_keycenter=79
 lfo02_pitch_oncc113=26
 
 <region>
-sample=../Samples/green/hammer/hammer_g6_rr1.wav
+sample=../Samples/green/hammer/hammer_g6_rr1.flac
 lokey=78
 hikey=78
 seq_length=2
@@ -661,7 +661,7 @@ pitch_keycenter=79
 lfo02_pitch_oncc113=26
 
 <region>
-sample=../Samples/green/hammer/hammer_ab6_rr2.wav
+sample=../Samples/green/hammer/hammer_ab6_rr2.flac
 lokey=79
 hikey=79
 seq_length=2
@@ -670,7 +670,7 @@ pitch_keycenter=80
 lfo02_pitch_oncc113=26
 
 <region>
-sample=../Samples/green/hammer/hammer_ab6_rr1.wav
+sample=../Samples/green/hammer/hammer_ab6_rr1.flac
 lokey=79
 hikey=79
 seq_length=2
@@ -678,7 +678,7 @@ pitch_keycenter=80
 lfo02_pitch_oncc113=26
 
 <region>
-sample=../Samples/green/hammer/hammer_a6_rr2.wav
+sample=../Samples/green/hammer/hammer_a6_rr2.flac
 lokey=80
 hikey=80
 seq_length=2
@@ -687,7 +687,7 @@ pitch_keycenter=81
 lfo02_pitch_oncc113=25
 
 <region>
-sample=../Samples/green/hammer/hammer_a6_rr1.wav
+sample=../Samples/green/hammer/hammer_a6_rr1.flac
 lokey=80
 hikey=80
 seq_length=2
@@ -695,7 +695,7 @@ pitch_keycenter=81
 lfo02_pitch_oncc113=25
 
 <region>
-sample=../Samples/green/hammer/hammer_bb6_rr2.wav
+sample=../Samples/green/hammer/hammer_bb6_rr2.flac
 lokey=81
 hikey=81
 seq_length=2
@@ -704,7 +704,7 @@ pitch_keycenter=82
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/hammer/hammer_bb6_rr1.wav
+sample=../Samples/green/hammer/hammer_bb6_rr1.flac
 lokey=81
 hikey=81
 seq_length=2
@@ -712,7 +712,7 @@ pitch_keycenter=82
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/hammer/hammer_b6_rr2.wav
+sample=../Samples/green/hammer/hammer_b6_rr2.flac
 lokey=82
 hikey=82
 seq_length=2
@@ -721,7 +721,7 @@ pitch_keycenter=83
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/hammer/hammer_b6_rr1.wav
+sample=../Samples/green/hammer/hammer_b6_rr1.flac
 lokey=82
 hikey=82
 seq_length=2
@@ -729,7 +729,7 @@ pitch_keycenter=83
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/hammer/hammer_c7_rr2.wav
+sample=../Samples/green/hammer/hammer_c7_rr2.flac
 lokey=83
 hikey=83
 seq_length=2
@@ -738,7 +738,7 @@ pitch_keycenter=84
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/hammer/hammer_c7_rr1.wav
+sample=../Samples/green/hammer/hammer_c7_rr1.flac
 lokey=83
 hikey=83
 seq_length=2
@@ -746,7 +746,7 @@ pitch_keycenter=84
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/hammer/hammer_c7_rr2.wav
+sample=../Samples/green/hammer/hammer_c7_rr2.flac
 lokey=86
 hikey=86
 seq_length=2
@@ -755,7 +755,7 @@ pitch_keycenter=84
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/hammer/hammer_c7_rr1.wav
+sample=../Samples/green/hammer/hammer_c7_rr1.flac
 lokey=86
 hikey=86
 seq_length=2
@@ -763,7 +763,7 @@ pitch_keycenter=84
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/hammer/hammer_db7_rr2.wav
+sample=../Samples/green/hammer/hammer_db7_rr2.flac
 lokey=84
 hikey=84
 seq_length=2
@@ -772,7 +772,7 @@ pitch_keycenter=85
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/hammer/hammer_db7_rr1.wav
+sample=../Samples/green/hammer/hammer_db7_rr1.flac
 lokey=84
 hikey=84
 seq_length=2
@@ -780,7 +780,7 @@ pitch_keycenter=85
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/hammer/hammer_d7_rr2.wav
+sample=../Samples/green/hammer/hammer_d7_rr2.flac
 lokey=85
 hikey=85
 seq_length=2
@@ -789,7 +789,7 @@ pitch_keycenter=86
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/hammer/hammer_d7_rr1.wav
+sample=../Samples/green/hammer/hammer_d7_rr1.flac
 lokey=85
 hikey=85
 seq_length=2

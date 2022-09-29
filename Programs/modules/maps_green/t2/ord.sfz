@@ -1,6 +1,6 @@
 
 <region>
-sample=../Samples/green/ord/twang_gb3_p_rr2.wav
+sample=../Samples/green/ord/twang_gb3_p_rr2.flac
 lokey=40
 hikey=40
 hivel=42
@@ -11,7 +11,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb3_p_rr1.wav
+sample=../Samples/green/ord/twang_gb3_p_rr1.flac
 lokey=40
 hikey=40
 hivel=42
@@ -22,7 +22,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb3_p_rr2.wav
+sample=../Samples/green/ord/twang_gb3_p_rr2.flac
 lokey=40
 hikey=40
 hivel=42
@@ -33,7 +33,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb3_p_rr1.wav
+sample=../Samples/green/ord/twang_gb3_p_rr1.flac
 lokey=40
 hikey=40
 hivel=42
@@ -43,7 +43,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb3_mf_rr4.wav
+sample=../Samples/green/ord/twang_gb3_mf_rr4.flac
 lokey=40
 hikey=40
 lovel=43
@@ -55,7 +55,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb3_mf_rr3.wav
+sample=../Samples/green/ord/twang_gb3_mf_rr3.flac
 lokey=40
 hikey=40
 lovel=43
@@ -67,7 +67,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb3_mf_rr2.wav
+sample=../Samples/green/ord/twang_gb3_mf_rr2.flac
 lokey=40
 hikey=40
 lovel=43
@@ -79,7 +79,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb3_mf_rr1.wav
+sample=../Samples/green/ord/twang_gb3_mf_rr1.flac
 lokey=40
 hikey=40
 lovel=43
@@ -90,7 +90,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb3_f_rr4.wav
+sample=../Samples/green/ord/twang_gb3_f_rr4.flac
 lokey=40
 hikey=40
 lovel=85
@@ -100,7 +100,7 @@ pitch_keycenter=42
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_gb3_f_rr3.wav
+sample=../Samples/green/ord/twang_gb3_f_rr3.flac
 lokey=40
 hikey=40
 lovel=85
@@ -110,7 +110,7 @@ pitch_keycenter=42
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_gb3_f_rr2.wav
+sample=../Samples/green/ord/twang_gb3_f_rr2.flac
 lokey=40
 hikey=40
 lovel=85
@@ -120,7 +120,7 @@ pitch_keycenter=42
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_gb3_f_rr1.wav
+sample=../Samples/green/ord/twang_gb3_f_rr1.flac
 lokey=40
 hikey=40
 lovel=85
@@ -129,7 +129,7 @@ pitch_keycenter=42
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_g3_p_rr2.wav
+sample=../Samples/green/ord/twang_g3_p_rr2.flac
 lokey=41
 hikey=41
 hivel=42
@@ -140,7 +140,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g3_p_rr1.wav
+sample=../Samples/green/ord/twang_g3_p_rr1.flac
 lokey=41
 hikey=41
 hivel=42
@@ -151,7 +151,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g3_p_rr2.wav
+sample=../Samples/green/ord/twang_g3_p_rr2.flac
 lokey=41
 hikey=41
 hivel=42
@@ -162,7 +162,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g3_p_rr1.wav
+sample=../Samples/green/ord/twang_g3_p_rr1.flac
 lokey=41
 hikey=41
 hivel=42
@@ -172,7 +172,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g3_mf_rr4.wav
+sample=../Samples/green/ord/twang_g3_mf_rr4.flac
 lokey=41
 hikey=41
 lovel=43
@@ -184,7 +184,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g3_mf_rr3.wav
+sample=../Samples/green/ord/twang_g3_mf_rr3.flac
 lokey=41
 hikey=41
 lovel=43
@@ -196,7 +196,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g3_mf_rr2.wav
+sample=../Samples/green/ord/twang_g3_mf_rr2.flac
 lokey=41
 hikey=41
 lovel=43
@@ -208,7 +208,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g3_mf_rr1.wav
+sample=../Samples/green/ord/twang_g3_mf_rr1.flac
 lokey=41
 hikey=41
 lovel=43
@@ -219,7 +219,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g3_f_rr4.wav
+sample=../Samples/green/ord/twang_g3_f_rr4.flac
 lokey=41
 hikey=41
 lovel=85
@@ -229,7 +229,7 @@ pitch_keycenter=43
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_g3_f_rr3.wav
+sample=../Samples/green/ord/twang_g3_f_rr3.flac
 lokey=41
 hikey=41
 lovel=85
@@ -239,7 +239,7 @@ pitch_keycenter=43
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_g3_f_rr2.wav
+sample=../Samples/green/ord/twang_g3_f_rr2.flac
 lokey=41
 hikey=41
 lovel=85
@@ -249,7 +249,7 @@ pitch_keycenter=43
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_g3_f_rr1.wav
+sample=../Samples/green/ord/twang_g3_f_rr1.flac
 lokey=41
 hikey=41
 lovel=85
@@ -258,7 +258,7 @@ pitch_keycenter=43
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_ab3_p_rr2.wav
+sample=../Samples/green/ord/twang_ab3_p_rr2.flac
 lokey=42
 hikey=42
 hivel=42
@@ -269,7 +269,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab3_p_rr1.wav
+sample=../Samples/green/ord/twang_ab3_p_rr1.flac
 lokey=42
 hikey=42
 hivel=42
@@ -280,7 +280,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab3_p_rr2.wav
+sample=../Samples/green/ord/twang_ab3_p_rr2.flac
 lokey=42
 hikey=42
 hivel=42
@@ -291,7 +291,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab3_p_rr1.wav
+sample=../Samples/green/ord/twang_ab3_p_rr1.flac
 lokey=42
 hikey=42
 hivel=42
@@ -301,7 +301,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab3_mf_rr4.wav
+sample=../Samples/green/ord/twang_ab3_mf_rr4.flac
 lokey=42
 hikey=42
 lovel=43
@@ -313,7 +313,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab3_mf_rr3.wav
+sample=../Samples/green/ord/twang_ab3_mf_rr3.flac
 lokey=42
 hikey=42
 lovel=43
@@ -325,7 +325,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab3_mf_rr2.wav
+sample=../Samples/green/ord/twang_ab3_mf_rr2.flac
 lokey=42
 hikey=42
 lovel=43
@@ -337,7 +337,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab3_mf_rr1.wav
+sample=../Samples/green/ord/twang_ab3_mf_rr1.flac
 lokey=42
 hikey=42
 lovel=43
@@ -348,7 +348,7 @@ lfo02_pitch_oncc113=93
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab3_f_rr4.wav
+sample=../Samples/green/ord/twang_ab3_f_rr4.flac
 lokey=42
 hikey=42
 lovel=85
@@ -358,7 +358,7 @@ pitch_keycenter=44
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_ab3_f_rr3.wav
+sample=../Samples/green/ord/twang_ab3_f_rr3.flac
 lokey=42
 hikey=42
 lovel=85
@@ -368,7 +368,7 @@ pitch_keycenter=44
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_ab3_f_rr2.wav
+sample=../Samples/green/ord/twang_ab3_f_rr2.flac
 lokey=42
 hikey=42
 lovel=85
@@ -378,7 +378,7 @@ pitch_keycenter=44
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_ab3_f_rr1.wav
+sample=../Samples/green/ord/twang_ab3_f_rr1.flac
 lokey=42
 hikey=42
 lovel=85
@@ -387,7 +387,7 @@ pitch_keycenter=44
 lfo02_pitch_oncc113=93
 
 <region>
-sample=../Samples/green/ord/twang_a3_p_rr2.wav
+sample=../Samples/green/ord/twang_a3_p_rr2.flac
 lokey=43
 hikey=43
 hivel=42
@@ -398,7 +398,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a3_p_rr1.wav
+sample=../Samples/green/ord/twang_a3_p_rr1.flac
 lokey=43
 hikey=43
 hivel=42
@@ -409,7 +409,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a3_p_rr2.wav
+sample=../Samples/green/ord/twang_a3_p_rr2.flac
 lokey=43
 hikey=43
 hivel=42
@@ -420,7 +420,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a3_p_rr1.wav
+sample=../Samples/green/ord/twang_a3_p_rr1.flac
 lokey=43
 hikey=43
 hivel=42
@@ -430,7 +430,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a3_mf_rr4.wav
+sample=../Samples/green/ord/twang_a3_mf_rr4.flac
 lokey=43
 hikey=43
 lovel=43
@@ -442,7 +442,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a3_mf_rr3.wav
+sample=../Samples/green/ord/twang_a3_mf_rr3.flac
 lokey=43
 hikey=43
 lovel=43
@@ -454,7 +454,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a3_mf_rr2.wav
+sample=../Samples/green/ord/twang_a3_mf_rr2.flac
 lokey=43
 hikey=43
 lovel=43
@@ -466,7 +466,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a3_mf_rr1.wav
+sample=../Samples/green/ord/twang_a3_mf_rr1.flac
 lokey=43
 hikey=43
 lovel=43
@@ -477,7 +477,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a3_f_rr4.wav
+sample=../Samples/green/ord/twang_a3_f_rr4.flac
 lokey=43
 hikey=43
 lovel=85
@@ -487,7 +487,7 @@ pitch_keycenter=45
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_a3_f_rr3.wav
+sample=../Samples/green/ord/twang_a3_f_rr3.flac
 lokey=43
 hikey=43
 lovel=85
@@ -497,7 +497,7 @@ pitch_keycenter=45
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_a3_f_rr2.wav
+sample=../Samples/green/ord/twang_a3_f_rr2.flac
 lokey=43
 hikey=43
 lovel=85
@@ -507,7 +507,7 @@ pitch_keycenter=45
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_a3_f_rr1.wav
+sample=../Samples/green/ord/twang_a3_f_rr1.flac
 lokey=43
 hikey=43
 lovel=85
@@ -516,7 +516,7 @@ pitch_keycenter=45
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_bb3_p_rr2.wav
+sample=../Samples/green/ord/twang_bb3_p_rr2.flac
 lokey=44
 hikey=44
 hivel=42
@@ -527,7 +527,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb3_p_rr1.wav
+sample=../Samples/green/ord/twang_bb3_p_rr1.flac
 lokey=44
 hikey=44
 hivel=42
@@ -538,7 +538,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb3_p_rr2.wav
+sample=../Samples/green/ord/twang_bb3_p_rr2.flac
 lokey=44
 hikey=44
 hivel=42
@@ -549,7 +549,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb3_p_rr1.wav
+sample=../Samples/green/ord/twang_bb3_p_rr1.flac
 lokey=44
 hikey=44
 hivel=42
@@ -559,7 +559,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb3_mf_rr4.wav
+sample=../Samples/green/ord/twang_bb3_mf_rr4.flac
 lokey=44
 hikey=44
 lovel=43
@@ -571,7 +571,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb3_mf_rr3.wav
+sample=../Samples/green/ord/twang_bb3_mf_rr3.flac
 lokey=44
 hikey=44
 lovel=43
@@ -583,7 +583,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb3_mf_rr2.wav
+sample=../Samples/green/ord/twang_bb3_mf_rr2.flac
 lokey=44
 hikey=44
 lovel=43
@@ -595,7 +595,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb3_mf_rr1.wav
+sample=../Samples/green/ord/twang_bb3_mf_rr1.flac
 lokey=44
 hikey=44
 lovel=43
@@ -606,7 +606,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb3_f_rr4.wav
+sample=../Samples/green/ord/twang_bb3_f_rr4.flac
 lokey=44
 hikey=44
 lovel=85
@@ -616,7 +616,7 @@ pitch_keycenter=46
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_bb3_f_rr3.wav
+sample=../Samples/green/ord/twang_bb3_f_rr3.flac
 lokey=44
 hikey=44
 lovel=85
@@ -626,7 +626,7 @@ pitch_keycenter=46
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_bb3_f_rr2.wav
+sample=../Samples/green/ord/twang_bb3_f_rr2.flac
 lokey=44
 hikey=44
 lovel=85
@@ -636,7 +636,7 @@ pitch_keycenter=46
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_bb3_f_rr1.wav
+sample=../Samples/green/ord/twang_bb3_f_rr1.flac
 lokey=44
 hikey=44
 lovel=85
@@ -645,7 +645,7 @@ pitch_keycenter=46
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_b3_p_rr2.wav
+sample=../Samples/green/ord/twang_b3_p_rr2.flac
 lokey=45
 hikey=45
 hivel=42
@@ -656,7 +656,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b3_p_rr1.wav
+sample=../Samples/green/ord/twang_b3_p_rr1.flac
 lokey=45
 hikey=45
 hivel=42
@@ -667,7 +667,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b3_p_rr2.wav
+sample=../Samples/green/ord/twang_b3_p_rr2.flac
 lokey=45
 hikey=45
 hivel=42
@@ -678,7 +678,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b3_p_rr1.wav
+sample=../Samples/green/ord/twang_b3_p_rr1.flac
 lokey=45
 hikey=45
 hivel=42
@@ -688,7 +688,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b3_mf_rr4.wav
+sample=../Samples/green/ord/twang_b3_mf_rr4.flac
 lokey=45
 hikey=45
 lovel=43
@@ -700,7 +700,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b3_mf_rr3.wav
+sample=../Samples/green/ord/twang_b3_mf_rr3.flac
 lokey=45
 hikey=45
 lovel=43
@@ -712,7 +712,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b3_mf_rr2.wav
+sample=../Samples/green/ord/twang_b3_mf_rr2.flac
 lokey=45
 hikey=45
 lovel=43
@@ -724,7 +724,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b3_mf_rr1.wav
+sample=../Samples/green/ord/twang_b3_mf_rr1.flac
 lokey=45
 hikey=45
 lovel=43
@@ -735,7 +735,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b3_f_rr4.wav
+sample=../Samples/green/ord/twang_b3_f_rr4.flac
 lokey=45
 hikey=45
 lovel=85
@@ -745,7 +745,7 @@ pitch_keycenter=47
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_b3_f_rr3.wav
+sample=../Samples/green/ord/twang_b3_f_rr3.flac
 lokey=45
 hikey=45
 lovel=85
@@ -755,7 +755,7 @@ pitch_keycenter=47
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_b3_f_rr2.wav
+sample=../Samples/green/ord/twang_b3_f_rr2.flac
 lokey=45
 hikey=45
 lovel=85
@@ -765,7 +765,7 @@ pitch_keycenter=47
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_b3_f_rr1.wav
+sample=../Samples/green/ord/twang_b3_f_rr1.flac
 lokey=45
 hikey=45
 lovel=85
@@ -774,7 +774,7 @@ pitch_keycenter=47
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_c4_p_rr2.wav
+sample=../Samples/green/ord/twang_c4_p_rr2.flac
 lokey=46
 hikey=46
 hivel=42
@@ -785,7 +785,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c4_p_rr1.wav
+sample=../Samples/green/ord/twang_c4_p_rr1.flac
 lokey=46
 hikey=46
 hivel=42
@@ -796,7 +796,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c4_p_rr2.wav
+sample=../Samples/green/ord/twang_c4_p_rr2.flac
 lokey=46
 hikey=46
 hivel=42
@@ -807,7 +807,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c4_p_rr1.wav
+sample=../Samples/green/ord/twang_c4_p_rr1.flac
 lokey=46
 hikey=46
 hivel=42
@@ -817,7 +817,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c4_mf_rr4.wav
+sample=../Samples/green/ord/twang_c4_mf_rr4.flac
 lokey=46
 hikey=46
 lovel=43
@@ -829,7 +829,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c4_mf_rr3.wav
+sample=../Samples/green/ord/twang_c4_mf_rr3.flac
 lokey=46
 hikey=46
 lovel=43
@@ -841,7 +841,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c4_mf_rr2.wav
+sample=../Samples/green/ord/twang_c4_mf_rr2.flac
 lokey=46
 hikey=46
 lovel=43
@@ -853,7 +853,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c4_mf_rr1.wav
+sample=../Samples/green/ord/twang_c4_mf_rr1.flac
 lokey=46
 hikey=46
 lovel=43
@@ -864,7 +864,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c4_f_rr4.wav
+sample=../Samples/green/ord/twang_c4_f_rr4.flac
 lokey=46
 hikey=46
 lovel=85
@@ -874,7 +874,7 @@ pitch_keycenter=48
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_c4_f_rr3.wav
+sample=../Samples/green/ord/twang_c4_f_rr3.flac
 lokey=46
 hikey=46
 lovel=85
@@ -884,7 +884,7 @@ pitch_keycenter=48
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_c4_f_rr2.wav
+sample=../Samples/green/ord/twang_c4_f_rr2.flac
 lokey=46
 hikey=46
 lovel=85
@@ -894,7 +894,7 @@ pitch_keycenter=48
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_c4_f_rr1.wav
+sample=../Samples/green/ord/twang_c4_f_rr1.flac
 lokey=46
 hikey=46
 lovel=85
@@ -903,7 +903,7 @@ pitch_keycenter=48
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_db4_p_rr2.wav
+sample=../Samples/green/ord/twang_db4_p_rr2.flac
 lokey=47
 hikey=47
 hivel=42
@@ -914,7 +914,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db4_p_rr1.wav
+sample=../Samples/green/ord/twang_db4_p_rr1.flac
 lokey=47
 hikey=47
 hivel=42
@@ -925,7 +925,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db4_p_rr2.wav
+sample=../Samples/green/ord/twang_db4_p_rr2.flac
 lokey=47
 hikey=47
 hivel=42
@@ -936,7 +936,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db4_p_rr1.wav
+sample=../Samples/green/ord/twang_db4_p_rr1.flac
 lokey=47
 hikey=47
 hivel=42
@@ -946,7 +946,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db4_mf_rr4.wav
+sample=../Samples/green/ord/twang_db4_mf_rr4.flac
 lokey=47
 hikey=47
 lovel=43
@@ -958,7 +958,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db4_mf_rr3.wav
+sample=../Samples/green/ord/twang_db4_mf_rr3.flac
 lokey=47
 hikey=47
 lovel=43
@@ -970,7 +970,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db4_mf_rr2.wav
+sample=../Samples/green/ord/twang_db4_mf_rr2.flac
 lokey=47
 hikey=47
 lovel=43
@@ -982,7 +982,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db4_mf_rr1.wav
+sample=../Samples/green/ord/twang_db4_mf_rr1.flac
 lokey=47
 hikey=47
 lovel=43
@@ -993,7 +993,7 @@ lfo02_pitch_oncc113=61
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db4_f_rr4.wav
+sample=../Samples/green/ord/twang_db4_f_rr4.flac
 lokey=47
 hikey=47
 lovel=85
@@ -1003,7 +1003,7 @@ pitch_keycenter=49
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_db4_f_rr3.wav
+sample=../Samples/green/ord/twang_db4_f_rr3.flac
 lokey=47
 hikey=47
 lovel=85
@@ -1013,7 +1013,7 @@ pitch_keycenter=49
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_db4_f_rr2.wav
+sample=../Samples/green/ord/twang_db4_f_rr2.flac
 lokey=47
 hikey=47
 lovel=85
@@ -1023,7 +1023,7 @@ pitch_keycenter=49
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_db4_f_rr1.wav
+sample=../Samples/green/ord/twang_db4_f_rr1.flac
 lokey=47
 hikey=47
 lovel=85
@@ -1032,7 +1032,7 @@ pitch_keycenter=49
 lfo02_pitch_oncc113=61
 
 <region>
-sample=../Samples/green/ord/twang_d4_p_rr2.wav
+sample=../Samples/green/ord/twang_d4_p_rr2.flac
 lokey=48
 hikey=48
 hivel=42
@@ -1043,7 +1043,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d4_p_rr1.wav
+sample=../Samples/green/ord/twang_d4_p_rr1.flac
 lokey=48
 hikey=48
 hivel=42
@@ -1054,7 +1054,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d4_p_rr2.wav
+sample=../Samples/green/ord/twang_d4_p_rr2.flac
 lokey=48
 hikey=48
 hivel=42
@@ -1065,7 +1065,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d4_p_rr1.wav
+sample=../Samples/green/ord/twang_d4_p_rr1.flac
 lokey=48
 hikey=48
 hivel=42
@@ -1075,7 +1075,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d4_mf_rr4.wav
+sample=../Samples/green/ord/twang_d4_mf_rr4.flac
 lokey=48
 hikey=48
 lovel=43
@@ -1087,7 +1087,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d4_mf_rr3.wav
+sample=../Samples/green/ord/twang_d4_mf_rr3.flac
 lokey=48
 hikey=48
 lovel=43
@@ -1099,7 +1099,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d4_mf_rr2.wav
+sample=../Samples/green/ord/twang_d4_mf_rr2.flac
 lokey=48
 hikey=48
 lovel=43
@@ -1111,7 +1111,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d4_mf_rr1.wav
+sample=../Samples/green/ord/twang_d4_mf_rr1.flac
 lokey=48
 hikey=48
 lovel=43
@@ -1122,7 +1122,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d4_f_rr4.wav
+sample=../Samples/green/ord/twang_d4_f_rr4.flac
 lokey=48
 hikey=48
 lovel=85
@@ -1132,7 +1132,7 @@ pitch_keycenter=50
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_d4_f_rr3.wav
+sample=../Samples/green/ord/twang_d4_f_rr3.flac
 lokey=48
 hikey=48
 lovel=85
@@ -1142,7 +1142,7 @@ pitch_keycenter=50
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_d4_f_rr2.wav
+sample=../Samples/green/ord/twang_d4_f_rr2.flac
 lokey=48
 hikey=48
 lovel=85
@@ -1152,7 +1152,7 @@ pitch_keycenter=50
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_d4_f_rr1.wav
+sample=../Samples/green/ord/twang_d4_f_rr1.flac
 lokey=48
 hikey=48
 lovel=85
@@ -1161,7 +1161,7 @@ pitch_keycenter=50
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_eb4_p_rr2.wav
+sample=../Samples/green/ord/twang_eb4_p_rr2.flac
 lokey=49
 hikey=49
 hivel=42
@@ -1172,7 +1172,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb4_p_rr1.wav
+sample=../Samples/green/ord/twang_eb4_p_rr1.flac
 lokey=49
 hikey=49
 hivel=42
@@ -1183,7 +1183,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb4_p_rr2.wav
+sample=../Samples/green/ord/twang_eb4_p_rr2.flac
 lokey=49
 hikey=49
 hivel=42
@@ -1194,7 +1194,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb4_p_rr1.wav
+sample=../Samples/green/ord/twang_eb4_p_rr1.flac
 lokey=49
 hikey=49
 hivel=42
@@ -1204,7 +1204,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb4_mf_rr4.wav
+sample=../Samples/green/ord/twang_eb4_mf_rr4.flac
 lokey=49
 hikey=49
 lovel=43
@@ -1216,7 +1216,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb4_mf_rr3.wav
+sample=../Samples/green/ord/twang_eb4_mf_rr3.flac
 lokey=49
 hikey=49
 lovel=43
@@ -1228,7 +1228,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb4_mf_rr2.wav
+sample=../Samples/green/ord/twang_eb4_mf_rr2.flac
 lokey=49
 hikey=49
 lovel=43
@@ -1240,7 +1240,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb4_mf_rr1.wav
+sample=../Samples/green/ord/twang_eb4_mf_rr1.flac
 lokey=49
 hikey=49
 lovel=43
@@ -1251,7 +1251,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb4_f_rr4.wav
+sample=../Samples/green/ord/twang_eb4_f_rr4.flac
 lokey=49
 hikey=49
 lovel=85
@@ -1261,7 +1261,7 @@ pitch_keycenter=51
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_eb4_f_rr3.wav
+sample=../Samples/green/ord/twang_eb4_f_rr3.flac
 lokey=49
 hikey=49
 lovel=85
@@ -1271,7 +1271,7 @@ pitch_keycenter=51
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_eb4_f_rr2.wav
+sample=../Samples/green/ord/twang_eb4_f_rr2.flac
 lokey=49
 hikey=49
 lovel=85
@@ -1281,7 +1281,7 @@ pitch_keycenter=51
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_eb4_f_rr1.wav
+sample=../Samples/green/ord/twang_eb4_f_rr1.flac
 lokey=49
 hikey=49
 lovel=85
@@ -1290,7 +1290,7 @@ pitch_keycenter=51
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_e4_p_rr2.wav
+sample=../Samples/green/ord/twang_e4_p_rr2.flac
 lokey=50
 hikey=50
 hivel=42
@@ -1301,7 +1301,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e4_p_rr1.wav
+sample=../Samples/green/ord/twang_e4_p_rr1.flac
 lokey=50
 hikey=50
 hivel=42
@@ -1312,7 +1312,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e4_p_rr2.wav
+sample=../Samples/green/ord/twang_e4_p_rr2.flac
 lokey=50
 hikey=50
 hivel=42
@@ -1323,7 +1323,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e4_p_rr1.wav
+sample=../Samples/green/ord/twang_e4_p_rr1.flac
 lokey=50
 hikey=50
 hivel=42
@@ -1333,7 +1333,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e4_mf_rr4.wav
+sample=../Samples/green/ord/twang_e4_mf_rr4.flac
 lokey=50
 hikey=50
 lovel=43
@@ -1345,7 +1345,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e4_mf_rr3.wav
+sample=../Samples/green/ord/twang_e4_mf_rr3.flac
 lokey=50
 hikey=50
 lovel=43
@@ -1357,7 +1357,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e4_mf_rr2.wav
+sample=../Samples/green/ord/twang_e4_mf_rr2.flac
 lokey=50
 hikey=50
 lovel=43
@@ -1369,7 +1369,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e4_mf_rr1.wav
+sample=../Samples/green/ord/twang_e4_mf_rr1.flac
 lokey=50
 hikey=50
 lovel=43
@@ -1380,7 +1380,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e4_f_rr4.wav
+sample=../Samples/green/ord/twang_e4_f_rr4.flac
 lokey=50
 hikey=50
 lovel=85
@@ -1390,7 +1390,7 @@ pitch_keycenter=52
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_e4_f_rr3.wav
+sample=../Samples/green/ord/twang_e4_f_rr3.flac
 lokey=50
 hikey=50
 lovel=85
@@ -1400,7 +1400,7 @@ pitch_keycenter=52
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_e4_f_rr2.wav
+sample=../Samples/green/ord/twang_e4_f_rr2.flac
 lokey=50
 hikey=50
 lovel=85
@@ -1410,7 +1410,7 @@ pitch_keycenter=52
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_e4_f_rr1.wav
+sample=../Samples/green/ord/twang_e4_f_rr1.flac
 lokey=50
 hikey=50
 lovel=85
@@ -1419,7 +1419,7 @@ pitch_keycenter=52
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_f4_p_rr2.wav
+sample=../Samples/green/ord/twang_f4_p_rr2.flac
 lokey=51
 hikey=51
 hivel=42
@@ -1430,7 +1430,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_f4_p_rr1.wav
+sample=../Samples/green/ord/twang_f4_p_rr1.flac
 lokey=51
 hikey=51
 hivel=42
@@ -1441,7 +1441,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_f4_p_rr2.wav
+sample=../Samples/green/ord/twang_f4_p_rr2.flac
 lokey=51
 hikey=51
 hivel=42
@@ -1452,7 +1452,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_f4_p_rr1.wav
+sample=../Samples/green/ord/twang_f4_p_rr1.flac
 lokey=51
 hikey=51
 hivel=42
@@ -1462,7 +1462,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_f4_mf_rr4.wav
+sample=../Samples/green/ord/twang_f4_mf_rr4.flac
 lokey=51
 hikey=51
 lovel=43
@@ -1474,7 +1474,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_f4_mf_rr3.wav
+sample=../Samples/green/ord/twang_f4_mf_rr3.flac
 lokey=51
 hikey=51
 lovel=43
@@ -1486,7 +1486,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_f4_mf_rr2.wav
+sample=../Samples/green/ord/twang_f4_mf_rr2.flac
 lokey=51
 hikey=51
 lovel=43
@@ -1498,7 +1498,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_f4_mf_rr1.wav
+sample=../Samples/green/ord/twang_f4_mf_rr1.flac
 lokey=51
 hikey=51
 lovel=43
@@ -1509,7 +1509,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_f4_f_rr4.wav
+sample=../Samples/green/ord/twang_f4_f_rr4.flac
 lokey=51
 hikey=51
 lovel=85
@@ -1519,7 +1519,7 @@ pitch_keycenter=53
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_f4_f_rr3.wav
+sample=../Samples/green/ord/twang_f4_f_rr3.flac
 lokey=51
 hikey=51
 lovel=85
@@ -1529,7 +1529,7 @@ pitch_keycenter=53
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_f4_f_rr2.wav
+sample=../Samples/green/ord/twang_f4_f_rr2.flac
 lokey=51
 hikey=51
 lovel=85
@@ -1539,7 +1539,7 @@ pitch_keycenter=53
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_f4_f_rr1.wav
+sample=../Samples/green/ord/twang_f4_f_rr1.flac
 lokey=51
 hikey=51
 lovel=85
@@ -1548,7 +1548,7 @@ pitch_keycenter=53
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_gb4_p_rr2.wav
+sample=../Samples/green/ord/twang_gb4_p_rr2.flac
 lokey=52
 hikey=52
 hivel=42
@@ -1559,7 +1559,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb4_p_rr1.wav
+sample=../Samples/green/ord/twang_gb4_p_rr1.flac
 lokey=52
 hikey=52
 hivel=42
@@ -1570,7 +1570,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb4_p_rr2.wav
+sample=../Samples/green/ord/twang_gb4_p_rr2.flac
 lokey=52
 hikey=52
 hivel=42
@@ -1581,7 +1581,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb4_p_rr1.wav
+sample=../Samples/green/ord/twang_gb4_p_rr1.flac
 lokey=52
 hikey=52
 hivel=42
@@ -1591,7 +1591,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb4_mf_rr4.wav
+sample=../Samples/green/ord/twang_gb4_mf_rr4.flac
 lokey=52
 hikey=52
 lovel=43
@@ -1603,7 +1603,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb4_mf_rr3.wav
+sample=../Samples/green/ord/twang_gb4_mf_rr3.flac
 lokey=52
 hikey=52
 lovel=43
@@ -1615,7 +1615,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb4_mf_rr2.wav
+sample=../Samples/green/ord/twang_gb4_mf_rr2.flac
 lokey=52
 hikey=52
 lovel=43
@@ -1627,7 +1627,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb4_mf_rr1.wav
+sample=../Samples/green/ord/twang_gb4_mf_rr1.flac
 lokey=52
 hikey=52
 lovel=43
@@ -1638,7 +1638,7 @@ lfo02_pitch_oncc113=72
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb4_f_rr4.wav
+sample=../Samples/green/ord/twang_gb4_f_rr4.flac
 lokey=52
 hikey=52
 lovel=85
@@ -1648,7 +1648,7 @@ pitch_keycenter=54
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_gb4_f_rr3.wav
+sample=../Samples/green/ord/twang_gb4_f_rr3.flac
 lokey=52
 hikey=52
 lovel=85
@@ -1658,7 +1658,7 @@ pitch_keycenter=54
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_gb4_f_rr2.wav
+sample=../Samples/green/ord/twang_gb4_f_rr2.flac
 lokey=52
 hikey=52
 lovel=85
@@ -1668,7 +1668,7 @@ pitch_keycenter=54
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_gb4_f_rr1.wav
+sample=../Samples/green/ord/twang_gb4_f_rr1.flac
 lokey=52
 hikey=52
 lovel=85
@@ -1677,7 +1677,7 @@ pitch_keycenter=54
 lfo02_pitch_oncc113=72
 
 <region>
-sample=../Samples/green/ord/twang_g4_p_rr2.wav
+sample=../Samples/green/ord/twang_g4_p_rr2.flac
 lokey=53
 hikey=53
 hivel=42
@@ -1688,7 +1688,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g4_p_rr1.wav
+sample=../Samples/green/ord/twang_g4_p_rr1.flac
 lokey=53
 hikey=53
 hivel=42
@@ -1699,7 +1699,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g4_p_rr2.wav
+sample=../Samples/green/ord/twang_g4_p_rr2.flac
 lokey=53
 hikey=53
 hivel=42
@@ -1710,7 +1710,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g4_p_rr1.wav
+sample=../Samples/green/ord/twang_g4_p_rr1.flac
 lokey=53
 hikey=53
 hivel=42
@@ -1720,7 +1720,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g4_mf_rr4.wav
+sample=../Samples/green/ord/twang_g4_mf_rr4.flac
 lokey=53
 hikey=53
 lovel=43
@@ -1732,7 +1732,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g4_mf_rr3.wav
+sample=../Samples/green/ord/twang_g4_mf_rr3.flac
 lokey=53
 hikey=53
 lovel=43
@@ -1744,7 +1744,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g4_mf_rr2.wav
+sample=../Samples/green/ord/twang_g4_mf_rr2.flac
 lokey=53
 hikey=53
 lovel=43
@@ -1756,7 +1756,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g4_mf_rr1.wav
+sample=../Samples/green/ord/twang_g4_mf_rr1.flac
 lokey=53
 hikey=53
 lovel=43
@@ -1767,7 +1767,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g4_f_rr4.wav
+sample=../Samples/green/ord/twang_g4_f_rr4.flac
 lokey=53
 hikey=53
 lovel=85
@@ -1777,7 +1777,7 @@ pitch_keycenter=55
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_g4_f_rr3.wav
+sample=../Samples/green/ord/twang_g4_f_rr3.flac
 lokey=53
 hikey=53
 lovel=85
@@ -1787,7 +1787,7 @@ pitch_keycenter=55
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_g4_f_rr2.wav
+sample=../Samples/green/ord/twang_g4_f_rr2.flac
 lokey=53
 hikey=53
 lovel=85
@@ -1797,7 +1797,7 @@ pitch_keycenter=55
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_g4_f_rr1.wav
+sample=../Samples/green/ord/twang_g4_f_rr1.flac
 lokey=53
 hikey=53
 lovel=85
@@ -1806,7 +1806,7 @@ pitch_keycenter=55
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_ab4_p_rr2.wav
+sample=../Samples/green/ord/twang_ab4_p_rr2.flac
 lokey=54
 hikey=54
 hivel=42
@@ -1817,7 +1817,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab4_p_rr1.wav
+sample=../Samples/green/ord/twang_ab4_p_rr1.flac
 lokey=54
 hikey=54
 hivel=42
@@ -1828,7 +1828,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab4_p_rr2.wav
+sample=../Samples/green/ord/twang_ab4_p_rr2.flac
 lokey=54
 hikey=54
 hivel=42
@@ -1839,7 +1839,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab4_p_rr1.wav
+sample=../Samples/green/ord/twang_ab4_p_rr1.flac
 lokey=54
 hikey=54
 hivel=42
@@ -1849,7 +1849,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab4_mf_rr4.wav
+sample=../Samples/green/ord/twang_ab4_mf_rr4.flac
 lokey=54
 hikey=54
 lovel=43
@@ -1861,7 +1861,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab4_mf_rr3.wav
+sample=../Samples/green/ord/twang_ab4_mf_rr3.flac
 lokey=54
 hikey=54
 lovel=43
@@ -1873,7 +1873,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab4_mf_rr2.wav
+sample=../Samples/green/ord/twang_ab4_mf_rr2.flac
 lokey=54
 hikey=54
 lovel=43
@@ -1885,7 +1885,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab4_mf_rr1.wav
+sample=../Samples/green/ord/twang_ab4_mf_rr1.flac
 lokey=54
 hikey=54
 lovel=43
@@ -1896,7 +1896,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab4_f_rr4.wav
+sample=../Samples/green/ord/twang_ab4_f_rr4.flac
 lokey=54
 hikey=54
 lovel=85
@@ -1906,7 +1906,7 @@ pitch_keycenter=56
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_ab4_f_rr3.wav
+sample=../Samples/green/ord/twang_ab4_f_rr3.flac
 lokey=54
 hikey=54
 lovel=85
@@ -1916,7 +1916,7 @@ pitch_keycenter=56
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_ab4_f_rr2.wav
+sample=../Samples/green/ord/twang_ab4_f_rr2.flac
 lokey=54
 hikey=54
 lovel=85
@@ -1926,7 +1926,7 @@ pitch_keycenter=56
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_ab4_f_rr1.wav
+sample=../Samples/green/ord/twang_ab4_f_rr1.flac
 lokey=54
 hikey=54
 lovel=85
@@ -1935,7 +1935,7 @@ pitch_keycenter=56
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_a4_p_rr2.wav
+sample=../Samples/green/ord/twang_a4_p_rr2.flac
 lokey=55
 hikey=55
 hivel=42
@@ -1946,7 +1946,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a4_p_rr1.wav
+sample=../Samples/green/ord/twang_a4_p_rr1.flac
 lokey=55
 hikey=55
 hivel=42
@@ -1957,7 +1957,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a4_p_rr2.wav
+sample=../Samples/green/ord/twang_a4_p_rr2.flac
 lokey=55
 hikey=55
 hivel=42
@@ -1968,7 +1968,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a4_p_rr1.wav
+sample=../Samples/green/ord/twang_a4_p_rr1.flac
 lokey=55
 hikey=55
 hivel=42
@@ -1978,7 +1978,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a4_mf_rr4.wav
+sample=../Samples/green/ord/twang_a4_mf_rr4.flac
 lokey=55
 hikey=55
 lovel=43
@@ -1990,7 +1990,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a4_mf_rr3.wav
+sample=../Samples/green/ord/twang_a4_mf_rr3.flac
 lokey=55
 hikey=55
 lovel=43
@@ -2002,7 +2002,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a4_mf_rr2.wav
+sample=../Samples/green/ord/twang_a4_mf_rr2.flac
 lokey=55
 hikey=55
 lovel=43
@@ -2014,7 +2014,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a4_mf_rr1.wav
+sample=../Samples/green/ord/twang_a4_mf_rr1.flac
 lokey=55
 hikey=55
 lovel=43
@@ -2025,7 +2025,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a4_f_rr4.wav
+sample=../Samples/green/ord/twang_a4_f_rr4.flac
 lokey=55
 hikey=55
 lovel=85
@@ -2035,7 +2035,7 @@ pitch_keycenter=57
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_a4_f_rr3.wav
+sample=../Samples/green/ord/twang_a4_f_rr3.flac
 lokey=55
 hikey=55
 lovel=85
@@ -2045,7 +2045,7 @@ pitch_keycenter=57
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_a4_f_rr2.wav
+sample=../Samples/green/ord/twang_a4_f_rr2.flac
 lokey=55
 hikey=55
 lovel=85
@@ -2055,7 +2055,7 @@ pitch_keycenter=57
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_a4_f_rr1.wav
+sample=../Samples/green/ord/twang_a4_f_rr1.flac
 lokey=55
 hikey=55
 lovel=85
@@ -2064,7 +2064,7 @@ pitch_keycenter=57
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_bb4_p_rr2.wav
+sample=../Samples/green/ord/twang_bb4_p_rr2.flac
 lokey=56
 hikey=56
 hivel=42
@@ -2075,7 +2075,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb4_p_rr1.wav
+sample=../Samples/green/ord/twang_bb4_p_rr1.flac
 lokey=56
 hikey=56
 hivel=42
@@ -2086,7 +2086,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb4_p_rr2.wav
+sample=../Samples/green/ord/twang_bb4_p_rr2.flac
 lokey=56
 hikey=56
 hivel=42
@@ -2097,7 +2097,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb4_p_rr1.wav
+sample=../Samples/green/ord/twang_bb4_p_rr1.flac
 lokey=56
 hikey=56
 hivel=42
@@ -2107,7 +2107,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb4_mf_rr4.wav
+sample=../Samples/green/ord/twang_bb4_mf_rr4.flac
 lokey=56
 hikey=56
 lovel=43
@@ -2119,7 +2119,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb4_mf_rr3.wav
+sample=../Samples/green/ord/twang_bb4_mf_rr3.flac
 lokey=56
 hikey=56
 lovel=43
@@ -2131,7 +2131,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb4_mf_rr2.wav
+sample=../Samples/green/ord/twang_bb4_mf_rr2.flac
 lokey=56
 hikey=56
 lovel=43
@@ -2143,7 +2143,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb4_mf_rr1.wav
+sample=../Samples/green/ord/twang_bb4_mf_rr1.flac
 lokey=56
 hikey=56
 lovel=43
@@ -2154,7 +2154,7 @@ lfo02_pitch_oncc113=67
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb4_f_rr4.wav
+sample=../Samples/green/ord/twang_bb4_f_rr4.flac
 lokey=56
 hikey=56
 lovel=85
@@ -2164,7 +2164,7 @@ pitch_keycenter=58
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_bb4_f_rr3.wav
+sample=../Samples/green/ord/twang_bb4_f_rr3.flac
 lokey=56
 hikey=56
 lovel=85
@@ -2174,7 +2174,7 @@ pitch_keycenter=58
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_bb4_f_rr2.wav
+sample=../Samples/green/ord/twang_bb4_f_rr2.flac
 lokey=56
 hikey=56
 lovel=85
@@ -2184,7 +2184,7 @@ pitch_keycenter=58
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_bb4_f_rr1.wav
+sample=../Samples/green/ord/twang_bb4_f_rr1.flac
 lokey=56
 hikey=56
 lovel=85
@@ -2193,7 +2193,7 @@ pitch_keycenter=58
 lfo02_pitch_oncc113=67
 
 <region>
-sample=../Samples/green/ord/twang_b4_p_rr2.wav
+sample=../Samples/green/ord/twang_b4_p_rr2.flac
 lokey=57
 hikey=57
 hivel=42
@@ -2204,7 +2204,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b4_p_rr1.wav
+sample=../Samples/green/ord/twang_b4_p_rr1.flac
 lokey=57
 hikey=57
 hivel=42
@@ -2215,7 +2215,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b4_p_rr2.wav
+sample=../Samples/green/ord/twang_b4_p_rr2.flac
 lokey=57
 hikey=57
 hivel=42
@@ -2226,7 +2226,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b4_p_rr1.wav
+sample=../Samples/green/ord/twang_b4_p_rr1.flac
 lokey=57
 hikey=57
 hivel=42
@@ -2236,7 +2236,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b4_mf_rr4.wav
+sample=../Samples/green/ord/twang_b4_mf_rr4.flac
 lokey=57
 hikey=57
 lovel=43
@@ -2248,7 +2248,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b4_mf_rr3.wav
+sample=../Samples/green/ord/twang_b4_mf_rr3.flac
 lokey=57
 hikey=57
 lovel=43
@@ -2260,7 +2260,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b4_mf_rr2.wav
+sample=../Samples/green/ord/twang_b4_mf_rr2.flac
 lokey=57
 hikey=57
 lovel=43
@@ -2272,7 +2272,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b4_mf_rr1.wav
+sample=../Samples/green/ord/twang_b4_mf_rr1.flac
 lokey=57
 hikey=57
 lovel=43
@@ -2283,7 +2283,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b4_f_rr4.wav
+sample=../Samples/green/ord/twang_b4_f_rr4.flac
 lokey=57
 hikey=57
 lovel=85
@@ -2293,7 +2293,7 @@ pitch_keycenter=59
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_b4_f_rr3.wav
+sample=../Samples/green/ord/twang_b4_f_rr3.flac
 lokey=57
 hikey=57
 lovel=85
@@ -2303,7 +2303,7 @@ pitch_keycenter=59
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_b4_f_rr2.wav
+sample=../Samples/green/ord/twang_b4_f_rr2.flac
 lokey=57
 hikey=57
 lovel=85
@@ -2313,7 +2313,7 @@ pitch_keycenter=59
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_b4_f_rr1.wav
+sample=../Samples/green/ord/twang_b4_f_rr1.flac
 lokey=57
 hikey=57
 lovel=85
@@ -2322,7 +2322,7 @@ pitch_keycenter=59
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_c5_p_rr2.wav
+sample=../Samples/green/ord/twang_c5_p_rr2.flac
 lokey=58
 hikey=58
 hivel=42
@@ -2332,7 +2332,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c5_p_rr1.wav
+sample=../Samples/green/ord/twang_c5_p_rr1.flac
 lokey=58
 hikey=58
 hivel=42
@@ -2342,7 +2342,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c5_p_rr2.wav
+sample=../Samples/green/ord/twang_c5_p_rr2.flac
 lokey=58
 hikey=58
 hivel=42
@@ -2352,7 +2352,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c5_p_rr1.wav
+sample=../Samples/green/ord/twang_c5_p_rr1.flac
 lokey=58
 hikey=58
 hivel=42
@@ -2361,7 +2361,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c5_mf_rr4.wav
+sample=../Samples/green/ord/twang_c5_mf_rr4.flac
 lokey=58
 hikey=58
 lovel=43
@@ -2372,7 +2372,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c5_mf_rr3.wav
+sample=../Samples/green/ord/twang_c5_mf_rr3.flac
 lokey=58
 hikey=58
 lovel=43
@@ -2383,7 +2383,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c5_mf_rr2.wav
+sample=../Samples/green/ord/twang_c5_mf_rr2.flac
 lokey=58
 hikey=58
 lovel=43
@@ -2394,7 +2394,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c5_mf_rr1.wav
+sample=../Samples/green/ord/twang_c5_mf_rr1.flac
 lokey=58
 hikey=58
 lovel=43
@@ -2404,7 +2404,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c5_f_rr4.wav
+sample=../Samples/green/ord/twang_c5_f_rr4.flac
 lokey=58
 hikey=58
 lovel=85
@@ -2413,7 +2413,7 @@ seq_position=4
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_c5_f_rr3.wav
+sample=../Samples/green/ord/twang_c5_f_rr3.flac
 lokey=58
 hikey=58
 lovel=85
@@ -2422,7 +2422,7 @@ seq_position=3
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_c5_f_rr2.wav
+sample=../Samples/green/ord/twang_c5_f_rr2.flac
 lokey=58
 hikey=58
 lovel=85
@@ -2431,7 +2431,7 @@ seq_position=2
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_c5_f_rr1.wav
+sample=../Samples/green/ord/twang_c5_f_rr1.flac
 lokey=58
 hikey=58
 lovel=85
@@ -2439,7 +2439,7 @@ seq_length=4
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_db5_p_rr2.wav
+sample=../Samples/green/ord/twang_db5_p_rr2.flac
 lokey=59
 hikey=59
 hivel=42
@@ -2450,7 +2450,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db5_p_rr1.wav
+sample=../Samples/green/ord/twang_db5_p_rr1.flac
 lokey=59
 hikey=59
 hivel=42
@@ -2461,7 +2461,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db5_p_rr2.wav
+sample=../Samples/green/ord/twang_db5_p_rr2.flac
 lokey=59
 hikey=59
 hivel=42
@@ -2472,7 +2472,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db5_p_rr1.wav
+sample=../Samples/green/ord/twang_db5_p_rr1.flac
 lokey=59
 hikey=59
 hivel=42
@@ -2482,7 +2482,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db5_mf_rr4.wav
+sample=../Samples/green/ord/twang_db5_mf_rr4.flac
 lokey=59
 hikey=59
 lovel=43
@@ -2494,7 +2494,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db5_mf_rr3.wav
+sample=../Samples/green/ord/twang_db5_mf_rr3.flac
 lokey=59
 hikey=59
 lovel=43
@@ -2506,7 +2506,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db5_mf_rr2.wav
+sample=../Samples/green/ord/twang_db5_mf_rr2.flac
 lokey=59
 hikey=59
 lovel=43
@@ -2518,7 +2518,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db5_mf_rr1.wav
+sample=../Samples/green/ord/twang_db5_mf_rr1.flac
 lokey=59
 hikey=59
 lovel=43
@@ -2529,7 +2529,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db5_f_rr4.wav
+sample=../Samples/green/ord/twang_db5_f_rr4.flac
 lokey=59
 hikey=59
 lovel=85
@@ -2539,7 +2539,7 @@ pitch_keycenter=61
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_db5_f_rr3.wav
+sample=../Samples/green/ord/twang_db5_f_rr3.flac
 lokey=59
 hikey=59
 lovel=85
@@ -2549,7 +2549,7 @@ pitch_keycenter=61
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_db5_f_rr2.wav
+sample=../Samples/green/ord/twang_db5_f_rr2.flac
 lokey=59
 hikey=59
 lovel=85
@@ -2559,7 +2559,7 @@ pitch_keycenter=61
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_db5_f_rr1.wav
+sample=../Samples/green/ord/twang_db5_f_rr1.flac
 lokey=59
 hikey=59
 lovel=85
@@ -2568,7 +2568,7 @@ pitch_keycenter=61
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_d5_p_rr2.wav
+sample=../Samples/green/ord/twang_d5_p_rr2.flac
 lokey=60
 hikey=60
 hivel=42
@@ -2579,7 +2579,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d5_p_rr1.wav
+sample=../Samples/green/ord/twang_d5_p_rr1.flac
 lokey=60
 hikey=60
 hivel=42
@@ -2590,7 +2590,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d5_p_rr2.wav
+sample=../Samples/green/ord/twang_d5_p_rr2.flac
 lokey=60
 hikey=60
 hivel=42
@@ -2601,7 +2601,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d5_p_rr1.wav
+sample=../Samples/green/ord/twang_d5_p_rr1.flac
 lokey=60
 hikey=60
 hivel=42
@@ -2611,7 +2611,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d5_mf_rr4.wav
+sample=../Samples/green/ord/twang_d5_mf_rr4.flac
 lokey=60
 hikey=60
 lovel=43
@@ -2623,7 +2623,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d5_mf_rr3.wav
+sample=../Samples/green/ord/twang_d5_mf_rr3.flac
 lokey=60
 hikey=60
 lovel=43
@@ -2635,7 +2635,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d5_mf_rr2.wav
+sample=../Samples/green/ord/twang_d5_mf_rr2.flac
 lokey=60
 hikey=60
 lovel=43
@@ -2647,7 +2647,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d5_mf_rr1.wav
+sample=../Samples/green/ord/twang_d5_mf_rr1.flac
 lokey=60
 hikey=60
 lovel=43
@@ -2658,7 +2658,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d5_f_rr4.wav
+sample=../Samples/green/ord/twang_d5_f_rr4.flac
 lokey=60
 hikey=60
 lovel=85
@@ -2668,7 +2668,7 @@ pitch_keycenter=62
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_d5_f_rr3.wav
+sample=../Samples/green/ord/twang_d5_f_rr3.flac
 lokey=60
 hikey=60
 lovel=85
@@ -2678,7 +2678,7 @@ pitch_keycenter=62
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_d5_f_rr2.wav
+sample=../Samples/green/ord/twang_d5_f_rr2.flac
 lokey=60
 hikey=60
 lovel=85
@@ -2688,7 +2688,7 @@ pitch_keycenter=62
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_d5_f_rr1.wav
+sample=../Samples/green/ord/twang_d5_f_rr1.flac
 lokey=60
 hikey=60
 lovel=85
@@ -2697,7 +2697,7 @@ pitch_keycenter=62
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_eb5_p_rr2.wav
+sample=../Samples/green/ord/twang_eb5_p_rr2.flac
 lokey=61
 hikey=61
 hivel=42
@@ -2708,7 +2708,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb5_p_rr1.wav
+sample=../Samples/green/ord/twang_eb5_p_rr1.flac
 lokey=61
 hikey=61
 hivel=42
@@ -2719,7 +2719,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb5_p_rr2.wav
+sample=../Samples/green/ord/twang_eb5_p_rr2.flac
 lokey=61
 hikey=61
 hivel=42
@@ -2730,7 +2730,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb5_p_rr1.wav
+sample=../Samples/green/ord/twang_eb5_p_rr1.flac
 lokey=61
 hikey=61
 hivel=42
@@ -2740,7 +2740,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb5_mf_rr4.wav
+sample=../Samples/green/ord/twang_eb5_mf_rr4.flac
 lokey=61
 hikey=61
 lovel=43
@@ -2752,7 +2752,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb5_mf_rr3.wav
+sample=../Samples/green/ord/twang_eb5_mf_rr3.flac
 lokey=61
 hikey=61
 lovel=43
@@ -2764,7 +2764,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb5_mf_rr2.wav
+sample=../Samples/green/ord/twang_eb5_mf_rr2.flac
 lokey=61
 hikey=61
 lovel=43
@@ -2776,7 +2776,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb5_mf_rr1.wav
+sample=../Samples/green/ord/twang_eb5_mf_rr1.flac
 lokey=61
 hikey=61
 lovel=43
@@ -2787,7 +2787,7 @@ lfo02_pitch_oncc113=54
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb5_f_rr4.wav
+sample=../Samples/green/ord/twang_eb5_f_rr4.flac
 lokey=61
 hikey=61
 lovel=85
@@ -2797,7 +2797,7 @@ pitch_keycenter=63
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_eb5_f_rr3.wav
+sample=../Samples/green/ord/twang_eb5_f_rr3.flac
 lokey=61
 hikey=61
 lovel=85
@@ -2807,7 +2807,7 @@ pitch_keycenter=63
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_eb5_f_rr2.wav
+sample=../Samples/green/ord/twang_eb5_f_rr2.flac
 lokey=61
 hikey=61
 lovel=85
@@ -2817,7 +2817,7 @@ pitch_keycenter=63
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_eb5_f_rr1.wav
+sample=../Samples/green/ord/twang_eb5_f_rr1.flac
 lokey=61
 hikey=61
 lovel=85
@@ -2826,7 +2826,7 @@ pitch_keycenter=63
 lfo02_pitch_oncc113=54
 
 <region>
-sample=../Samples/green/ord/twang_e5_p_rr2.wav
+sample=../Samples/green/ord/twang_e5_p_rr2.flac
 lokey=62
 hikey=62
 hivel=42
@@ -2837,7 +2837,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e5_p_rr1.wav
+sample=../Samples/green/ord/twang_e5_p_rr1.flac
 lokey=62
 hikey=62
 hivel=42
@@ -2848,7 +2848,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e5_p_rr2.wav
+sample=../Samples/green/ord/twang_e5_p_rr2.flac
 lokey=62
 hikey=62
 hivel=42
@@ -2859,7 +2859,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e5_p_rr1.wav
+sample=../Samples/green/ord/twang_e5_p_rr1.flac
 lokey=62
 hikey=62
 hivel=42
@@ -2869,7 +2869,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e5_mf_rr4.wav
+sample=../Samples/green/ord/twang_e5_mf_rr4.flac
 lokey=62
 hikey=62
 lovel=43
@@ -2881,7 +2881,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e5_mf_rr3.wav
+sample=../Samples/green/ord/twang_e5_mf_rr3.flac
 lokey=62
 hikey=62
 lovel=43
@@ -2893,7 +2893,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e5_mf_rr2.wav
+sample=../Samples/green/ord/twang_e5_mf_rr2.flac
 lokey=62
 hikey=62
 lovel=43
@@ -2905,7 +2905,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e5_mf_rr1.wav
+sample=../Samples/green/ord/twang_e5_mf_rr1.flac
 lokey=62
 hikey=62
 lovel=43
@@ -2916,7 +2916,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e5_f_rr4.wav
+sample=../Samples/green/ord/twang_e5_f_rr4.flac
 lokey=62
 hikey=62
 lovel=85
@@ -2926,7 +2926,7 @@ pitch_keycenter=64
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_e5_f_rr3.wav
+sample=../Samples/green/ord/twang_e5_f_rr3.flac
 lokey=62
 hikey=62
 lovel=85
@@ -2936,7 +2936,7 @@ pitch_keycenter=64
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_e5_f_rr2.wav
+sample=../Samples/green/ord/twang_e5_f_rr2.flac
 lokey=62
 hikey=62
 lovel=85
@@ -2946,7 +2946,7 @@ pitch_keycenter=64
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_e5_f_rr1.wav
+sample=../Samples/green/ord/twang_e5_f_rr1.flac
 lokey=62
 hikey=62
 lovel=85
@@ -2955,7 +2955,7 @@ pitch_keycenter=64
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_f5_p_rr2.wav
+sample=../Samples/green/ord/twang_f5_p_rr2.flac
 lokey=63
 hikey=63
 hivel=42
@@ -2966,7 +2966,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_f5_p_rr1.wav
+sample=../Samples/green/ord/twang_f5_p_rr1.flac
 lokey=63
 hikey=63
 hivel=42
@@ -2977,7 +2977,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_f5_p_rr2.wav
+sample=../Samples/green/ord/twang_f5_p_rr2.flac
 lokey=63
 hikey=63
 hivel=42
@@ -2988,7 +2988,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_f5_p_rr1.wav
+sample=../Samples/green/ord/twang_f5_p_rr1.flac
 lokey=63
 hikey=63
 hivel=42
@@ -2998,7 +2998,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_f5_mf_rr4.wav
+sample=../Samples/green/ord/twang_f5_mf_rr4.flac
 lokey=63
 hikey=63
 lovel=43
@@ -3010,7 +3010,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_f5_mf_rr3.wav
+sample=../Samples/green/ord/twang_f5_mf_rr3.flac
 lokey=63
 hikey=63
 lovel=43
@@ -3022,7 +3022,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_f5_mf_rr2.wav
+sample=../Samples/green/ord/twang_f5_mf_rr2.flac
 lokey=63
 hikey=63
 lovel=43
@@ -3034,7 +3034,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_f5_mf_rr1.wav
+sample=../Samples/green/ord/twang_f5_mf_rr1.flac
 lokey=63
 hikey=63
 lovel=43
@@ -3045,7 +3045,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_f5_f_rr4.wav
+sample=../Samples/green/ord/twang_f5_f_rr4.flac
 lokey=63
 hikey=63
 lovel=85
@@ -3055,7 +3055,7 @@ pitch_keycenter=65
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_f5_f_rr3.wav
+sample=../Samples/green/ord/twang_f5_f_rr3.flac
 lokey=63
 hikey=63
 lovel=85
@@ -3065,7 +3065,7 @@ pitch_keycenter=65
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_f5_f_rr2.wav
+sample=../Samples/green/ord/twang_f5_f_rr2.flac
 lokey=63
 hikey=63
 lovel=85
@@ -3075,7 +3075,7 @@ pitch_keycenter=65
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_f5_f_rr1.wav
+sample=../Samples/green/ord/twang_f5_f_rr1.flac
 lokey=63
 hikey=63
 lovel=85
@@ -3084,7 +3084,7 @@ pitch_keycenter=65
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_gb5_p_rr2.wav
+sample=../Samples/green/ord/twang_gb5_p_rr2.flac
 lokey=64
 hikey=64
 hivel=42
@@ -3095,7 +3095,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb5_p_rr1.wav
+sample=../Samples/green/ord/twang_gb5_p_rr1.flac
 lokey=64
 hikey=64
 hivel=42
@@ -3106,7 +3106,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb5_p_rr2.wav
+sample=../Samples/green/ord/twang_gb5_p_rr2.flac
 lokey=64
 hikey=64
 hivel=42
@@ -3117,7 +3117,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb5_p_rr1.wav
+sample=../Samples/green/ord/twang_gb5_p_rr1.flac
 lokey=64
 hikey=64
 hivel=42
@@ -3127,7 +3127,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb5_mf_rr4.wav
+sample=../Samples/green/ord/twang_gb5_mf_rr4.flac
 lokey=64
 hikey=64
 lovel=43
@@ -3139,7 +3139,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb5_mf_rr3.wav
+sample=../Samples/green/ord/twang_gb5_mf_rr3.flac
 lokey=64
 hikey=64
 lovel=43
@@ -3151,7 +3151,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb5_mf_rr2.wav
+sample=../Samples/green/ord/twang_gb5_mf_rr2.flac
 lokey=64
 hikey=64
 lovel=43
@@ -3163,7 +3163,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb5_mf_rr1.wav
+sample=../Samples/green/ord/twang_gb5_mf_rr1.flac
 lokey=64
 hikey=64
 lovel=43
@@ -3174,7 +3174,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb5_f_rr4.wav
+sample=../Samples/green/ord/twang_gb5_f_rr4.flac
 lokey=64
 hikey=64
 lovel=85
@@ -3184,7 +3184,7 @@ pitch_keycenter=66
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_gb5_f_rr3.wav
+sample=../Samples/green/ord/twang_gb5_f_rr3.flac
 lokey=64
 hikey=64
 lovel=85
@@ -3194,7 +3194,7 @@ pitch_keycenter=66
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_gb5_f_rr2.wav
+sample=../Samples/green/ord/twang_gb5_f_rr2.flac
 lokey=64
 hikey=64
 lovel=85
@@ -3204,7 +3204,7 @@ pitch_keycenter=66
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_gb5_f_rr1.wav
+sample=../Samples/green/ord/twang_gb5_f_rr1.flac
 lokey=64
 hikey=64
 lovel=85
@@ -3213,7 +3213,7 @@ pitch_keycenter=66
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_g5_p_rr2.wav
+sample=../Samples/green/ord/twang_g5_p_rr2.flac
 lokey=65
 hikey=65
 hivel=42
@@ -3224,7 +3224,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g5_p_rr1.wav
+sample=../Samples/green/ord/twang_g5_p_rr1.flac
 lokey=65
 hikey=65
 hivel=42
@@ -3235,7 +3235,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g5_p_rr2.wav
+sample=../Samples/green/ord/twang_g5_p_rr2.flac
 lokey=65
 hikey=65
 hivel=42
@@ -3246,7 +3246,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g5_p_rr1.wav
+sample=../Samples/green/ord/twang_g5_p_rr1.flac
 lokey=65
 hikey=65
 hivel=42
@@ -3256,7 +3256,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g5_mf_rr4.wav
+sample=../Samples/green/ord/twang_g5_mf_rr4.flac
 lokey=65
 hikey=65
 lovel=43
@@ -3268,7 +3268,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g5_mf_rr3.wav
+sample=../Samples/green/ord/twang_g5_mf_rr3.flac
 lokey=65
 hikey=65
 lovel=43
@@ -3280,7 +3280,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g5_mf_rr2.wav
+sample=../Samples/green/ord/twang_g5_mf_rr2.flac
 lokey=65
 hikey=65
 lovel=43
@@ -3292,7 +3292,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g5_mf_rr1.wav
+sample=../Samples/green/ord/twang_g5_mf_rr1.flac
 lokey=65
 hikey=65
 lovel=43
@@ -3303,7 +3303,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g5_f_rr4.wav
+sample=../Samples/green/ord/twang_g5_f_rr4.flac
 lokey=65
 hikey=65
 lovel=85
@@ -3313,7 +3313,7 @@ pitch_keycenter=67
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_g5_f_rr3.wav
+sample=../Samples/green/ord/twang_g5_f_rr3.flac
 lokey=65
 hikey=65
 lovel=85
@@ -3323,7 +3323,7 @@ pitch_keycenter=67
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_g5_f_rr2.wav
+sample=../Samples/green/ord/twang_g5_f_rr2.flac
 lokey=65
 hikey=65
 lovel=85
@@ -3333,7 +3333,7 @@ pitch_keycenter=67
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_g5_f_rr1.wav
+sample=../Samples/green/ord/twang_g5_f_rr1.flac
 lokey=65
 hikey=65
 lovel=85
@@ -3342,7 +3342,7 @@ pitch_keycenter=67
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_ab5_p_rr2.wav
+sample=../Samples/green/ord/twang_ab5_p_rr2.flac
 lokey=66
 hikey=66
 hivel=42
@@ -3353,7 +3353,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab5_p_rr1.wav
+sample=../Samples/green/ord/twang_ab5_p_rr1.flac
 lokey=66
 hikey=66
 hivel=42
@@ -3364,7 +3364,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab5_p_rr2.wav
+sample=../Samples/green/ord/twang_ab5_p_rr2.flac
 lokey=66
 hikey=66
 hivel=42
@@ -3375,7 +3375,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab5_p_rr1.wav
+sample=../Samples/green/ord/twang_ab5_p_rr1.flac
 lokey=66
 hikey=66
 hivel=42
@@ -3385,7 +3385,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab5_mf_rr4.wav
+sample=../Samples/green/ord/twang_ab5_mf_rr4.flac
 lokey=66
 hikey=66
 lovel=43
@@ -3397,7 +3397,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab5_mf_rr3.wav
+sample=../Samples/green/ord/twang_ab5_mf_rr3.flac
 lokey=66
 hikey=66
 lovel=43
@@ -3409,7 +3409,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab5_mf_rr2.wav
+sample=../Samples/green/ord/twang_ab5_mf_rr2.flac
 lokey=66
 hikey=66
 lovel=43
@@ -3421,7 +3421,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab5_mf_rr1.wav
+sample=../Samples/green/ord/twang_ab5_mf_rr1.flac
 lokey=66
 hikey=66
 lovel=43
@@ -3432,7 +3432,7 @@ lfo02_pitch_oncc113=37
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab5_f_rr4.wav
+sample=../Samples/green/ord/twang_ab5_f_rr4.flac
 lokey=66
 hikey=66
 lovel=85
@@ -3442,7 +3442,7 @@ pitch_keycenter=68
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_ab5_f_rr3.wav
+sample=../Samples/green/ord/twang_ab5_f_rr3.flac
 lokey=66
 hikey=66
 lovel=85
@@ -3452,7 +3452,7 @@ pitch_keycenter=68
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_ab5_f_rr2.wav
+sample=../Samples/green/ord/twang_ab5_f_rr2.flac
 lokey=66
 hikey=66
 lovel=85
@@ -3462,7 +3462,7 @@ pitch_keycenter=68
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_ab5_f_rr1.wav
+sample=../Samples/green/ord/twang_ab5_f_rr1.flac
 lokey=66
 hikey=66
 lovel=85
@@ -3471,7 +3471,7 @@ pitch_keycenter=68
 lfo02_pitch_oncc113=37
 
 <region>
-sample=../Samples/green/ord/twang_a5_p_rr2.wav
+sample=../Samples/green/ord/twang_a5_p_rr2.flac
 lokey=67
 hikey=67
 hivel=42
@@ -3482,7 +3482,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a5_p_rr1.wav
+sample=../Samples/green/ord/twang_a5_p_rr1.flac
 lokey=67
 hikey=67
 hivel=42
@@ -3493,7 +3493,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a5_p_rr2.wav
+sample=../Samples/green/ord/twang_a5_p_rr2.flac
 lokey=67
 hikey=67
 hivel=42
@@ -3504,7 +3504,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a5_p_rr1.wav
+sample=../Samples/green/ord/twang_a5_p_rr1.flac
 lokey=67
 hikey=67
 hivel=42
@@ -3514,7 +3514,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a5_mf_rr4.wav
+sample=../Samples/green/ord/twang_a5_mf_rr4.flac
 lokey=67
 hikey=67
 lovel=43
@@ -3526,7 +3526,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a5_mf_rr3.wav
+sample=../Samples/green/ord/twang_a5_mf_rr3.flac
 lokey=67
 hikey=67
 lovel=43
@@ -3538,7 +3538,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a5_mf_rr2.wav
+sample=../Samples/green/ord/twang_a5_mf_rr2.flac
 lokey=67
 hikey=67
 lovel=43
@@ -3550,7 +3550,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a5_mf_rr1.wav
+sample=../Samples/green/ord/twang_a5_mf_rr1.flac
 lokey=67
 hikey=67
 lovel=43
@@ -3561,7 +3561,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a5_f_rr4.wav
+sample=../Samples/green/ord/twang_a5_f_rr4.flac
 lokey=67
 hikey=67
 lovel=85
@@ -3571,7 +3571,7 @@ pitch_keycenter=69
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/green/ord/twang_a5_f_rr3.wav
+sample=../Samples/green/ord/twang_a5_f_rr3.flac
 lokey=67
 hikey=67
 lovel=85
@@ -3581,7 +3581,7 @@ pitch_keycenter=69
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/green/ord/twang_a5_f_rr2.wav
+sample=../Samples/green/ord/twang_a5_f_rr2.flac
 lokey=67
 hikey=67
 lovel=85
@@ -3591,7 +3591,7 @@ pitch_keycenter=69
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/green/ord/twang_a5_f_rr1.wav
+sample=../Samples/green/ord/twang_a5_f_rr1.flac
 lokey=67
 hikey=67
 lovel=85
@@ -3600,7 +3600,7 @@ pitch_keycenter=69
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/green/ord/twang_bb5_p_rr2.wav
+sample=../Samples/green/ord/twang_bb5_p_rr2.flac
 lokey=68
 hikey=68
 hivel=42
@@ -3611,7 +3611,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb5_p_rr1.wav
+sample=../Samples/green/ord/twang_bb5_p_rr1.flac
 lokey=68
 hikey=68
 hivel=42
@@ -3622,7 +3622,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb5_p_rr2.wav
+sample=../Samples/green/ord/twang_bb5_p_rr2.flac
 lokey=68
 hikey=68
 hivel=42
@@ -3633,7 +3633,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb5_p_rr1.wav
+sample=../Samples/green/ord/twang_bb5_p_rr1.flac
 lokey=68
 hikey=68
 hivel=42
@@ -3643,7 +3643,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb5_mf_rr4.wav
+sample=../Samples/green/ord/twang_bb5_mf_rr4.flac
 lokey=68
 hikey=68
 lovel=43
@@ -3655,7 +3655,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb5_mf_rr3.wav
+sample=../Samples/green/ord/twang_bb5_mf_rr3.flac
 lokey=68
 hikey=68
 lovel=43
@@ -3667,7 +3667,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb5_mf_rr2.wav
+sample=../Samples/green/ord/twang_bb5_mf_rr2.flac
 lokey=68
 hikey=68
 lovel=43
@@ -3679,7 +3679,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb5_mf_rr1.wav
+sample=../Samples/green/ord/twang_bb5_mf_rr1.flac
 lokey=68
 hikey=68
 lovel=43
@@ -3690,7 +3690,7 @@ lfo02_pitch_oncc113=36
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb5_f_rr4.wav
+sample=../Samples/green/ord/twang_bb5_f_rr4.flac
 lokey=68
 hikey=68
 lovel=85
@@ -3700,7 +3700,7 @@ pitch_keycenter=70
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/green/ord/twang_bb5_f_rr3.wav
+sample=../Samples/green/ord/twang_bb5_f_rr3.flac
 lokey=68
 hikey=68
 lovel=85
@@ -3710,7 +3710,7 @@ pitch_keycenter=70
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/green/ord/twang_bb5_f_rr2.wav
+sample=../Samples/green/ord/twang_bb5_f_rr2.flac
 lokey=68
 hikey=68
 lovel=85
@@ -3720,7 +3720,7 @@ pitch_keycenter=70
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/green/ord/twang_bb5_f_rr1.wav
+sample=../Samples/green/ord/twang_bb5_f_rr1.flac
 lokey=68
 hikey=68
 lovel=85
@@ -3729,7 +3729,7 @@ pitch_keycenter=70
 lfo02_pitch_oncc113=36
 
 <region>
-sample=../Samples/green/ord/twang_b5_p_rr2.wav
+sample=../Samples/green/ord/twang_b5_p_rr2.flac
 lokey=69
 hikey=69
 hivel=42
@@ -3740,7 +3740,7 @@ lfo02_pitch_oncc113=34
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b5_p_rr1.wav
+sample=../Samples/green/ord/twang_b5_p_rr1.flac
 lokey=69
 hikey=69
 hivel=42
@@ -3751,7 +3751,7 @@ lfo02_pitch_oncc113=34
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b5_p_rr2.wav
+sample=../Samples/green/ord/twang_b5_p_rr2.flac
 lokey=69
 hikey=69
 hivel=42
@@ -3762,7 +3762,7 @@ lfo02_pitch_oncc113=34
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b5_p_rr1.wav
+sample=../Samples/green/ord/twang_b5_p_rr1.flac
 lokey=69
 hikey=69
 hivel=42
@@ -3772,7 +3772,7 @@ lfo02_pitch_oncc113=34
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b5_mf_rr4.wav
+sample=../Samples/green/ord/twang_b5_mf_rr4.flac
 lokey=69
 hikey=69
 lovel=43
@@ -3784,7 +3784,7 @@ lfo02_pitch_oncc113=34
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b5_mf_rr3.wav
+sample=../Samples/green/ord/twang_b5_mf_rr3.flac
 lokey=69
 hikey=69
 lovel=43
@@ -3796,7 +3796,7 @@ lfo02_pitch_oncc113=34
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b5_mf_rr2.wav
+sample=../Samples/green/ord/twang_b5_mf_rr2.flac
 lokey=69
 hikey=69
 lovel=43
@@ -3808,7 +3808,7 @@ lfo02_pitch_oncc113=34
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b5_mf_rr1.wav
+sample=../Samples/green/ord/twang_b5_mf_rr1.flac
 lokey=69
 hikey=69
 lovel=43
@@ -3819,7 +3819,7 @@ lfo02_pitch_oncc113=34
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b5_f_rr4.wav
+sample=../Samples/green/ord/twang_b5_f_rr4.flac
 lokey=69
 hikey=69
 lovel=85
@@ -3829,7 +3829,7 @@ pitch_keycenter=71
 lfo02_pitch_oncc113=34
 
 <region>
-sample=../Samples/green/ord/twang_b5_f_rr3.wav
+sample=../Samples/green/ord/twang_b5_f_rr3.flac
 lokey=69
 hikey=69
 lovel=85
@@ -3839,7 +3839,7 @@ pitch_keycenter=71
 lfo02_pitch_oncc113=34
 
 <region>
-sample=../Samples/green/ord/twang_b5_f_rr2.wav
+sample=../Samples/green/ord/twang_b5_f_rr2.flac
 lokey=69
 hikey=69
 lovel=85
@@ -3849,7 +3849,7 @@ pitch_keycenter=71
 lfo02_pitch_oncc113=34
 
 <region>
-sample=../Samples/green/ord/twang_b5_f_rr1.wav
+sample=../Samples/green/ord/twang_b5_f_rr1.flac
 lokey=69
 hikey=69
 lovel=85
@@ -3858,7 +3858,7 @@ pitch_keycenter=71
 lfo02_pitch_oncc113=34
 
 <region>
-sample=../Samples/green/ord/twang_c6_p_rr2.wav
+sample=../Samples/green/ord/twang_c6_p_rr2.flac
 lokey=70
 hikey=70
 hivel=42
@@ -3869,7 +3869,7 @@ lfo02_pitch_oncc113=33
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c6_p_rr1.wav
+sample=../Samples/green/ord/twang_c6_p_rr1.flac
 lokey=70
 hikey=70
 hivel=42
@@ -3880,7 +3880,7 @@ lfo02_pitch_oncc113=33
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c6_p_rr2.wav
+sample=../Samples/green/ord/twang_c6_p_rr2.flac
 lokey=70
 hikey=70
 hivel=42
@@ -3891,7 +3891,7 @@ lfo02_pitch_oncc113=33
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c6_p_rr1.wav
+sample=../Samples/green/ord/twang_c6_p_rr1.flac
 lokey=70
 hikey=70
 hivel=42
@@ -3901,7 +3901,7 @@ lfo02_pitch_oncc113=33
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c6_mf_rr4.wav
+sample=../Samples/green/ord/twang_c6_mf_rr4.flac
 lokey=70
 hikey=70
 lovel=43
@@ -3913,7 +3913,7 @@ lfo02_pitch_oncc113=33
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c6_mf_rr3.wav
+sample=../Samples/green/ord/twang_c6_mf_rr3.flac
 lokey=70
 hikey=70
 lovel=43
@@ -3925,7 +3925,7 @@ lfo02_pitch_oncc113=33
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c6_mf_rr2.wav
+sample=../Samples/green/ord/twang_c6_mf_rr2.flac
 lokey=70
 hikey=70
 lovel=43
@@ -3937,7 +3937,7 @@ lfo02_pitch_oncc113=33
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c6_mf_rr1.wav
+sample=../Samples/green/ord/twang_c6_mf_rr1.flac
 lokey=70
 hikey=70
 lovel=43
@@ -3948,7 +3948,7 @@ lfo02_pitch_oncc113=33
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c6_f_rr4.wav
+sample=../Samples/green/ord/twang_c6_f_rr4.flac
 lokey=70
 hikey=70
 lovel=85
@@ -3958,7 +3958,7 @@ pitch_keycenter=72
 lfo02_pitch_oncc113=33
 
 <region>
-sample=../Samples/green/ord/twang_c6_f_rr3.wav
+sample=../Samples/green/ord/twang_c6_f_rr3.flac
 lokey=70
 hikey=70
 lovel=85
@@ -3968,7 +3968,7 @@ pitch_keycenter=72
 lfo02_pitch_oncc113=33
 
 <region>
-sample=../Samples/green/ord/twang_c6_f_rr2.wav
+sample=../Samples/green/ord/twang_c6_f_rr2.flac
 lokey=70
 hikey=70
 lovel=85
@@ -3978,7 +3978,7 @@ pitch_keycenter=72
 lfo02_pitch_oncc113=33
 
 <region>
-sample=../Samples/green/ord/twang_c6_f_rr1.wav
+sample=../Samples/green/ord/twang_c6_f_rr1.flac
 lokey=70
 hikey=70
 lovel=85
@@ -3987,7 +3987,7 @@ pitch_keycenter=72
 lfo02_pitch_oncc113=33
 
 <region>
-sample=../Samples/green/ord/twang_db6_p_rr2.wav
+sample=../Samples/green/ord/twang_db6_p_rr2.flac
 lokey=71
 hikey=71
 hivel=42
@@ -3998,7 +3998,7 @@ lfo02_pitch_oncc113=32
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db6_p_rr1.wav
+sample=../Samples/green/ord/twang_db6_p_rr1.flac
 lokey=71
 hikey=71
 hivel=42
@@ -4009,7 +4009,7 @@ lfo02_pitch_oncc113=32
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db6_p_rr2.wav
+sample=../Samples/green/ord/twang_db6_p_rr2.flac
 lokey=71
 hikey=71
 hivel=42
@@ -4020,7 +4020,7 @@ lfo02_pitch_oncc113=32
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db6_p_rr1.wav
+sample=../Samples/green/ord/twang_db6_p_rr1.flac
 lokey=71
 hikey=71
 hivel=42
@@ -4030,7 +4030,7 @@ lfo02_pitch_oncc113=32
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db6_mf_rr4.wav
+sample=../Samples/green/ord/twang_db6_mf_rr4.flac
 lokey=71
 hikey=71
 lovel=43
@@ -4042,7 +4042,7 @@ lfo02_pitch_oncc113=32
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db6_mf_rr3.wav
+sample=../Samples/green/ord/twang_db6_mf_rr3.flac
 lokey=71
 hikey=71
 lovel=43
@@ -4054,7 +4054,7 @@ lfo02_pitch_oncc113=32
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db6_mf_rr2.wav
+sample=../Samples/green/ord/twang_db6_mf_rr2.flac
 lokey=71
 hikey=71
 lovel=43
@@ -4066,7 +4066,7 @@ lfo02_pitch_oncc113=32
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db6_mf_rr1.wav
+sample=../Samples/green/ord/twang_db6_mf_rr1.flac
 lokey=71
 hikey=71
 lovel=43
@@ -4077,7 +4077,7 @@ lfo02_pitch_oncc113=32
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db6_f_rr4.wav
+sample=../Samples/green/ord/twang_db6_f_rr4.flac
 lokey=71
 hikey=71
 lovel=85
@@ -4087,7 +4087,7 @@ pitch_keycenter=73
 lfo02_pitch_oncc113=32
 
 <region>
-sample=../Samples/green/ord/twang_db6_f_rr3.wav
+sample=../Samples/green/ord/twang_db6_f_rr3.flac
 lokey=71
 hikey=71
 lovel=85
@@ -4097,7 +4097,7 @@ pitch_keycenter=73
 lfo02_pitch_oncc113=32
 
 <region>
-sample=../Samples/green/ord/twang_db6_f_rr2.wav
+sample=../Samples/green/ord/twang_db6_f_rr2.flac
 lokey=71
 hikey=71
 lovel=85
@@ -4107,7 +4107,7 @@ pitch_keycenter=73
 lfo02_pitch_oncc113=32
 
 <region>
-sample=../Samples/green/ord/twang_db6_f_rr1.wav
+sample=../Samples/green/ord/twang_db6_f_rr1.flac
 lokey=71
 hikey=71
 lovel=85
@@ -4116,7 +4116,7 @@ pitch_keycenter=73
 lfo02_pitch_oncc113=32
 
 <region>
-sample=../Samples/green/ord/twang_d6_p_rr2.wav
+sample=../Samples/green/ord/twang_d6_p_rr2.flac
 lokey=72
 hikey=72
 hivel=42
@@ -4127,7 +4127,7 @@ lfo02_pitch_oncc113=31
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d6_p_rr1.wav
+sample=../Samples/green/ord/twang_d6_p_rr1.flac
 lokey=72
 hikey=72
 hivel=42
@@ -4138,7 +4138,7 @@ lfo02_pitch_oncc113=31
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d6_p_rr2.wav
+sample=../Samples/green/ord/twang_d6_p_rr2.flac
 lokey=72
 hikey=72
 hivel=42
@@ -4149,7 +4149,7 @@ lfo02_pitch_oncc113=31
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d6_p_rr1.wav
+sample=../Samples/green/ord/twang_d6_p_rr1.flac
 lokey=72
 hikey=72
 hivel=42
@@ -4159,7 +4159,7 @@ lfo02_pitch_oncc113=31
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d6_mf_rr4.wav
+sample=../Samples/green/ord/twang_d6_mf_rr4.flac
 lokey=72
 hikey=72
 lovel=43
@@ -4171,7 +4171,7 @@ lfo02_pitch_oncc113=31
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d6_mf_rr3.wav
+sample=../Samples/green/ord/twang_d6_mf_rr3.flac
 lokey=72
 hikey=72
 lovel=43
@@ -4183,7 +4183,7 @@ lfo02_pitch_oncc113=31
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d6_mf_rr2.wav
+sample=../Samples/green/ord/twang_d6_mf_rr2.flac
 lokey=72
 hikey=72
 lovel=43
@@ -4195,7 +4195,7 @@ lfo02_pitch_oncc113=31
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d6_mf_rr1.wav
+sample=../Samples/green/ord/twang_d6_mf_rr1.flac
 lokey=72
 hikey=72
 lovel=43
@@ -4206,7 +4206,7 @@ lfo02_pitch_oncc113=31
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d6_f_rr4.wav
+sample=../Samples/green/ord/twang_d6_f_rr4.flac
 lokey=72
 hikey=72
 lovel=85
@@ -4216,7 +4216,7 @@ pitch_keycenter=74
 lfo02_pitch_oncc113=31
 
 <region>
-sample=../Samples/green/ord/twang_d6_f_rr3.wav
+sample=../Samples/green/ord/twang_d6_f_rr3.flac
 lokey=72
 hikey=72
 lovel=85
@@ -4226,7 +4226,7 @@ pitch_keycenter=74
 lfo02_pitch_oncc113=31
 
 <region>
-sample=../Samples/green/ord/twang_d6_f_rr2.wav
+sample=../Samples/green/ord/twang_d6_f_rr2.flac
 lokey=72
 hikey=72
 lovel=85
@@ -4236,7 +4236,7 @@ pitch_keycenter=74
 lfo02_pitch_oncc113=31
 
 <region>
-sample=../Samples/green/ord/twang_d6_f_rr1.wav
+sample=../Samples/green/ord/twang_d6_f_rr1.flac
 lokey=72
 hikey=72
 lovel=85
@@ -4245,7 +4245,7 @@ pitch_keycenter=74
 lfo02_pitch_oncc113=31
 
 <region>
-sample=../Samples/green/ord/twang_eb6_p_rr2.wav
+sample=../Samples/green/ord/twang_eb6_p_rr2.flac
 lokey=73
 hikey=73
 hivel=42
@@ -4256,7 +4256,7 @@ lfo02_pitch_oncc113=30
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb6_p_rr1.wav
+sample=../Samples/green/ord/twang_eb6_p_rr1.flac
 lokey=73
 hikey=73
 hivel=42
@@ -4267,7 +4267,7 @@ lfo02_pitch_oncc113=30
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb6_p_rr2.wav
+sample=../Samples/green/ord/twang_eb6_p_rr2.flac
 lokey=73
 hikey=73
 hivel=42
@@ -4278,7 +4278,7 @@ lfo02_pitch_oncc113=30
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb6_p_rr1.wav
+sample=../Samples/green/ord/twang_eb6_p_rr1.flac
 lokey=73
 hikey=73
 hivel=42
@@ -4288,7 +4288,7 @@ lfo02_pitch_oncc113=30
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_eb6_mf_rr4.wav
+sample=../Samples/green/ord/twang_eb6_mf_rr4.flac
 lokey=73
 hikey=73
 lovel=43
@@ -4300,7 +4300,7 @@ lfo02_pitch_oncc113=30
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb6_mf_rr3.wav
+sample=../Samples/green/ord/twang_eb6_mf_rr3.flac
 lokey=73
 hikey=73
 lovel=43
@@ -4312,7 +4312,7 @@ lfo02_pitch_oncc113=30
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb6_mf_rr2.wav
+sample=../Samples/green/ord/twang_eb6_mf_rr2.flac
 lokey=73
 hikey=73
 lovel=43
@@ -4324,7 +4324,7 @@ lfo02_pitch_oncc113=30
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb6_mf_rr1.wav
+sample=../Samples/green/ord/twang_eb6_mf_rr1.flac
 lokey=73
 hikey=73
 lovel=43
@@ -4335,7 +4335,7 @@ lfo02_pitch_oncc113=30
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_eb6_f_rr4.wav
+sample=../Samples/green/ord/twang_eb6_f_rr4.flac
 lokey=73
 hikey=73
 lovel=85
@@ -4345,7 +4345,7 @@ pitch_keycenter=75
 lfo02_pitch_oncc113=30
 
 <region>
-sample=../Samples/green/ord/twang_eb6_f_rr3.wav
+sample=../Samples/green/ord/twang_eb6_f_rr3.flac
 lokey=73
 hikey=73
 lovel=85
@@ -4355,7 +4355,7 @@ pitch_keycenter=75
 lfo02_pitch_oncc113=30
 
 <region>
-sample=../Samples/green/ord/twang_eb6_f_rr2.wav
+sample=../Samples/green/ord/twang_eb6_f_rr2.flac
 lokey=73
 hikey=73
 lovel=85
@@ -4365,7 +4365,7 @@ pitch_keycenter=75
 lfo02_pitch_oncc113=30
 
 <region>
-sample=../Samples/green/ord/twang_eb6_f_rr1.wav
+sample=../Samples/green/ord/twang_eb6_f_rr1.flac
 lokey=73
 hikey=73
 lovel=85
@@ -4374,7 +4374,7 @@ pitch_keycenter=75
 lfo02_pitch_oncc113=30
 
 <region>
-sample=../Samples/green/ord/twang_e6_p_rr2.wav
+sample=../Samples/green/ord/twang_e6_p_rr2.flac
 lokey=74
 hikey=74
 hivel=42
@@ -4385,7 +4385,7 @@ lfo02_pitch_oncc113=29
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e6_p_rr1.wav
+sample=../Samples/green/ord/twang_e6_p_rr1.flac
 lokey=74
 hikey=74
 hivel=42
@@ -4396,7 +4396,7 @@ lfo02_pitch_oncc113=29
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e6_p_rr2.wav
+sample=../Samples/green/ord/twang_e6_p_rr2.flac
 lokey=74
 hikey=74
 hivel=42
@@ -4407,7 +4407,7 @@ lfo02_pitch_oncc113=29
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e6_p_rr1.wav
+sample=../Samples/green/ord/twang_e6_p_rr1.flac
 lokey=74
 hikey=74
 hivel=42
@@ -4417,7 +4417,7 @@ lfo02_pitch_oncc113=29
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_e6_mf_rr4.wav
+sample=../Samples/green/ord/twang_e6_mf_rr4.flac
 lokey=74
 hikey=74
 lovel=43
@@ -4429,7 +4429,7 @@ lfo02_pitch_oncc113=29
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e6_mf_rr3.wav
+sample=../Samples/green/ord/twang_e6_mf_rr3.flac
 lokey=74
 hikey=74
 lovel=43
@@ -4441,7 +4441,7 @@ lfo02_pitch_oncc113=29
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e6_mf_rr2.wav
+sample=../Samples/green/ord/twang_e6_mf_rr2.flac
 lokey=74
 hikey=74
 lovel=43
@@ -4453,7 +4453,7 @@ lfo02_pitch_oncc113=29
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e6_mf_rr1.wav
+sample=../Samples/green/ord/twang_e6_mf_rr1.flac
 lokey=74
 hikey=74
 lovel=43
@@ -4464,7 +4464,7 @@ lfo02_pitch_oncc113=29
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_e6_f_rr4.wav
+sample=../Samples/green/ord/twang_e6_f_rr4.flac
 lokey=74
 hikey=74
 lovel=85
@@ -4474,7 +4474,7 @@ pitch_keycenter=76
 lfo02_pitch_oncc113=29
 
 <region>
-sample=../Samples/green/ord/twang_e6_f_rr3.wav
+sample=../Samples/green/ord/twang_e6_f_rr3.flac
 lokey=74
 hikey=74
 lovel=85
@@ -4484,7 +4484,7 @@ pitch_keycenter=76
 lfo02_pitch_oncc113=29
 
 <region>
-sample=../Samples/green/ord/twang_e6_f_rr2.wav
+sample=../Samples/green/ord/twang_e6_f_rr2.flac
 lokey=74
 hikey=74
 lovel=85
@@ -4494,7 +4494,7 @@ pitch_keycenter=76
 lfo02_pitch_oncc113=29
 
 <region>
-sample=../Samples/green/ord/twang_e6_f_rr1.wav
+sample=../Samples/green/ord/twang_e6_f_rr1.flac
 lokey=74
 hikey=74
 lovel=85
@@ -4503,7 +4503,7 @@ pitch_keycenter=76
 lfo02_pitch_oncc113=29
 
 <region>
-sample=../Samples/green/ord/twang_f6_p_rr2.wav
+sample=../Samples/green/ord/twang_f6_p_rr2.flac
 lokey=75
 hikey=75
 hivel=42
@@ -4514,7 +4514,7 @@ lfo02_pitch_oncc113=28
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_f6_p_rr1.wav
+sample=../Samples/green/ord/twang_f6_p_rr1.flac
 lokey=75
 hikey=75
 hivel=42
@@ -4524,7 +4524,7 @@ lfo02_pitch_oncc113=28
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_f6_mf_rr2.wav
+sample=../Samples/green/ord/twang_f6_mf_rr2.flac
 lokey=75
 hikey=75
 lovel=43
@@ -4536,7 +4536,7 @@ lfo02_pitch_oncc113=28
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_f6_mf_rr1.wav
+sample=../Samples/green/ord/twang_f6_mf_rr1.flac
 lokey=75
 hikey=75
 lovel=43
@@ -4547,7 +4547,7 @@ lfo02_pitch_oncc113=28
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_f6_f_rr2.wav
+sample=../Samples/green/ord/twang_f6_f_rr2.flac
 lokey=75
 hikey=75
 lovel=85
@@ -4557,7 +4557,7 @@ pitch_keycenter=77
 lfo02_pitch_oncc113=28
 
 <region>
-sample=../Samples/green/ord/twang_f6_f_rr1.wav
+sample=../Samples/green/ord/twang_f6_f_rr1.flac
 lokey=75
 hikey=75
 lovel=85
@@ -4566,7 +4566,7 @@ pitch_keycenter=77
 lfo02_pitch_oncc113=28
 
 <region>
-sample=../Samples/green/ord/twang_gb6_p_rr2.wav
+sample=../Samples/green/ord/twang_gb6_p_rr2.flac
 lokey=76
 hikey=76
 hivel=42
@@ -4577,7 +4577,7 @@ lfo02_pitch_oncc113=28
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb6_p_rr1.wav
+sample=../Samples/green/ord/twang_gb6_p_rr1.flac
 lokey=76
 hikey=76
 hivel=42
@@ -4587,7 +4587,7 @@ lfo02_pitch_oncc113=28
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_gb6_mf_rr2.wav
+sample=../Samples/green/ord/twang_gb6_mf_rr2.flac
 lokey=76
 hikey=76
 lovel=43
@@ -4599,7 +4599,7 @@ lfo02_pitch_oncc113=28
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb6_mf_rr1.wav
+sample=../Samples/green/ord/twang_gb6_mf_rr1.flac
 lokey=76
 hikey=76
 lovel=43
@@ -4610,7 +4610,7 @@ lfo02_pitch_oncc113=28
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_gb6_f_rr2.wav
+sample=../Samples/green/ord/twang_gb6_f_rr2.flac
 lokey=76
 hikey=76
 lovel=85
@@ -4620,7 +4620,7 @@ pitch_keycenter=78
 lfo02_pitch_oncc113=28
 
 <region>
-sample=../Samples/green/ord/twang_gb6_f_rr1.wav
+sample=../Samples/green/ord/twang_gb6_f_rr1.flac
 lokey=76
 hikey=76
 lovel=85
@@ -4629,7 +4629,7 @@ pitch_keycenter=78
 lfo02_pitch_oncc113=28
 
 <region>
-sample=../Samples/green/ord/twang_g6_p_rr2.wav
+sample=../Samples/green/ord/twang_g6_p_rr2.flac
 lokey=77
 hikey=77
 hivel=42
@@ -4640,7 +4640,7 @@ lfo02_pitch_oncc113=27
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g6_p_rr1.wav
+sample=../Samples/green/ord/twang_g6_p_rr1.flac
 lokey=77
 hikey=77
 hivel=42
@@ -4650,7 +4650,7 @@ lfo02_pitch_oncc113=27
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_g6_mf_rr2.wav
+sample=../Samples/green/ord/twang_g6_mf_rr2.flac
 lokey=77
 hikey=77
 lovel=43
@@ -4662,7 +4662,7 @@ lfo02_pitch_oncc113=27
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g6_mf_rr1.wav
+sample=../Samples/green/ord/twang_g6_mf_rr1.flac
 lokey=77
 hikey=77
 lovel=43
@@ -4673,7 +4673,7 @@ lfo02_pitch_oncc113=27
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_g6_f_rr2.wav
+sample=../Samples/green/ord/twang_g6_f_rr2.flac
 lokey=77
 hikey=77
 lovel=85
@@ -4683,7 +4683,7 @@ pitch_keycenter=79
 lfo02_pitch_oncc113=27
 
 <region>
-sample=../Samples/green/ord/twang_g6_f_rr1.wav
+sample=../Samples/green/ord/twang_g6_f_rr1.flac
 lokey=77
 hikey=77
 lovel=85
@@ -4692,7 +4692,7 @@ pitch_keycenter=79
 lfo02_pitch_oncc113=27
 
 <region>
-sample=../Samples/green/ord/twang_ab6_p_rr2.wav
+sample=../Samples/green/ord/twang_ab6_p_rr2.flac
 lokey=78
 hikey=78
 hivel=42
@@ -4703,7 +4703,7 @@ lfo02_pitch_oncc113=26
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab6_p_rr1.wav
+sample=../Samples/green/ord/twang_ab6_p_rr1.flac
 lokey=78
 hikey=78
 hivel=42
@@ -4713,7 +4713,7 @@ lfo02_pitch_oncc113=26
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_ab6_mf_rr2.wav
+sample=../Samples/green/ord/twang_ab6_mf_rr2.flac
 lokey=78
 hikey=78
 lovel=43
@@ -4725,7 +4725,7 @@ lfo02_pitch_oncc113=26
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab6_mf_rr1.wav
+sample=../Samples/green/ord/twang_ab6_mf_rr1.flac
 lokey=78
 hikey=78
 lovel=43
@@ -4736,7 +4736,7 @@ lfo02_pitch_oncc113=26
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_ab6_f_rr2.wav
+sample=../Samples/green/ord/twang_ab6_f_rr2.flac
 lokey=78
 hikey=78
 lovel=85
@@ -4746,7 +4746,7 @@ pitch_keycenter=80
 lfo02_pitch_oncc113=26
 
 <region>
-sample=../Samples/green/ord/twang_ab6_f_rr1.wav
+sample=../Samples/green/ord/twang_ab6_f_rr1.flac
 lokey=78
 hikey=78
 lovel=85
@@ -4755,7 +4755,7 @@ pitch_keycenter=80
 lfo02_pitch_oncc113=26
 
 <region>
-sample=../Samples/green/ord/twang_a6_p_rr2.wav
+sample=../Samples/green/ord/twang_a6_p_rr2.flac
 lokey=79
 hikey=79
 hivel=42
@@ -4766,7 +4766,7 @@ lfo02_pitch_oncc113=25
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a6_p_rr1.wav
+sample=../Samples/green/ord/twang_a6_p_rr1.flac
 lokey=79
 hikey=79
 hivel=42
@@ -4776,7 +4776,7 @@ lfo02_pitch_oncc113=25
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_a6_mf_rr2.wav
+sample=../Samples/green/ord/twang_a6_mf_rr2.flac
 lokey=79
 hikey=79
 lovel=43
@@ -4788,7 +4788,7 @@ lfo02_pitch_oncc113=25
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a6_mf_rr1.wav
+sample=../Samples/green/ord/twang_a6_mf_rr1.flac
 lokey=79
 hikey=79
 lovel=43
@@ -4799,7 +4799,7 @@ lfo02_pitch_oncc113=25
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_a6_f_rr2.wav
+sample=../Samples/green/ord/twang_a6_f_rr2.flac
 lokey=79
 hikey=79
 lovel=85
@@ -4809,7 +4809,7 @@ pitch_keycenter=81
 lfo02_pitch_oncc113=25
 
 <region>
-sample=../Samples/green/ord/twang_a6_f_rr1.wav
+sample=../Samples/green/ord/twang_a6_f_rr1.flac
 lokey=79
 hikey=79
 lovel=85
@@ -4818,7 +4818,7 @@ pitch_keycenter=81
 lfo02_pitch_oncc113=25
 
 <region>
-sample=../Samples/green/ord/twang_bb6_p_rr2.wav
+sample=../Samples/green/ord/twang_bb6_p_rr2.flac
 lokey=80
 hikey=80
 hivel=42
@@ -4829,7 +4829,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb6_p_rr1.wav
+sample=../Samples/green/ord/twang_bb6_p_rr1.flac
 lokey=80
 hikey=80
 hivel=42
@@ -4839,7 +4839,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_bb6_mf_rr2.wav
+sample=../Samples/green/ord/twang_bb6_mf_rr2.flac
 lokey=80
 hikey=80
 lovel=43
@@ -4851,7 +4851,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb6_mf_rr1.wav
+sample=../Samples/green/ord/twang_bb6_mf_rr1.flac
 lokey=80
 hikey=80
 lovel=43
@@ -4862,7 +4862,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_bb6_f_rr2.wav
+sample=../Samples/green/ord/twang_bb6_f_rr2.flac
 lokey=80
 hikey=80
 lovel=85
@@ -4872,7 +4872,7 @@ pitch_keycenter=82
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_bb6_f_rr1.wav
+sample=../Samples/green/ord/twang_bb6_f_rr1.flac
 lokey=80
 hikey=80
 lovel=85
@@ -4881,7 +4881,7 @@ pitch_keycenter=82
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_b6_p_rr2.wav
+sample=../Samples/green/ord/twang_b6_p_rr2.flac
 lokey=81
 hikey=81
 hivel=42
@@ -4892,7 +4892,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b6_p_rr1.wav
+sample=../Samples/green/ord/twang_b6_p_rr1.flac
 lokey=81
 hikey=81
 hivel=42
@@ -4902,7 +4902,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_b6_mf_rr2.wav
+sample=../Samples/green/ord/twang_b6_mf_rr2.flac
 lokey=81
 hikey=81
 lovel=43
@@ -4914,7 +4914,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b6_mf_rr1.wav
+sample=../Samples/green/ord/twang_b6_mf_rr1.flac
 lokey=81
 hikey=81
 lovel=43
@@ -4925,7 +4925,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_b6_f_rr2.wav
+sample=../Samples/green/ord/twang_b6_f_rr2.flac
 lokey=81
 hikey=81
 lovel=85
@@ -4935,7 +4935,7 @@ pitch_keycenter=83
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_b6_f_rr1.wav
+sample=../Samples/green/ord/twang_b6_f_rr1.flac
 lokey=81
 hikey=81
 lovel=85
@@ -4944,7 +4944,7 @@ pitch_keycenter=83
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_c7_p_rr2.wav
+sample=../Samples/green/ord/twang_c7_p_rr2.flac
 lokey=82
 hikey=82
 hivel=42
@@ -4955,7 +4955,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c7_p_rr1.wav
+sample=../Samples/green/ord/twang_c7_p_rr1.flac
 lokey=82
 hikey=82
 hivel=42
@@ -4965,7 +4965,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c7_mf_rr2.wav
+sample=../Samples/green/ord/twang_c7_mf_rr2.flac
 lokey=82
 hikey=82
 lovel=43
@@ -4977,7 +4977,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c7_mf_rr1.wav
+sample=../Samples/green/ord/twang_c7_mf_rr1.flac
 lokey=82
 hikey=82
 lovel=43
@@ -4988,7 +4988,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c7_f_rr2.wav
+sample=../Samples/green/ord/twang_c7_f_rr2.flac
 lokey=82
 hikey=82
 lovel=85
@@ -4998,7 +4998,7 @@ pitch_keycenter=84
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_c7_f_rr1.wav
+sample=../Samples/green/ord/twang_c7_f_rr1.flac
 lokey=82
 hikey=82
 lovel=85
@@ -5007,7 +5007,7 @@ pitch_keycenter=84
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_c7_p_rr2.wav
+sample=../Samples/green/ord/twang_c7_p_rr2.flac
 lokey=85
 hikey=85
 hivel=42
@@ -5018,7 +5018,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c7_p_rr1.wav
+sample=../Samples/green/ord/twang_c7_p_rr1.flac
 lokey=85
 hikey=85
 hivel=42
@@ -5028,7 +5028,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_c7_mf_rr2.wav
+sample=../Samples/green/ord/twang_c7_mf_rr2.flac
 lokey=85
 hikey=85
 lovel=43
@@ -5040,7 +5040,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c7_mf_rr1.wav
+sample=../Samples/green/ord/twang_c7_mf_rr1.flac
 lokey=85
 hikey=85
 lovel=43
@@ -5051,7 +5051,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_c7_f_rr2.wav
+sample=../Samples/green/ord/twang_c7_f_rr2.flac
 lokey=85
 hikey=85
 lovel=85
@@ -5061,7 +5061,7 @@ pitch_keycenter=84
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_c7_f_rr1.wav
+sample=../Samples/green/ord/twang_c7_f_rr1.flac
 lokey=85
 hikey=85
 lovel=85
@@ -5070,7 +5070,7 @@ pitch_keycenter=84
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_db7_p_rr2.wav
+sample=../Samples/green/ord/twang_db7_p_rr2.flac
 lokey=83
 hikey=83
 hivel=42
@@ -5081,7 +5081,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db7_p_rr1.wav
+sample=../Samples/green/ord/twang_db7_p_rr1.flac
 lokey=83
 hikey=83
 hivel=42
@@ -5091,7 +5091,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db7_mf_rr2.wav
+sample=../Samples/green/ord/twang_db7_mf_rr2.flac
 lokey=83
 hikey=83
 lovel=43
@@ -5103,7 +5103,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db7_mf_rr1.wav
+sample=../Samples/green/ord/twang_db7_mf_rr1.flac
 lokey=83
 hikey=83
 lovel=43
@@ -5114,7 +5114,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db7_f_rr2.wav
+sample=../Samples/green/ord/twang_db7_f_rr2.flac
 lokey=83
 hikey=83
 lovel=85
@@ -5124,7 +5124,7 @@ pitch_keycenter=85
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_db7_f_rr1.wav
+sample=../Samples/green/ord/twang_db7_f_rr1.flac
 lokey=83
 hikey=83
 lovel=85
@@ -5133,7 +5133,7 @@ pitch_keycenter=85
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_db7_p_rr2.wav
+sample=../Samples/green/ord/twang_db7_p_rr2.flac
 lokey=86
 hikey=86
 hivel=42
@@ -5144,7 +5144,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db7_p_rr1.wav
+sample=../Samples/green/ord/twang_db7_p_rr1.flac
 lokey=86
 hikey=86
 hivel=42
@@ -5154,7 +5154,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_db7_mf_rr2.wav
+sample=../Samples/green/ord/twang_db7_mf_rr2.flac
 lokey=86
 hikey=86
 lovel=43
@@ -5166,7 +5166,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db7_mf_rr1.wav
+sample=../Samples/green/ord/twang_db7_mf_rr1.flac
 lokey=86
 hikey=86
 lovel=43
@@ -5177,7 +5177,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_db7_f_rr2.wav
+sample=../Samples/green/ord/twang_db7_f_rr2.flac
 lokey=86
 hikey=86
 lovel=85
@@ -5187,7 +5187,7 @@ pitch_keycenter=85
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_db7_f_rr1.wav
+sample=../Samples/green/ord/twang_db7_f_rr1.flac
 lokey=86
 hikey=86
 lovel=85
@@ -5196,7 +5196,7 @@ pitch_keycenter=85
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_d7_p_rr2.wav
+sample=../Samples/green/ord/twang_d7_p_rr2.flac
 lokey=84
 hikey=84
 hivel=42
@@ -5207,7 +5207,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d7_p_rr1.wav
+sample=../Samples/green/ord/twang_d7_p_rr1.flac
 lokey=84
 hikey=84
 hivel=42
@@ -5217,7 +5217,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_42=1
 
 <region>
-sample=../Samples/green/ord/twang_d7_mf_rr2.wav
+sample=../Samples/green/ord/twang_d7_mf_rr2.flac
 lokey=84
 hikey=84
 lovel=43
@@ -5229,7 +5229,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d7_mf_rr1.wav
+sample=../Samples/green/ord/twang_d7_mf_rr1.flac
 lokey=84
 hikey=84
 lovel=43
@@ -5240,7 +5240,7 @@ lfo02_pitch_oncc113=20
 amp_velcurve_84=1
 
 <region>
-sample=../Samples/green/ord/twang_d7_f_rr2.wav
+sample=../Samples/green/ord/twang_d7_f_rr2.flac
 lokey=84
 hikey=84
 lovel=85
@@ -5250,7 +5250,7 @@ pitch_keycenter=86
 lfo02_pitch_oncc113=20
 
 <region>
-sample=../Samples/green/ord/twang_d7_f_rr1.wav
+sample=../Samples/green/ord/twang_d7_f_rr1.flac
 lokey=84
 hikey=84
 lovel=85
