@@ -1,6 +1,6 @@
 
 <region>
-sample=../Samples/black/rel/release_e3_rr4.wav
+sample=../Samples/black/rel/release_e3_rr4.flac
 lokey=40
 hikey=40
 seq_length=4
@@ -8,7 +8,7 @@ seq_position=4
 pitch_keycenter=40
 
 <region>
-sample=../Samples/black/rel/release_e3_rr3.wav
+sample=../Samples/black/rel/release_e3_rr3.flac
 lokey=40
 hikey=40
 seq_length=4
@@ -16,7 +16,7 @@ seq_position=3
 pitch_keycenter=40
 
 <region>
-sample=../Samples/black/rel/release_e3_rr2.wav
+sample=../Samples/black/rel/release_e3_rr2.flac
 lokey=40
 hikey=40
 seq_length=4
@@ -24,14 +24,14 @@ seq_position=2
 pitch_keycenter=40
 
 <region>
-sample=../Samples/black/rel/release_e3_rr1.wav
+sample=../Samples/black/rel/release_e3_rr1.flac
 lokey=40
 hikey=40
 seq_length=4
 pitch_keycenter=40
 
 <region>
-sample=../Samples/black/rel/release_f3_rr4.wav
+sample=../Samples/black/rel/release_f3_rr4.flac
 lokey=41
 hikey=41
 seq_length=4
@@ -39,7 +39,7 @@ seq_position=4
 pitch_keycenter=41
 
 <region>
-sample=../Samples/black/rel/release_f3_rr3.wav
+sample=../Samples/black/rel/release_f3_rr3.flac
 lokey=41
 hikey=41
 seq_length=4
@@ -47,7 +47,7 @@ seq_position=3
 pitch_keycenter=41
 
 <region>
-sample=../Samples/black/rel/release_f3_rr2.wav
+sample=../Samples/black/rel/release_f3_rr2.flac
 lokey=41
 hikey=41
 seq_length=4
@@ -55,14 +55,14 @@ seq_position=2
 pitch_keycenter=41
 
 <region>
-sample=../Samples/black/rel/release_f3_rr1.wav
+sample=../Samples/black/rel/release_f3_rr1.flac
 lokey=41
 hikey=41
 seq_length=4
 pitch_keycenter=41
 
 <region>
-sample=../Samples/black/rel/release_gb3_rr4.wav
+sample=../Samples/black/rel/release_gb3_rr4.flac
 lokey=42
 hikey=42
 seq_length=4
@@ -70,7 +70,7 @@ seq_position=4
 pitch_keycenter=42
 
 <region>
-sample=../Samples/black/rel/release_gb3_rr3.wav
+sample=../Samples/black/rel/release_gb3_rr3.flac
 lokey=42
 hikey=42
 seq_length=4
@@ -78,7 +78,7 @@ seq_position=3
 pitch_keycenter=42
 
 <region>
-sample=../Samples/black/rel/release_gb3_rr2.wav
+sample=../Samples/black/rel/release_gb3_rr2.flac
 lokey=42
 hikey=42
 seq_length=4
@@ -86,14 +86,14 @@ seq_position=2
 pitch_keycenter=42
 
 <region>
-sample=../Samples/black/rel/release_gb3_rr1.wav
+sample=../Samples/black/rel/release_gb3_rr1.flac
 lokey=42
 hikey=42
 seq_length=4
 pitch_keycenter=42
 
 <region>
-sample=../Samples/black/rel/release_g3_rr4.wav
+sample=../Samples/black/rel/release_g3_rr4.flac
 lokey=43
 hikey=43
 seq_length=4
@@ -101,7 +101,7 @@ seq_position=4
 pitch_keycenter=43
 
 <region>
-sample=../Samples/black/rel/release_g3_rr3.wav
+sample=../Samples/black/rel/release_g3_rr3.flac
 lokey=43
 hikey=43
 seq_length=4
@@ -109,7 +109,7 @@ seq_position=3
 pitch_keycenter=43
 
 <region>
-sample=../Samples/black/rel/release_g3_rr2.wav
+sample=../Samples/black/rel/release_g3_rr2.flac
 lokey=43
 hikey=43
 seq_length=4
@@ -117,14 +117,14 @@ seq_position=2
 pitch_keycenter=43
 
 <region>
-sample=../Samples/black/rel/release_g3_rr1.wav
+sample=../Samples/black/rel/release_g3_rr1.flac
 lokey=43
 hikey=43
 seq_length=4
 pitch_keycenter=43
 
 <region>
-sample=../Samples/black/rel/release_ab3_rr4.wav
+sample=../Samples/black/rel/release_ab3_rr4.flac
 lokey=44
 hikey=44
 seq_length=4
@@ -132,7 +132,7 @@ seq_position=4
 pitch_keycenter=44
 
 <region>
-sample=../Samples/black/rel/release_ab3_rr3.wav
+sample=../Samples/black/rel/release_ab3_rr3.flac
 lokey=44
 hikey=44
 seq_length=4
@@ -140,7 +140,7 @@ seq_position=3
 pitch_keycenter=44
 
 <region>
-sample=../Samples/black/rel/release_ab3_rr2.wav
+sample=../Samples/black/rel/release_ab3_rr2.flac
 lokey=44
 hikey=44
 seq_length=4
@@ -148,14 +148,14 @@ seq_position=2
 pitch_keycenter=44
 
 <region>
-sample=../Samples/black/rel/release_ab3_rr1.wav
+sample=../Samples/black/rel/release_ab3_rr1.flac
 lokey=44
 hikey=44
 seq_length=4
 pitch_keycenter=44
 
 <region>
-sample=../Samples/black/rel/release_a3_rr4.wav
+sample=../Samples/black/rel/release_a3_rr4.flac
 lokey=45
 hikey=45
 seq_length=4
@@ -163,7 +163,7 @@ seq_position=4
 pitch_keycenter=45
 
 <region>
-sample=../Samples/black/rel/release_a3_rr3.wav
+sample=../Samples/black/rel/release_a3_rr3.flac
 lokey=45
 hikey=45
 seq_length=4
@@ -171,7 +171,7 @@ seq_position=3
 pitch_keycenter=45
 
 <region>
-sample=../Samples/black/rel/release_a3_rr2.wav
+sample=../Samples/black/rel/release_a3_rr2.flac
 lokey=45
 hikey=45
 seq_length=4
@@ -179,14 +179,14 @@ seq_position=2
 pitch_keycenter=45
 
 <region>
-sample=../Samples/black/rel/release_a3_rr1.wav
+sample=../Samples/black/rel/release_a3_rr1.flac
 lokey=45
 hikey=45
 seq_length=4
 pitch_keycenter=45
 
 <region>
-sample=../Samples/black/rel/release_bb3_rr4.wav
+sample=../Samples/black/rel/release_bb3_rr4.flac
 lokey=46
 hikey=46
 seq_length=4
@@ -194,7 +194,7 @@ seq_position=4
 pitch_keycenter=46
 
 <region>
-sample=../Samples/black/rel/release_bb3_rr3.wav
+sample=../Samples/black/rel/release_bb3_rr3.flac
 lokey=46
 hikey=46
 seq_length=4
@@ -202,7 +202,7 @@ seq_position=3
 pitch_keycenter=46
 
 <region>
-sample=../Samples/black/rel/release_bb3_rr2.wav
+sample=../Samples/black/rel/release_bb3_rr2.flac
 lokey=46
 hikey=46
 seq_length=4
@@ -210,14 +210,14 @@ seq_position=2
 pitch_keycenter=46
 
 <region>
-sample=../Samples/black/rel/release_bb3_rr1.wav
+sample=../Samples/black/rel/release_bb3_rr1.flac
 lokey=46
 hikey=46
 seq_length=4
 pitch_keycenter=46
 
 <region>
-sample=../Samples/black/rel/release_b3_rr4.wav
+sample=../Samples/black/rel/release_b3_rr4.flac
 lokey=47
 hikey=47
 seq_length=4
@@ -225,7 +225,7 @@ seq_position=4
 pitch_keycenter=47
 
 <region>
-sample=../Samples/black/rel/release_b3_rr3.wav
+sample=../Samples/black/rel/release_b3_rr3.flac
 lokey=47
 hikey=47
 seq_length=4
@@ -233,7 +233,7 @@ seq_position=3
 pitch_keycenter=47
 
 <region>
-sample=../Samples/black/rel/release_b3_rr2.wav
+sample=../Samples/black/rel/release_b3_rr2.flac
 lokey=47
 hikey=47
 seq_length=4
@@ -241,14 +241,14 @@ seq_position=2
 pitch_keycenter=47
 
 <region>
-sample=../Samples/black/rel/release_b3_rr1.wav
+sample=../Samples/black/rel/release_b3_rr1.flac
 lokey=47
 hikey=47
 seq_length=4
 pitch_keycenter=47
 
 <region>
-sample=../Samples/black/rel/release_c4_rr4.wav
+sample=../Samples/black/rel/release_c4_rr4.flac
 lokey=48
 hikey=48
 seq_length=4
@@ -256,7 +256,7 @@ seq_position=4
 pitch_keycenter=48
 
 <region>
-sample=../Samples/black/rel/release_c4_rr3.wav
+sample=../Samples/black/rel/release_c4_rr3.flac
 lokey=48
 hikey=48
 seq_length=4
@@ -264,7 +264,7 @@ seq_position=3
 pitch_keycenter=48
 
 <region>
-sample=../Samples/black/rel/release_c4_rr2.wav
+sample=../Samples/black/rel/release_c4_rr2.flac
 lokey=48
 hikey=48
 seq_length=4
@@ -272,14 +272,14 @@ seq_position=2
 pitch_keycenter=48
 
 <region>
-sample=../Samples/black/rel/release_c4_rr1.wav
+sample=../Samples/black/rel/release_c4_rr1.flac
 lokey=48
 hikey=48
 seq_length=4
 pitch_keycenter=48
 
 <region>
-sample=../Samples/black/rel/release_db4_rr4.wav
+sample=../Samples/black/rel/release_db4_rr4.flac
 lokey=49
 hikey=49
 seq_length=4
@@ -287,7 +287,7 @@ seq_position=4
 pitch_keycenter=49
 
 <region>
-sample=../Samples/black/rel/release_db4_rr3.wav
+sample=../Samples/black/rel/release_db4_rr3.flac
 lokey=49
 hikey=49
 seq_length=4
@@ -295,7 +295,7 @@ seq_position=3
 pitch_keycenter=49
 
 <region>
-sample=../Samples/black/rel/release_db4_rr2.wav
+sample=../Samples/black/rel/release_db4_rr2.flac
 lokey=49
 hikey=49
 seq_length=4
@@ -303,14 +303,14 @@ seq_position=2
 pitch_keycenter=49
 
 <region>
-sample=../Samples/black/rel/release_db4_rr1.wav
+sample=../Samples/black/rel/release_db4_rr1.flac
 lokey=49
 hikey=49
 seq_length=4
 pitch_keycenter=49
 
 <region>
-sample=../Samples/black/rel/release_d4_rr4.wav
+sample=../Samples/black/rel/release_d4_rr4.flac
 lokey=50
 hikey=50
 seq_length=4
@@ -318,7 +318,7 @@ seq_position=4
 pitch_keycenter=50
 
 <region>
-sample=../Samples/black/rel/release_d4_rr3.wav
+sample=../Samples/black/rel/release_d4_rr3.flac
 lokey=50
 hikey=50
 seq_length=4
@@ -326,7 +326,7 @@ seq_position=3
 pitch_keycenter=50
 
 <region>
-sample=../Samples/black/rel/release_d4_rr2.wav
+sample=../Samples/black/rel/release_d4_rr2.flac
 lokey=50
 hikey=50
 seq_length=4
@@ -334,14 +334,14 @@ seq_position=2
 pitch_keycenter=50
 
 <region>
-sample=../Samples/black/rel/release_d4_rr1.wav
+sample=../Samples/black/rel/release_d4_rr1.flac
 lokey=50
 hikey=50
 seq_length=4
 pitch_keycenter=50
 
 <region>
-sample=../Samples/black/rel/release_eb4_rr4.wav
+sample=../Samples/black/rel/release_eb4_rr4.flac
 lokey=51
 hikey=51
 seq_length=4
@@ -349,7 +349,7 @@ seq_position=4
 pitch_keycenter=51
 
 <region>
-sample=../Samples/black/rel/release_eb4_rr3.wav
+sample=../Samples/black/rel/release_eb4_rr3.flac
 lokey=51
 hikey=51
 seq_length=4
@@ -357,7 +357,7 @@ seq_position=3
 pitch_keycenter=51
 
 <region>
-sample=../Samples/black/rel/release_eb4_rr2.wav
+sample=../Samples/black/rel/release_eb4_rr2.flac
 lokey=51
 hikey=51
 seq_length=4
@@ -365,14 +365,14 @@ seq_position=2
 pitch_keycenter=51
 
 <region>
-sample=../Samples/black/rel/release_eb4_rr1.wav
+sample=../Samples/black/rel/release_eb4_rr1.flac
 lokey=51
 hikey=51
 seq_length=4
 pitch_keycenter=51
 
 <region>
-sample=../Samples/black/rel/release_e4_rr4.wav
+sample=../Samples/black/rel/release_e4_rr4.flac
 lokey=52
 hikey=52
 seq_length=4
@@ -380,7 +380,7 @@ seq_position=4
 pitch_keycenter=52
 
 <region>
-sample=../Samples/black/rel/release_e4_rr3.wav
+sample=../Samples/black/rel/release_e4_rr3.flac
 lokey=52
 hikey=52
 seq_length=4
@@ -388,7 +388,7 @@ seq_position=3
 pitch_keycenter=52
 
 <region>
-sample=../Samples/black/rel/release_e4_rr2.wav
+sample=../Samples/black/rel/release_e4_rr2.flac
 lokey=52
 hikey=52
 seq_length=4
@@ -396,14 +396,14 @@ seq_position=2
 pitch_keycenter=52
 
 <region>
-sample=../Samples/black/rel/release_e4_rr1.wav
+sample=../Samples/black/rel/release_e4_rr1.flac
 lokey=52
 hikey=52
 seq_length=4
 pitch_keycenter=52
 
 <region>
-sample=../Samples/black/rel/release_f4_rr4.wav
+sample=../Samples/black/rel/release_f4_rr4.flac
 lokey=53
 hikey=53
 seq_length=4
@@ -411,7 +411,7 @@ seq_position=4
 pitch_keycenter=53
 
 <region>
-sample=../Samples/black/rel/release_f4_rr3.wav
+sample=../Samples/black/rel/release_f4_rr3.flac
 lokey=53
 hikey=53
 seq_length=4
@@ -419,7 +419,7 @@ seq_position=3
 pitch_keycenter=53
 
 <region>
-sample=../Samples/black/rel/release_f4_rr2.wav
+sample=../Samples/black/rel/release_f4_rr2.flac
 lokey=53
 hikey=53
 seq_length=4
@@ -427,14 +427,14 @@ seq_position=2
 pitch_keycenter=53
 
 <region>
-sample=../Samples/black/rel/release_f4_rr1.wav
+sample=../Samples/black/rel/release_f4_rr1.flac
 lokey=53
 hikey=53
 seq_length=4
 pitch_keycenter=53
 
 <region>
-sample=../Samples/black/rel/release_gb4_rr4.wav
+sample=../Samples/black/rel/release_gb4_rr4.flac
 lokey=54
 hikey=54
 seq_length=4
@@ -442,7 +442,7 @@ seq_position=4
 pitch_keycenter=54
 
 <region>
-sample=../Samples/black/rel/release_gb4_rr3.wav
+sample=../Samples/black/rel/release_gb4_rr3.flac
 lokey=54
 hikey=54
 seq_length=4
@@ -450,7 +450,7 @@ seq_position=3
 pitch_keycenter=54
 
 <region>
-sample=../Samples/black/rel/release_gb4_rr2.wav
+sample=../Samples/black/rel/release_gb4_rr2.flac
 lokey=54
 hikey=54
 seq_length=4
@@ -458,14 +458,14 @@ seq_position=2
 pitch_keycenter=54
 
 <region>
-sample=../Samples/black/rel/release_gb4_rr1.wav
+sample=../Samples/black/rel/release_gb4_rr1.flac
 lokey=54
 hikey=54
 seq_length=4
 pitch_keycenter=54
 
 <region>
-sample=../Samples/black/rel/release_g4_rr4.wav
+sample=../Samples/black/rel/release_g4_rr4.flac
 lokey=55
 hikey=55
 seq_length=4
@@ -473,7 +473,7 @@ seq_position=4
 pitch_keycenter=55
 
 <region>
-sample=../Samples/black/rel/release_g4_rr3.wav
+sample=../Samples/black/rel/release_g4_rr3.flac
 lokey=55
 hikey=55
 seq_length=4
@@ -481,7 +481,7 @@ seq_position=3
 pitch_keycenter=55
 
 <region>
-sample=../Samples/black/rel/release_g4_rr2.wav
+sample=../Samples/black/rel/release_g4_rr2.flac
 lokey=55
 hikey=55
 seq_length=4
@@ -489,14 +489,14 @@ seq_position=2
 pitch_keycenter=55
 
 <region>
-sample=../Samples/black/rel/release_g4_rr1.wav
+sample=../Samples/black/rel/release_g4_rr1.flac
 lokey=55
 hikey=55
 seq_length=4
 pitch_keycenter=55
 
 <region>
-sample=../Samples/black/rel/release_ab4_rr4.wav
+sample=../Samples/black/rel/release_ab4_rr4.flac
 lokey=56
 hikey=56
 seq_length=4
@@ -504,7 +504,7 @@ seq_position=4
 pitch_keycenter=56
 
 <region>
-sample=../Samples/black/rel/release_ab4_rr3.wav
+sample=../Samples/black/rel/release_ab4_rr3.flac
 lokey=56
 hikey=56
 seq_length=4
@@ -512,7 +512,7 @@ seq_position=3
 pitch_keycenter=56
 
 <region>
-sample=../Samples/black/rel/release_ab4_rr2.wav
+sample=../Samples/black/rel/release_ab4_rr2.flac
 lokey=56
 hikey=56
 seq_length=4
@@ -520,14 +520,14 @@ seq_position=2
 pitch_keycenter=56
 
 <region>
-sample=../Samples/black/rel/release_ab4_rr1.wav
+sample=../Samples/black/rel/release_ab4_rr1.flac
 lokey=56
 hikey=56
 seq_length=4
 pitch_keycenter=56
 
 <region>
-sample=../Samples/black/rel/release_a4_rr4.wav
+sample=../Samples/black/rel/release_a4_rr4.flac
 lokey=57
 hikey=57
 seq_length=4
@@ -535,7 +535,7 @@ seq_position=4
 pitch_keycenter=57
 
 <region>
-sample=../Samples/black/rel/release_a4_rr3.wav
+sample=../Samples/black/rel/release_a4_rr3.flac
 lokey=57
 hikey=57
 seq_length=4
@@ -543,7 +543,7 @@ seq_position=3
 pitch_keycenter=57
 
 <region>
-sample=../Samples/black/rel/release_a4_rr2.wav
+sample=../Samples/black/rel/release_a4_rr2.flac
 lokey=57
 hikey=57
 seq_length=4
@@ -551,14 +551,14 @@ seq_position=2
 pitch_keycenter=57
 
 <region>
-sample=../Samples/black/rel/release_a4_rr1.wav
+sample=../Samples/black/rel/release_a4_rr1.flac
 lokey=57
 hikey=57
 seq_length=4
 pitch_keycenter=57
 
 <region>
-sample=../Samples/black/rel/release_bb4_rr4.wav
+sample=../Samples/black/rel/release_bb4_rr4.flac
 lokey=58
 hikey=58
 seq_length=4
@@ -566,7 +566,7 @@ seq_position=4
 pitch_keycenter=58
 
 <region>
-sample=../Samples/black/rel/release_bb4_rr3.wav
+sample=../Samples/black/rel/release_bb4_rr3.flac
 lokey=58
 hikey=58
 seq_length=4
@@ -574,7 +574,7 @@ seq_position=3
 pitch_keycenter=58
 
 <region>
-sample=../Samples/black/rel/release_bb4_rr2.wav
+sample=../Samples/black/rel/release_bb4_rr2.flac
 lokey=58
 hikey=58
 seq_length=4
@@ -582,14 +582,14 @@ seq_position=2
 pitch_keycenter=58
 
 <region>
-sample=../Samples/black/rel/release_bb4_rr1.wav
+sample=../Samples/black/rel/release_bb4_rr1.flac
 lokey=58
 hikey=58
 seq_length=4
 pitch_keycenter=58
 
 <region>
-sample=../Samples/black/rel/release_b4_rr4.wav
+sample=../Samples/black/rel/release_b4_rr4.flac
 lokey=59
 hikey=59
 seq_length=4
@@ -597,7 +597,7 @@ seq_position=4
 pitch_keycenter=59
 
 <region>
-sample=../Samples/black/rel/release_b4_rr3.wav
+sample=../Samples/black/rel/release_b4_rr3.flac
 lokey=59
 hikey=59
 seq_length=4
@@ -605,7 +605,7 @@ seq_position=3
 pitch_keycenter=59
 
 <region>
-sample=../Samples/black/rel/release_b4_rr2.wav
+sample=../Samples/black/rel/release_b4_rr2.flac
 lokey=59
 hikey=59
 seq_length=4
@@ -613,41 +613,41 @@ seq_position=2
 pitch_keycenter=59
 
 <region>
-sample=../Samples/black/rel/release_b4_rr1.wav
+sample=../Samples/black/rel/release_b4_rr1.flac
 lokey=59
 hikey=59
 seq_length=4
 pitch_keycenter=59
 
 <region>
-sample=../Samples/black/rel/release_c5_rr4.wav
+sample=../Samples/black/rel/release_c5_rr4.flac
 lokey=60
 hikey=60
 seq_length=4
 seq_position=4
 
 <region>
-sample=../Samples/black/rel/release_c5_rr3.wav
+sample=../Samples/black/rel/release_c5_rr3.flac
 lokey=60
 hikey=60
 seq_length=4
 seq_position=3
 
 <region>
-sample=../Samples/black/rel/release_c5_rr2.wav
+sample=../Samples/black/rel/release_c5_rr2.flac
 lokey=60
 hikey=60
 seq_length=4
 seq_position=2
 
 <region>
-sample=../Samples/black/rel/release_c5_rr1.wav
+sample=../Samples/black/rel/release_c5_rr1.flac
 lokey=60
 hikey=60
 seq_length=4
 
 <region>
-sample=../Samples/black/rel/release_db5_rr4.wav
+sample=../Samples/black/rel/release_db5_rr4.flac
 lokey=61
 hikey=61
 seq_length=4
@@ -655,7 +655,7 @@ seq_position=4
 pitch_keycenter=61
 
 <region>
-sample=../Samples/black/rel/release_db5_rr3.wav
+sample=../Samples/black/rel/release_db5_rr3.flac
 lokey=61
 hikey=61
 seq_length=4
@@ -663,7 +663,7 @@ seq_position=3
 pitch_keycenter=61
 
 <region>
-sample=../Samples/black/rel/release_db5_rr2.wav
+sample=../Samples/black/rel/release_db5_rr2.flac
 lokey=61
 hikey=61
 seq_length=4
@@ -671,14 +671,14 @@ seq_position=2
 pitch_keycenter=61
 
 <region>
-sample=../Samples/black/rel/release_db5_rr1.wav
+sample=../Samples/black/rel/release_db5_rr1.flac
 lokey=61
 hikey=61
 seq_length=4
 pitch_keycenter=61
 
 <region>
-sample=../Samples/black/rel/release_d5_rr4.wav
+sample=../Samples/black/rel/release_d5_rr4.flac
 lokey=62
 hikey=62
 seq_length=4
@@ -686,7 +686,7 @@ seq_position=4
 pitch_keycenter=62
 
 <region>
-sample=../Samples/black/rel/release_d5_rr3.wav
+sample=../Samples/black/rel/release_d5_rr3.flac
 lokey=62
 hikey=62
 seq_length=4
@@ -694,7 +694,7 @@ seq_position=3
 pitch_keycenter=62
 
 <region>
-sample=../Samples/black/rel/release_d5_rr2.wav
+sample=../Samples/black/rel/release_d5_rr2.flac
 lokey=62
 hikey=62
 seq_length=4
@@ -702,14 +702,14 @@ seq_position=2
 pitch_keycenter=62
 
 <region>
-sample=../Samples/black/rel/release_d5_rr1.wav
+sample=../Samples/black/rel/release_d5_rr1.flac
 lokey=62
 hikey=62
 seq_length=4
 pitch_keycenter=62
 
 <region>
-sample=../Samples/black/rel/release_eb5_rr4.wav
+sample=../Samples/black/rel/release_eb5_rr4.flac
 lokey=63
 hikey=63
 seq_length=4
@@ -717,7 +717,7 @@ seq_position=4
 pitch_keycenter=63
 
 <region>
-sample=../Samples/black/rel/release_eb5_rr3.wav
+sample=../Samples/black/rel/release_eb5_rr3.flac
 lokey=63
 hikey=63
 seq_length=4
@@ -725,7 +725,7 @@ seq_position=3
 pitch_keycenter=63
 
 <region>
-sample=../Samples/black/rel/release_eb5_rr2.wav
+sample=../Samples/black/rel/release_eb5_rr2.flac
 lokey=63
 hikey=63
 seq_length=4
@@ -733,14 +733,14 @@ seq_position=2
 pitch_keycenter=63
 
 <region>
-sample=../Samples/black/rel/release_eb5_rr1.wav
+sample=../Samples/black/rel/release_eb5_rr1.flac
 lokey=63
 hikey=63
 seq_length=4
 pitch_keycenter=63
 
 <region>
-sample=../Samples/black/rel/release_e5_rr4.wav
+sample=../Samples/black/rel/release_e5_rr4.flac
 lokey=64
 hikey=64
 seq_length=4
@@ -748,7 +748,7 @@ seq_position=4
 pitch_keycenter=64
 
 <region>
-sample=../Samples/black/rel/release_e5_rr3.wav
+sample=../Samples/black/rel/release_e5_rr3.flac
 lokey=64
 hikey=64
 seq_length=4
@@ -756,7 +756,7 @@ seq_position=3
 pitch_keycenter=64
 
 <region>
-sample=../Samples/black/rel/release_e5_rr2.wav
+sample=../Samples/black/rel/release_e5_rr2.flac
 lokey=64
 hikey=64
 seq_length=4
@@ -764,14 +764,14 @@ seq_position=2
 pitch_keycenter=64
 
 <region>
-sample=../Samples/black/rel/release_e5_rr1.wav
+sample=../Samples/black/rel/release_e5_rr1.flac
 lokey=64
 hikey=64
 seq_length=4
 pitch_keycenter=64
 
 <region>
-sample=../Samples/black/rel/release_f5_rr4.wav
+sample=../Samples/black/rel/release_f5_rr4.flac
 lokey=65
 hikey=65
 seq_length=4
@@ -779,7 +779,7 @@ seq_position=4
 pitch_keycenter=65
 
 <region>
-sample=../Samples/black/rel/release_f5_rr3.wav
+sample=../Samples/black/rel/release_f5_rr3.flac
 lokey=65
 hikey=65
 seq_length=4
@@ -787,7 +787,7 @@ seq_position=3
 pitch_keycenter=65
 
 <region>
-sample=../Samples/black/rel/release_f5_rr2.wav
+sample=../Samples/black/rel/release_f5_rr2.flac
 lokey=65
 hikey=65
 seq_length=4
@@ -795,14 +795,14 @@ seq_position=2
 pitch_keycenter=65
 
 <region>
-sample=../Samples/black/rel/release_f5_rr1.wav
+sample=../Samples/black/rel/release_f5_rr1.flac
 lokey=65
 hikey=65
 seq_length=4
 pitch_keycenter=65
 
 <region>
-sample=../Samples/black/rel/release_gb5_rr4.wav
+sample=../Samples/black/rel/release_gb5_rr4.flac
 lokey=66
 hikey=66
 seq_length=4
@@ -810,7 +810,7 @@ seq_position=4
 pitch_keycenter=66
 
 <region>
-sample=../Samples/black/rel/release_gb5_rr3.wav
+sample=../Samples/black/rel/release_gb5_rr3.flac
 lokey=66
 hikey=66
 seq_length=4
@@ -818,7 +818,7 @@ seq_position=3
 pitch_keycenter=66
 
 <region>
-sample=../Samples/black/rel/release_gb5_rr2.wav
+sample=../Samples/black/rel/release_gb5_rr2.flac
 lokey=66
 hikey=66
 seq_length=4
@@ -826,14 +826,14 @@ seq_position=2
 pitch_keycenter=66
 
 <region>
-sample=../Samples/black/rel/release_gb5_rr1.wav
+sample=../Samples/black/rel/release_gb5_rr1.flac
 lokey=66
 hikey=66
 seq_length=4
 pitch_keycenter=66
 
 <region>
-sample=../Samples/black/rel/release_g5_rr4.wav
+sample=../Samples/black/rel/release_g5_rr4.flac
 lokey=67
 hikey=67
 seq_length=4
@@ -841,7 +841,7 @@ seq_position=4
 pitch_keycenter=67
 
 <region>
-sample=../Samples/black/rel/release_g5_rr3.wav
+sample=../Samples/black/rel/release_g5_rr3.flac
 lokey=67
 hikey=67
 seq_length=4
@@ -849,7 +849,7 @@ seq_position=3
 pitch_keycenter=67
 
 <region>
-sample=../Samples/black/rel/release_g5_rr2.wav
+sample=../Samples/black/rel/release_g5_rr2.flac
 lokey=67
 hikey=67
 seq_length=4
@@ -857,14 +857,14 @@ seq_position=2
 pitch_keycenter=67
 
 <region>
-sample=../Samples/black/rel/release_g5_rr1.wav
+sample=../Samples/black/rel/release_g5_rr1.flac
 lokey=67
 hikey=67
 seq_length=4
 pitch_keycenter=67
 
 <region>
-sample=../Samples/black/rel/release_ab5_rr4.wav
+sample=../Samples/black/rel/release_ab5_rr4.flac
 lokey=68
 hikey=68
 seq_length=4
@@ -872,7 +872,7 @@ seq_position=4
 pitch_keycenter=68
 
 <region>
-sample=../Samples/black/rel/release_ab5_rr3.wav
+sample=../Samples/black/rel/release_ab5_rr3.flac
 lokey=68
 hikey=68
 seq_length=4
@@ -880,7 +880,7 @@ seq_position=3
 pitch_keycenter=68
 
 <region>
-sample=../Samples/black/rel/release_ab5_rr2.wav
+sample=../Samples/black/rel/release_ab5_rr2.flac
 lokey=68
 hikey=68
 seq_length=4
@@ -888,14 +888,14 @@ seq_position=2
 pitch_keycenter=68
 
 <region>
-sample=../Samples/black/rel/release_ab5_rr1.wav
+sample=../Samples/black/rel/release_ab5_rr1.flac
 lokey=68
 hikey=68
 seq_length=4
 pitch_keycenter=68
 
 <region>
-sample=../Samples/black/rel/release_a5_rr4.wav
+sample=../Samples/black/rel/release_a5_rr4.flac
 lokey=69
 hikey=69
 seq_length=4
@@ -903,7 +903,7 @@ seq_position=4
 pitch_keycenter=69
 
 <region>
-sample=../Samples/black/rel/release_a5_rr3.wav
+sample=../Samples/black/rel/release_a5_rr3.flac
 lokey=69
 hikey=69
 seq_length=4
@@ -911,7 +911,7 @@ seq_position=3
 pitch_keycenter=69
 
 <region>
-sample=../Samples/black/rel/release_a5_rr2.wav
+sample=../Samples/black/rel/release_a5_rr2.flac
 lokey=69
 hikey=69
 seq_length=4
@@ -919,14 +919,14 @@ seq_position=2
 pitch_keycenter=69
 
 <region>
-sample=../Samples/black/rel/release_a5_rr1.wav
+sample=../Samples/black/rel/release_a5_rr1.flac
 lokey=69
 hikey=69
 seq_length=4
 pitch_keycenter=69
 
 <region>
-sample=../Samples/black/rel/release_bb5_rr4.wav
+sample=../Samples/black/rel/release_bb5_rr4.flac
 lokey=70
 hikey=70
 seq_length=4
@@ -934,7 +934,7 @@ seq_position=4
 pitch_keycenter=70
 
 <region>
-sample=../Samples/black/rel/release_bb5_rr3.wav
+sample=../Samples/black/rel/release_bb5_rr3.flac
 lokey=70
 hikey=70
 seq_length=4
@@ -942,7 +942,7 @@ seq_position=3
 pitch_keycenter=70
 
 <region>
-sample=../Samples/black/rel/release_bb5_rr2.wav
+sample=../Samples/black/rel/release_bb5_rr2.flac
 lokey=70
 hikey=70
 seq_length=4
@@ -950,14 +950,14 @@ seq_position=2
 pitch_keycenter=70
 
 <region>
-sample=../Samples/black/rel/release_bb5_rr1.wav
+sample=../Samples/black/rel/release_bb5_rr1.flac
 lokey=70
 hikey=70
 seq_length=4
 pitch_keycenter=70
 
 <region>
-sample=../Samples/black/rel/release_b5_rr4.wav
+sample=../Samples/black/rel/release_b5_rr4.flac
 lokey=71
 hikey=71
 seq_length=4
@@ -965,7 +965,7 @@ seq_position=4
 pitch_keycenter=71
 
 <region>
-sample=../Samples/black/rel/release_b5_rr3.wav
+sample=../Samples/black/rel/release_b5_rr3.flac
 lokey=71
 hikey=71
 seq_length=4
@@ -973,7 +973,7 @@ seq_position=3
 pitch_keycenter=71
 
 <region>
-sample=../Samples/black/rel/release_b5_rr2.wav
+sample=../Samples/black/rel/release_b5_rr2.flac
 lokey=71
 hikey=71
 seq_length=4
@@ -981,14 +981,14 @@ seq_position=2
 pitch_keycenter=71
 
 <region>
-sample=../Samples/black/rel/release_b5_rr1.wav
+sample=../Samples/black/rel/release_b5_rr1.flac
 lokey=71
 hikey=71
 seq_length=4
 pitch_keycenter=71
 
 <region>
-sample=../Samples/black/rel/release_c6_rr4.wav
+sample=../Samples/black/rel/release_c6_rr4.flac
 lokey=72
 hikey=72
 seq_length=4
@@ -996,7 +996,7 @@ seq_position=4
 pitch_keycenter=72
 
 <region>
-sample=../Samples/black/rel/release_c6_rr3.wav
+sample=../Samples/black/rel/release_c6_rr3.flac
 lokey=72
 hikey=72
 seq_length=4
@@ -1004,7 +1004,7 @@ seq_position=3
 pitch_keycenter=72
 
 <region>
-sample=../Samples/black/rel/release_c6_rr2.wav
+sample=../Samples/black/rel/release_c6_rr2.flac
 lokey=72
 hikey=72
 seq_length=4
@@ -1012,14 +1012,14 @@ seq_position=2
 pitch_keycenter=72
 
 <region>
-sample=../Samples/black/rel/release_c6_rr1.wav
+sample=../Samples/black/rel/release_c6_rr1.flac
 lokey=72
 hikey=72
 seq_length=4
 pitch_keycenter=72
 
 <region>
-sample=../Samples/black/rel/release_db6_rr4.wav
+sample=../Samples/black/rel/release_db6_rr4.flac
 lokey=73
 hikey=73
 seq_length=4
@@ -1027,7 +1027,7 @@ seq_position=4
 pitch_keycenter=73
 
 <region>
-sample=../Samples/black/rel/release_db6_rr3.wav
+sample=../Samples/black/rel/release_db6_rr3.flac
 lokey=73
 hikey=73
 seq_length=4
@@ -1035,7 +1035,7 @@ seq_position=3
 pitch_keycenter=73
 
 <region>
-sample=../Samples/black/rel/release_db6_rr2.wav
+sample=../Samples/black/rel/release_db6_rr2.flac
 lokey=73
 hikey=73
 seq_length=4
@@ -1043,14 +1043,14 @@ seq_position=2
 pitch_keycenter=73
 
 <region>
-sample=../Samples/black/rel/release_db6_rr1.wav
+sample=../Samples/black/rel/release_db6_rr1.flac
 lokey=73
 hikey=73
 seq_length=4
 pitch_keycenter=73
 
 <region>
-sample=../Samples/black/rel/release_d6_rr4.wav
+sample=../Samples/black/rel/release_d6_rr4.flac
 lokey=74
 hikey=74
 seq_length=4
@@ -1058,7 +1058,7 @@ seq_position=4
 pitch_keycenter=74
 
 <region>
-sample=../Samples/black/rel/release_d6_rr3.wav
+sample=../Samples/black/rel/release_d6_rr3.flac
 lokey=74
 hikey=74
 seq_length=4
@@ -1066,7 +1066,7 @@ seq_position=3
 pitch_keycenter=74
 
 <region>
-sample=../Samples/black/rel/release_d6_rr2.wav
+sample=../Samples/black/rel/release_d6_rr2.flac
 lokey=74
 hikey=74
 seq_length=4
@@ -1074,14 +1074,14 @@ seq_position=2
 pitch_keycenter=74
 
 <region>
-sample=../Samples/black/rel/release_d6_rr1.wav
+sample=../Samples/black/rel/release_d6_rr1.flac
 lokey=74
 hikey=74
 seq_length=4
 pitch_keycenter=74
 
 <region>
-sample=../Samples/black/rel/release_eb6_rr4.wav
+sample=../Samples/black/rel/release_eb6_rr4.flac
 lokey=75
 hikey=75
 seq_length=4
@@ -1089,7 +1089,7 @@ seq_position=4
 pitch_keycenter=75
 
 <region>
-sample=../Samples/black/rel/release_eb6_rr3.wav
+sample=../Samples/black/rel/release_eb6_rr3.flac
 lokey=75
 hikey=75
 seq_length=4
@@ -1097,7 +1097,7 @@ seq_position=3
 pitch_keycenter=75
 
 <region>
-sample=../Samples/black/rel/release_eb6_rr2.wav
+sample=../Samples/black/rel/release_eb6_rr2.flac
 lokey=75
 hikey=75
 seq_length=4
@@ -1105,14 +1105,14 @@ seq_position=2
 pitch_keycenter=75
 
 <region>
-sample=../Samples/black/rel/release_eb6_rr1.wav
+sample=../Samples/black/rel/release_eb6_rr1.flac
 lokey=75
 hikey=75
 seq_length=4
 pitch_keycenter=75
 
 <region>
-sample=../Samples/black/rel/release_e6_rr4.wav
+sample=../Samples/black/rel/release_e6_rr4.flac
 lokey=76
 hikey=76
 seq_length=4
@@ -1120,7 +1120,7 @@ seq_position=4
 pitch_keycenter=76
 
 <region>
-sample=../Samples/black/rel/release_e6_rr3.wav
+sample=../Samples/black/rel/release_e6_rr3.flac
 lokey=76
 hikey=76
 seq_length=4
@@ -1128,7 +1128,7 @@ seq_position=3
 pitch_keycenter=76
 
 <region>
-sample=../Samples/black/rel/release_e6_rr2.wav
+sample=../Samples/black/rel/release_e6_rr2.flac
 lokey=76
 hikey=76
 seq_length=4
@@ -1136,14 +1136,14 @@ seq_position=2
 pitch_keycenter=76
 
 <region>
-sample=../Samples/black/rel/release_e6_rr1.wav
+sample=../Samples/black/rel/release_e6_rr1.flac
 lokey=76
 hikey=76
 seq_length=4
 pitch_keycenter=76
 
 <region>
-sample=../Samples/black/rel/release_f6_rr4.wav
+sample=../Samples/black/rel/release_f6_rr4.flac
 lokey=77
 hikey=77
 seq_length=4
@@ -1151,7 +1151,7 @@ seq_position=4
 pitch_keycenter=77
 
 <region>
-sample=../Samples/black/rel/release_f6_rr3.wav
+sample=../Samples/black/rel/release_f6_rr3.flac
 lokey=77
 hikey=77
 seq_length=4
@@ -1159,7 +1159,7 @@ seq_position=3
 pitch_keycenter=77
 
 <region>
-sample=../Samples/black/rel/release_f6_rr2.wav
+sample=../Samples/black/rel/release_f6_rr2.flac
 lokey=77
 hikey=77
 seq_length=4
@@ -1167,14 +1167,14 @@ seq_position=2
 pitch_keycenter=77
 
 <region>
-sample=../Samples/black/rel/release_f6_rr1.wav
+sample=../Samples/black/rel/release_f6_rr1.flac
 lokey=77
 hikey=77
 seq_length=4
 pitch_keycenter=77
 
 <region>
-sample=../Samples/black/rel/release_gb6_rr4.wav
+sample=../Samples/black/rel/release_gb6_rr4.flac
 lokey=78
 hikey=78
 seq_length=4
@@ -1182,7 +1182,7 @@ seq_position=4
 pitch_keycenter=78
 
 <region>
-sample=../Samples/black/rel/release_gb6_rr3.wav
+sample=../Samples/black/rel/release_gb6_rr3.flac
 lokey=78
 hikey=78
 seq_length=4
@@ -1190,7 +1190,7 @@ seq_position=3
 pitch_keycenter=78
 
 <region>
-sample=../Samples/black/rel/release_gb6_rr2.wav
+sample=../Samples/black/rel/release_gb6_rr2.flac
 lokey=78
 hikey=78
 seq_length=4
@@ -1198,14 +1198,14 @@ seq_position=2
 pitch_keycenter=78
 
 <region>
-sample=../Samples/black/rel/release_gb6_rr1.wav
+sample=../Samples/black/rel/release_gb6_rr1.flac
 lokey=78
 hikey=78
 seq_length=4
 pitch_keycenter=78
 
 <region>
-sample=../Samples/black/rel/release_g6_rr4.wav
+sample=../Samples/black/rel/release_g6_rr4.flac
 lokey=79
 hikey=79
 seq_length=4
@@ -1213,7 +1213,7 @@ seq_position=4
 pitch_keycenter=79
 
 <region>
-sample=../Samples/black/rel/release_g6_rr3.wav
+sample=../Samples/black/rel/release_g6_rr3.flac
 lokey=79
 hikey=79
 seq_length=4
@@ -1221,7 +1221,7 @@ seq_position=3
 pitch_keycenter=79
 
 <region>
-sample=../Samples/black/rel/release_g6_rr2.wav
+sample=../Samples/black/rel/release_g6_rr2.flac
 lokey=79
 hikey=79
 seq_length=4
@@ -1229,14 +1229,14 @@ seq_position=2
 pitch_keycenter=79
 
 <region>
-sample=../Samples/black/rel/release_g6_rr1.wav
+sample=../Samples/black/rel/release_g6_rr1.flac
 lokey=79
 hikey=79
 seq_length=4
 pitch_keycenter=79
 
 <region>
-sample=../Samples/black/rel/release_ab6_rr4.wav
+sample=../Samples/black/rel/release_ab6_rr4.flac
 lokey=80
 hikey=80
 seq_length=4
@@ -1244,7 +1244,7 @@ seq_position=4
 pitch_keycenter=80
 
 <region>
-sample=../Samples/black/rel/release_ab6_rr3.wav
+sample=../Samples/black/rel/release_ab6_rr3.flac
 lokey=80
 hikey=80
 seq_length=4
@@ -1252,7 +1252,7 @@ seq_position=3
 pitch_keycenter=80
 
 <region>
-sample=../Samples/black/rel/release_ab6_rr2.wav
+sample=../Samples/black/rel/release_ab6_rr2.flac
 lokey=80
 hikey=80
 seq_length=4
@@ -1260,14 +1260,14 @@ seq_position=2
 pitch_keycenter=80
 
 <region>
-sample=../Samples/black/rel/release_ab6_rr1.wav
+sample=../Samples/black/rel/release_ab6_rr1.flac
 lokey=80
 hikey=80
 seq_length=4
 pitch_keycenter=80
 
 <region>
-sample=../Samples/black/rel/release_a6_rr4.wav
+sample=../Samples/black/rel/release_a6_rr4.flac
 lokey=81
 hikey=81
 seq_length=4
@@ -1275,7 +1275,7 @@ seq_position=4
 pitch_keycenter=81
 
 <region>
-sample=../Samples/black/rel/release_a6_rr3.wav
+sample=../Samples/black/rel/release_a6_rr3.flac
 lokey=81
 hikey=81
 seq_length=4
@@ -1283,7 +1283,7 @@ seq_position=3
 pitch_keycenter=81
 
 <region>
-sample=../Samples/black/rel/release_a6_rr2.wav
+sample=../Samples/black/rel/release_a6_rr2.flac
 lokey=81
 hikey=81
 seq_length=4
@@ -1291,14 +1291,14 @@ seq_position=2
 pitch_keycenter=81
 
 <region>
-sample=../Samples/black/rel/release_a6_rr1.wav
+sample=../Samples/black/rel/release_a6_rr1.flac
 lokey=81
 hikey=81
 seq_length=4
 pitch_keycenter=81
 
 <region>
-sample=../Samples/black/rel/release_bb6_rr4.wav
+sample=../Samples/black/rel/release_bb6_rr4.flac
 lokey=82
 hikey=82
 seq_length=4
@@ -1306,7 +1306,7 @@ seq_position=4
 pitch_keycenter=82
 
 <region>
-sample=../Samples/black/rel/release_bb6_rr3.wav
+sample=../Samples/black/rel/release_bb6_rr3.flac
 lokey=82
 hikey=82
 seq_length=4
@@ -1314,7 +1314,7 @@ seq_position=3
 pitch_keycenter=82
 
 <region>
-sample=../Samples/black/rel/release_bb6_rr2.wav
+sample=../Samples/black/rel/release_bb6_rr2.flac
 lokey=82
 hikey=82
 seq_length=4
@@ -1322,14 +1322,14 @@ seq_position=2
 pitch_keycenter=82
 
 <region>
-sample=../Samples/black/rel/release_bb6_rr1.wav
+sample=../Samples/black/rel/release_bb6_rr1.flac
 lokey=82
 hikey=82
 seq_length=4
 pitch_keycenter=82
 
 <region>
-sample=../Samples/black/rel/release_b6_rr4.wav
+sample=../Samples/black/rel/release_b6_rr4.flac
 lokey=83
 hikey=83
 seq_length=4
@@ -1337,7 +1337,7 @@ seq_position=4
 pitch_keycenter=83
 
 <region>
-sample=../Samples/black/rel/release_b6_rr3.wav
+sample=../Samples/black/rel/release_b6_rr3.flac
 lokey=83
 hikey=83
 seq_length=4
@@ -1345,7 +1345,7 @@ seq_position=3
 pitch_keycenter=83
 
 <region>
-sample=../Samples/black/rel/release_b6_rr2.wav
+sample=../Samples/black/rel/release_b6_rr2.flac
 lokey=83
 hikey=83
 seq_length=4
@@ -1353,14 +1353,14 @@ seq_position=2
 pitch_keycenter=83
 
 <region>
-sample=../Samples/black/rel/release_b6_rr1.wav
+sample=../Samples/black/rel/release_b6_rr1.flac
 lokey=83
 hikey=83
 seq_length=4
 pitch_keycenter=83
 
 <region>
-sample=../Samples/black/rel/release_c7_rr4.wav
+sample=../Samples/black/rel/release_c7_rr4.flac
 lokey=84
 hikey=84
 seq_length=4
@@ -1368,7 +1368,7 @@ seq_position=4
 pitch_keycenter=84
 
 <region>
-sample=../Samples/black/rel/release_c7_rr3.wav
+sample=../Samples/black/rel/release_c7_rr3.flac
 lokey=84
 hikey=84
 seq_length=4
@@ -1376,7 +1376,7 @@ seq_position=3
 pitch_keycenter=84
 
 <region>
-sample=../Samples/black/rel/release_c7_rr2.wav
+sample=../Samples/black/rel/release_c7_rr2.flac
 lokey=84
 hikey=84
 seq_length=4
@@ -1384,14 +1384,14 @@ seq_position=2
 pitch_keycenter=84
 
 <region>
-sample=../Samples/black/rel/release_c7_rr1.wav
+sample=../Samples/black/rel/release_c7_rr1.flac
 lokey=84
 hikey=84
 seq_length=4
 pitch_keycenter=84
 
 <region>
-sample=../Samples/black/rel/release_db7_rr4.wav
+sample=../Samples/black/rel/release_db7_rr4.flac
 lokey=85
 hikey=85
 seq_length=4
@@ -1399,7 +1399,7 @@ seq_position=4
 pitch_keycenter=85
 
 <region>
-sample=../Samples/black/rel/release_db7_rr3.wav
+sample=../Samples/black/rel/release_db7_rr3.flac
 lokey=85
 hikey=85
 seq_length=4
@@ -1407,7 +1407,7 @@ seq_position=3
 pitch_keycenter=85
 
 <region>
-sample=../Samples/black/rel/release_db7_rr2.wav
+sample=../Samples/black/rel/release_db7_rr2.flac
 lokey=85
 hikey=85
 seq_length=4
@@ -1415,14 +1415,14 @@ seq_position=2
 pitch_keycenter=85
 
 <region>
-sample=../Samples/black/rel/release_db7_rr1.wav
+sample=../Samples/black/rel/release_db7_rr1.flac
 lokey=85
 hikey=85
 seq_length=4
 pitch_keycenter=85
 
 <region>
-sample=../Samples/black/rel/release_d7_rr4.wav
+sample=../Samples/black/rel/release_d7_rr4.flac
 lokey=86
 hikey=86
 seq_length=4
@@ -1430,7 +1430,7 @@ seq_position=4
 pitch_keycenter=86
 
 <region>
-sample=../Samples/black/rel/release_d7_rr3.wav
+sample=../Samples/black/rel/release_d7_rr3.flac
 lokey=86
 hikey=86
 seq_length=4
@@ -1438,7 +1438,7 @@ seq_position=3
 pitch_keycenter=86
 
 <region>
-sample=../Samples/black/rel/release_d7_rr2.wav
+sample=../Samples/black/rel/release_d7_rr2.flac
 lokey=86
 hikey=86
 seq_length=4
@@ -1446,7 +1446,7 @@ seq_position=2
 pitch_keycenter=86
 
 <region>
-sample=../Samples/black/rel/release_d7_rr1.wav
+sample=../Samples/black/rel/release_d7_rr1.flac
 lokey=86
 hikey=86
 seq_length=4
